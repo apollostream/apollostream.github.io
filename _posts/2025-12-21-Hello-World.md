@@ -5,7 +5,7 @@ title: Inaugral Post to the Blog "Intellectual Honesty"
 
 
 
-![Intellectual Honesty](intellectual-honesty-image5.jpeg)
+![Intellectual Honesty](../images/intellectual-honesty-image5.jpeg)
 *Intellectual honesty unites us in a shared truth: weighing ideas fairly, correcting mistakes openly, and putting curiosity above ego and tribe.*
 
 ---
