@@ -6,7 +6,7 @@ title: Inaugral Post to the Blog "Intellectual Honesty"
 
 
 ![Intellectual Honesty](../images/intellectual-honesty-image5.jpeg)
-*Intellectual honesty unites us in a shared truth: weighing ideas fairly, correcting mistakes openly, and putting curiosity above ego and tribe.*
+*Intellectual honesty unites us in a shared truth: weighing ideas fairly, correcting mistakes openly, and putting curiosity above ego, bias, expedience, ideology, and tribe.*
 
 ---
 
@@ -16,7 +16,7 @@ My goal is to promote a pragmatic, operational framework for being intellectuall
 
 ## The Importance of Intellectual Honesty
 
-**So, what do I mean by "Intellectual Honesty"?** The framework I impose is detailed in this treatise: ["A Treatise on Intellectual Honesty: Principles and Practice for Rigorous Inquiry"]().
+**So, what do I mean by "Intellectual Honesty"?** The framework I impose is detailed in this treatise: ["A Treatise on Intellectual Honesty: Principles and Practice for Rigorous Inquiry"](https://drive.google.com/file/d/1a1kWi9O42awqfXg_8pdJwB4F7autrrUx/view?usp=sharing).
 
 From the treatise itself:
 
@@ -70,9 +70,9 @@ But to begin with, I'd like to give you a set of examples that illustrate what I
 
 So here are today's topics, with links to the Synopsis and the Full Analysis Report to each.
 
-* "Kennedy Center Analysis"
-  - [Synopsis]()
-  - [Full Analysis Report]()
+* "Kennedy Center Renaming"
+  - [Synopsis](https://drive.google.com/file/d/1fwBpSJI_XldDIjXQJ7i1qcDo3JbDfCU4/view?usp=sharing)
+  - [Full Analysis Report](https://drive.google.com/file/d/1NfQTQ_8eJn6JJg_PFtrIDkqn3Y3jmQ-A/view?usp=sharing)
 * "Tom Brady, NFL GOAT?"
   - [Synopsis]()
   - [Full Analysis Report]()
@@ -84,4 +84,4 @@ So here are today's topics, with links to the Synopsis and the Full Analysis Rep
 
 Thank you for your time and mindshare,
 
--Michael L. Thompson ([LinkedIn profile]())
+-Michael L. Thompson ([LinkedIn profile](https://www.linkedin.com/in/mlthomps))
