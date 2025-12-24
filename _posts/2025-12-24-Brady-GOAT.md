@@ -6,7 +6,8 @@ title: "Tom Brady is the NFL GOAT"
 
 
 <a title="Barcex, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_(cropped)_(cropped).jpg"><img width="512" alt="25th Laureus World Sports Awards - Red Carpet - Tom Brady - 240422 191334 (cropped) (cropped)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg/512px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg?20241216042259"></a>
-*Tom Brady.*
+
+*Tom Brady on the Red Carpet at the 25th Laureus World Sports Awards - source: Wikimedia Commons.*
 
 ---
 
