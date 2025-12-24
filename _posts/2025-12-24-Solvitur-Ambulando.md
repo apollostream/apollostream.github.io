@@ -19,7 +19,7 @@ Along the way, I found much in the medical literature to read about the benefits
 
 **The upshot:** Yes indeed, and in so many ways.
 
-I've had an LLM-based AI agent perform an intellectually honest analysis of this topic before earlier this year but I wanted to see what a multi-paradigm analysis would reveal. It didn't disappoint! Though I wish it had mentioned the benefits of a 10-minute walk right after eating.
+I've had an LLM-based AI agent perform an intellectually honest analysis of this topic earlier this year but I wanted to see what a multi-paradigm analysis would reveal. It didn't disappoint! Though I wish it had mentioned the benefits of a 10-minute walk right after eating.
 
 Below is its plain-language synopsis of its findings, followed by a link to the full BFIH analysis.
 
