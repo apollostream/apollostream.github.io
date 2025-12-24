@@ -24,7 +24,7 @@ Below is its plain-language synopsis of its findings, followed by a link to the 
 
 ---
 
-{% include synopsis-wrefs.md %}
+{% include synopsis-w-refs.md %}
 
 ---
 
