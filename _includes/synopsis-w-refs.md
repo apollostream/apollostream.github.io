@@ -6,23 +6,23 @@
 
 ---
 
-Tom Brady’s career forces a basic question: what does “greatest of all time” (GOAT) mean in a team sport, across eras, and across positions? If “GOAT” means the player with the most sustained championship impact at the most important position in football, Brady has the strongest single résumé the NFL has ever produced.[^19]^,^[^31]^,^[^34] If “GOAT” instead means “best peak performer” or “most dominant relative to positional peers,” the argument becomes less settled and more definition‑dependent.[^20]^,^[^21]^,^[^26]
+Tom Brady’s career forces a basic question: what does “greatest of all time” (GOAT) mean in a team sport, across eras, and across positions? If “GOAT” means the player with the most sustained championship impact at the most important position in football, Brady has the strongest single résumé the NFL has ever produced.[^19],[^31],[^34] If “GOAT” instead means “best peak performer” or “most dominant relative to positional peers,” the argument becomes less settled and more definition‑dependent.[^20],[^21],[^26]
 
 ## Brady’s core case: sustained winning and durability at quarterback
 
-Brady’s headline advantage is team success at historically unprecedented scale: **seven Super Bowl championships** and **ten Super Bowl appearances**, spanning the early 2000s through 2020.[^19]^,^[^34] That kind of sustained postseason attainment is rare in any NFL era and especially difficult in the modern parity ecosystem.
+Brady’s headline advantage is team success at historically unprecedented scale: **seven Super Bowl championships** and **ten Super Bowl appearances**, spanning the early 2000s through 2020.[^19],[^34] That kind of sustained postseason attainment is rare in any NFL era and especially difficult in the modern parity ecosystem.
 
-On the production side, Brady finished as the all‑time leader in major quarterback volume categories (including passing yards and touchdown passes), a function of both longevity and extended high‑level performance.[^31]^,^[^37] Importantly, he did not merely “hang on”: he posted elite‑caliber seasons in his forties, including league‑leading/high‑volume passing years late in his career.[^31]^,^[^25]
+On the production side, Brady finished as the all‑time leader in major quarterback volume categories (including passing yards and touchdown passes), a function of both longevity and extended high‑level performance.[^31],[^37] Importantly, he did not merely “hang on”: he posted elite‑caliber seasons in his forties, including league‑leading/high‑volume passing years late in his career.[^31],[^25]
 
-A key piece of the Brady argument is **portability**. After 20 seasons in New England, Brady moved to Tampa Bay and won a Super Bowl in his first season with a new franchise, coaching staff, and conference.[^19]^,^[^34] That does not prove he succeeded without talent around him (no QB does), but it does materially weaken simplistic “system QB” accounts.
+A key piece of the Brady argument is **portability**. After 20 seasons in New England, Brady moved to Tampa Bay and won a Super Bowl in his first season with a new franchise, coaching staff, and conference.[^19],[^34] That does not prove he succeeded without talent around him (no QB does), but it does materially weaken simplistic “system QB” accounts.
 
 ## The best quarterback‑rivals: peak recognition and peak efficiency
 
-The cleanest counterweight to Brady’s case comes from quarterbacks with stronger “peak/regular‑season dominance” signals. Peyton Manning, for example, is the record holder in NFL MVP awards and is widely cited for his prime‑era command of offense and repeated top‑end seasonal outcomes.[^20]^,^[^26]^,^[^29]^,^[^32]
+The cleanest counterweight to Brady’s case comes from quarterbacks with stronger “peak/regular‑season dominance” signals. Peyton Manning, for example, is the record holder in NFL MVP awards and is widely cited for his prime‑era command of offense and repeated top‑end seasonal outcomes.[^20],[^26],[^29],[^32]
 
-Joe Montana anchors the “peak big‑game perfection” view of quarterback greatness. Montana’s Super Bowl résumé is smaller in volume than Brady’s but exceptionally clean in win‑loss and efficiency framing, and his historical reputation is reinforced by mainstream reference works and Hall of Fame documentation.[^21]^,^[^27]^,^[^30]^,^[^33]
+Joe Montana anchors the “peak big‑game perfection” view of quarterback greatness. Montana’s Super Bowl résumé is smaller in volume than Brady’s but exceptionally clean in win‑loss and efficiency framing, and his historical reputation is reinforced by mainstream reference works and Hall of Fame documentation.[^21],[^27],[^30],[^33]
 
-This yields a persistent tension that evidence can narrow but not erase: **Brady’s longevity + championships + portability** versus **Manning/Montana’s peak‑centric excellence signals**.[^19]^,^[^20]^,^[^21]
+This yields a persistent tension that evidence can narrow but not erase: **Brady’s longevity + championships + portability** versus **Manning/Montana’s peak‑centric excellence signals**.[^19],[^20],[^21]
 
 ## How much do era and measurement choices matter?
 
@@ -34,86 +34,49 @@ Analytic approaches that try to reduce some of these confounds exist (for exampl
 
 Three conclusions are the most defensible and hardest to dislodge:
 
-1. **Brady has the strongest championship‑centric quarterback résumé ever assembled** (7 titles, 10 appearances) and an unmatched combination of longevity and career volume.[^19]^,^[^31]^,^[^34]
-2. **Brady’s Tampa Bay championship substantially strengthens the “individual portability” component** of his case, by showing elite outcomes outside the Patriots’ institutional context.[^34]^,^[^19]
-3. **The proposition “Brady is the NFL GOAT” is not purely factual; it depends on what “GOAT” is allowed to mean** (championship outcomes vs. peak dominance vs. era‑adjusted efficiency vs. position‑neutral dominance).[^20]^,^[^21]^,^[^26]
+1. **Brady has the strongest championship‑centric quarterback résumé ever assembled** (7 titles, 10 appearances) and an unmatched combination of longevity and career volume.[^19],[^31],[^34]
+2. **Brady’s Tampa Bay championship substantially strengthens the “individual portability” component** of his case, by showing elite outcomes outside the Patriots’ institutional context.[^34],[^19]
+3. **The proposition “Brady is the NFL GOAT” is not purely factual; it depends on what “GOAT” is allowed to mean** (championship outcomes vs. peak dominance vs. era‑adjusted efficiency vs. position‑neutral dominance).[^20],[^21],[^26]
 
-So: if “GOAT” means “greatest quarterback by career achievement and team outcomes,” Brady is the strongest available answer.[^19]^,^[^31]^,^[^34] If “GOAT” is defined as “best peak quarterback” or “most dominant NFL player regardless of position,” the conclusion becomes more contingent and (for intellectually honest analysis) must be stated as definition‑dependent rather than absolute.[^20]^,^[^21]^,^[^26]
+So: if “GOAT” means “greatest quarterback by career achievement and team outcomes,” Brady is the strongest available answer.[^19],[^31],[^34] If “GOAT” is defined as “best peak quarterback” or “most dominant NFL player regardless of position,” the conclusion becomes more contingent and (for intellectually honest analysis) must be stated as definition‑dependent rather than absolute.[^20],[^21],[^26]
 
 ---
 
 [^1]: Instructions-improving-evidence-matrix.md
-
 [^2]: Intellectual-Honesty_rev-3.pdf
-
-[^3]: https://www.jsr.org/index.php/path/article/view/1724
-
-[^4]: http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ojs.2018.85054
-
-[^5]: https://f1000research.com/articles/8-2022/v3
-
-[^6]: https://f1000research.com/articles/8-2022/v2
-
-[^7]: https://f1000research.com/articles/8-2022/v1
-
-[^8]: https://www.semanticscholar.org/paper/31cde6ccba81c16c2de6a7b98e1db39f7765ec68
-
-[^9]: https://journals.sagepub.com/doi/10.1177/2473011417S000315
-
-[^10]: https://www.semanticscholar.org/paper/5fd7d134fa8b9941046b3e74de8f838419fb1012
-
-[^11]: https://opensportssciencesjournal.com/VOLUME/15/ELOCATOR/e1875399X2201060/PDF/
-
-[^12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5835540/
-
-[^13]: https://www.mdpi.com/1660-4601/20/3/1924/pdf?version=1674209228
-
-[^14]: https://arxiv.org/pdf/1603.07593.pdf
-
-[^15]: https://smrj.scholasticahq.com/article/87846-open-fractures-in-national-football-league-athletes-analyzing-performance-and-return-to-sport
-
-[^16]: https://arxiv.org/pdf/2312.13619.pdf
-
-[^17]: https://arxiv.org/html/2407.08508v1
-
-[^18]: https://arxiv.org/pdf/1802.00998.pdf
-
-[^19]: https://en.wikipedia.org/wiki/Tom_Brady
-
-[^20]: https://en.wikipedia.org/wiki/Peyton_Manning
-
-[^21]: https://en.wikipedia.org/wiki/Joe_Montana
-
-[^22]: https://www.reddit.com/r/nfl/comments/phbov8/tom_bradys_3_hof_careers_analyzed_with_pfrs_hof/
-
-[^23]: https://www.statmuse.com/nfl/player/peyton-manning-12935
-
-[^24]: https://www.statmuse.com/nfl/player/joe-montana-14455
-
-[^25]: https://www.cbssports.com/nfl/players/187741/tom-brady/career-stats/
-
-[^26]: https://www.espn.com/nfl/player/stats/_/id/1428/peyton-manning
-
-[^27]: https://www.britannica.com/biography/Joe-Montana
-
-[^28]: https://www.cbsnews.com/boston/news/tom-brady-patriots-hall-of-fame-resume-awards/
-
-[^29]: https://www.profootballhof.com/players/peyton-manning/
-
-[^30]: https://www.espn.com/nfl/player/stats/_/id/6445/joe-montana
-
-[^31]: https://www.espn.com/nfl/player/stats/_/id/2330/tom-brady
-
-[^32]: https://www.nfl.com/players/peyton-manning/stats/career
-
-[^33]: https://www.profootballhof.com/players/joe-montana/
-
-[^34]: https://www.buccaneers.com/news/tom-brady-career-stats-records-nfl-2000-2022-patriots-bucs
-
-[^35]: https://web.archive.org/web/20211031154953/https:/www.pro-football-reference.com/players/M/MannPe00.htm
-
-[^36]: https://www.nfl.com/players/joe-montana/stats/career
-
-[^37]: https://www.statmuse.com/nfl/ask/tom-brady-stats-career
-
-[^38]: https://www.statmuse.com/nfl/player/peyton-manning-12935/career-stats
+[^3]: [https://www.jsr.org/index.php/path/article/view/1724](https://www.jsr.org/index.php/path/article/view/1724)
+[^4]: [http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ojs.2018.85054](http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ojs.2018.85054)
+[^5]: [https://f1000research.com/articles/8-2022/v3](https://f1000research.com/articles/8-2022/v3)
+[^6]: [https://f1000research.com/articles/8-2022/v2](https://f1000research.com/articles/8-2022/v2)
+[^7]: [https://f1000research.com/articles/8-2022/v1](https://f1000research.com/articles/8-2022/v1)
+[^8]: [https://www.semanticscholar.org/paper/31cde6ccba81c16c2de6a7b98e1db39f7765ec68](https://www.semanticscholar.org/paper/31cde6ccba81c16c2de6a7b98e1db39f7765ec68)
+[^9]: [https://journals.sagepub.com/doi/10.1177/2473011417S000315](https://journals.sagepub.com/doi/10.1177/2473011417S000315)
+[^10]: [https://www.semanticscholar.org/paper/5fd7d134fa8b9941046b3e74de8f838419fb1012](https://www.semanticscholar.org/paper/5fd7d134fa8b9941046b3e74de8f838419fb1012)
+[^11]: [https://opensportssciencesjournal.com/VOLUME/15/ELOCATOR/e1875399X2201060/PDF/](https://opensportssciencesjournal.com/VOLUME/15/ELOCATOR/e1875399X2201060/PDF/)
+[^12]: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5835540/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835540/)
+[^13]: [https://www.mdpi.com/1660-4601/20/3/1924/pdf?version=1674209228](https://www.mdpi.com/1660-4601/20/3/1924/pdf?version=1674209228)
+[^14]: [https://arxiv.org/pdf/1603.07593.pdf](https://arxiv.org/pdf/1603.07593.pdf)
+[^15]: [https://smrj.scholasticahq.com/article/87846-open-fractures-in-national-football-league-athletes-analyzing-performance-and-return-to-sport](https://smrj.scholasticahq.com/article/87846-open-fractures-in-national-football-league-athletes-analyzing-performance-and-return-to-sport)
+[^16]: [https://arxiv.org/pdf/2312.13619.pdf](https://arxiv.org/pdf/2312.13619.pdf)
+[^17]: [https://arxiv.org/html/2407.08508v1](https://arxiv.org/html/2407.08508v1)
+[^18]: [https://arxiv.org/pdf/1802.00998.pdf](https://arxiv.org/pdf/1802.00998.pdf)
+[^19]: [https://en.wikipedia.org/wiki/Tom_Brady](https://en.wikipedia.org/wiki/Tom_Brady)
+[^20]: [https://en.wikipedia.org/wiki/Peyton_Manning](https://en.wikipedia.org/wiki/Peyton_Manning)
+[^21]: [https://en.wikipedia.org/wiki/Joe_Montana](https://en.wikipedia.org/wiki/Joe_Montana)
+[^22]: [https://www.reddit.com/r/nfl/comments/phbov8/tom_bradys_3_hof_careers_analyzed_with_pfrs_hof/](https://www.reddit.com/r/nfl/comments/phbov8/tom_bradys_3_hof_careers_analyzed_with_pfrs_hof/)
+[^23]: [https://www.statmuse.com/nfl/player/peyton-manning-12935](https://www.statmuse.com/nfl/player/peyton-manning-12935)
+[^24]: [https://www.statmuse.com/nfl/player/joe-montana-14455](https://www.statmuse.com/nfl/player/joe-montana-14455)
+[^25]: [https://www.cbssports.com/nfl/players/187741/tom-brady/career-stats/](https://www.cbssports.com/nfl/players/187741/tom-brady/career-stats/)
+[^26]: [https://www.espn.com/nfl/player/stats/_/id/1428/peyton-manning](https://www.espn.com/nfl/player/stats/_/id/1428/peyton-mannin)
+[^27]: [https://www.britannica.com/biography/Joe-Montana](https://www.britannica.com/biography/Joe-Montana)
+[^28]: [https://www.cbsnews.com/boston/news/tom-brady-patriots-hall-of-fame-resume-awards/](https://www.cbsnews.com/boston/news/tom-brady-patriots-hall-of-fame-resume-awards/)
+[^29]: [https://www.profootballhof.com/players/peyton-manning/](https://www.profootballhof.com/players/peyton-manning/)
+[^30]: [https://www.espn.com/nfl/player/stats/_/id/6445/joe-montana](https://www.espn.com/nfl/player/stats/_/id/6445/joe-montana)
+[^31]: [https://www.espn.com/nfl/player/stats/_/id/2330/tom-brady](https://www.espn.com/nfl/player/stats/_/id/2330/tom-brady)
+[^32]: [https://www.nfl.com/players/peyton-manning/stats/career](https://www.nfl.com/players/peyton-manning/stats/career)
+[^33]: [https://www.profootballhof.com/players/joe-montana/](https://www.profootballhof.com/players/joe-montana/)
+[^34]: [https://www.buccaneers.com/news/tom-brady-career-stats-records-nfl-2000-2022-patriots-bucs](https://www.buccaneers.com/news/tom-brady-career-stats-records-nfl-2000-2022-patriots-bucs)
+[^35]: [https://web.archive.org/web/20211031154953/https:/www.pro-football-reference.com/players/M/MannPe00.htm](https://web.archive.org/web/20211031154953/https:/www.pro-football-reference.com/players/M/MannPe00.htm)
+[^36]: [https://www.nfl.com/players/joe-montana/stats/career](https://www.nfl.com/players/joe-montana/stats/career)
+[^37]: [https://www.statmuse.com/nfl/ask/tom-brady-stats-career](https://www.statmuse.com/nfl/ask/tom-brady-stats-career)
+[^38]: [https://www.statmuse.com/nfl/player/peyton-manning-12935/career-stats](https://www.statmuse.com/nfl/player/peyton-manning-12935/career-stats)
