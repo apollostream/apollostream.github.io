@@ -2,11 +2,12 @@
 
 # The Trump Kennedy Center: Why This Matters
 
-_By Michael L. Thompson using Perplexity.ai (Labs mode)_^[*"The Trump Kennedy Center: Why This Matters" [Kennedy-Renaming-Synopsis.pdf] © 2025 by [Michael L. Thompson](https://www.linkedin.com/in/mlthomps), generated using [Perplexity.ai](https://perplexity.ai), is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/*]
+- _By Michael L. Thompson using Perplexity.ai (Labs mode)_
+- *"The Trump Kennedy Center: Why This Matters" [Kennedy-Renaming-Synopsis-include.md] © 2025 by [Michael L. Thompson](https://www.linkedin.com/in/mlthomps), generated using [Perplexity.ai](https://perplexity.ai), is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/*
 
 ---
 
-![Alternative text](ap25353699889721.jpg)
+![Alternative text](../images/ap25353699889721.jpg)
 *Source: [Jacquelyn Martin/AP, via NPR](https://www.npr.org/2025/12/18/nx-s1-5648519/kennedy-center-name-change-trump)*
 
 ---
