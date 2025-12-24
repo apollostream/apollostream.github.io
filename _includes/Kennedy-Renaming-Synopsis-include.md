@@ -3,7 +3,8 @@
 # The Trump Kennedy Center: Why This Matters
 
 - _By Michael L. Thompson using Perplexity.ai (Labs mode)_
-- *"The Trump Kennedy Center: Why This Matters" [Kennedy-Renaming-Synopsis-include.md] © 2025 by [Michael L. Thompson](https://www.linkedin.com/in/mlthomps), generated using [Perplexity.ai](https://perplexity.ai), is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/*
+- If you take issue with this report, _**dig deeper**_:
+  - The full analysis report is **["Kennedy-Center-Analysis_wchanges.pdf"](https://drive.google.com/file/d/1NfQTQ_8eJn6JJg_PFtrIDkqn3Y3jmQ-A/view?usp=sharing).**
 
 ---
 
@@ -127,3 +128,7 @@ That question remains open. But the harm is real.
 - **_The full analysis report is_** **["Kennedy-Center-Analysis_wchanges.pdf"](https://drive.google.com/file/d/1NfQTQ_8eJn6JJg_PFtrIDkqn3Y3jmQ-A/view?usp=sharing).**
 
 **_The guiding treatise for this analysis was this:_** [**"Intellectual-Honesty_rev-3.pdf"**](https://drive.google.com/file/d/1a1kWi9O42awqfXg_8pdJwB4F7autrrUx/view?usp=sharing).
+
+---
+
+- *"The Trump Kennedy Center: Why This Matters" [Kennedy-Renaming-Synopsis-include.md] © 2025 by [Michael L. Thompson](https://www.linkedin.com/in/mlthomps), generated using [Perplexity.ai](https://perplexity.ai), is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/*
