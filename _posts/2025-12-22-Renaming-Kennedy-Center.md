@@ -3,7 +3,7 @@ layout: post
 title: "2025/12/22: Renaming the Kennedy Center"
 ---
 
-![Alternative text](ap25353699889721.jpg)
+![For the moment, the Kennedy Center has been renamed.](../images/ap25353699889721.jpg)
 *Source: [Jacquelyn Martin/AP, via NPR](https://www.npr.org/2025/12/18/nx-s1-5648519/kennedy-center-name-change-trump)*
 
 
