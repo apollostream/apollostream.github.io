@@ -11,7 +11,7 @@
 
 ## The Big Question
 
-On December 22, 2025, the Bureau of Economic Analysis announced that the U.S. economy grew at a 4.3% annualized rate in the third quarter—a striking number. News outlets ran with the headline: "U.S. Economy Beats Expectations," with the White House predictably citing the figure as vindication of its economic policies.
+On December 23, 2025, the Bureau of Economic Analysis announced that the U.S. economy grew at a 4.3% annualized rate in the third quarter—a striking number. News outlets ran with the headline: "U.S. Economy Beats Expectations," with the White House predictably citing the figure as vindication of its economic policies.
 
 But here's what those headlines didn't say: The same day, while the GDP report celebrated growth, employment data showed employers shed jobs in some months. Manufacturing was contracting. Bottom-quartile workers saw their real wages decline 2.1% year-over-year. And the GDP estimate came in a full 3 percentage points ahead of what professional economists predicted just months earlier.
 
