@@ -29,4 +29,4 @@ And, if this all works as intended, though you may not change your mind -- i.e.,
 
 ### Contact me
 
-[www.linkedin.com/in/mlthomps](www.linkedin.com/in/mlthomps)
+- [www.linkedin.com/in/mlthomps](www.linkedin.com/in/mlthomps)
