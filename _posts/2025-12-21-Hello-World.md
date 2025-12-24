@@ -87,3 +87,12 @@ So here are today's topics, with links to the Synopsis and the Full Analysis Rep
 Thank you for your time and mindshare,
 
 -Michael L. Thompson ([LinkedIn profile](https://www.linkedin.com/in/mlthomps))
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
