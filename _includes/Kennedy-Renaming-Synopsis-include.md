@@ -7,11 +7,6 @@
 
 ---
 
-![Alternative text](../images/ap25353699889721.jpg)
-*Source: [Jacquelyn Martin/AP, via NPR](https://www.npr.org/2025/12/18/nx-s1-5648519/kennedy-center-name-change-trump)*
-
----
-
 ## A Crisis of American Democratic Norms
 
 When the Kennedy Center board voted on December 18, 2025 to rename the institution the "Trump Kennedy Center," it triggered something unprecedented in American history. Not because a sitting president's name was added to a federal building—that had never happened before. Not because of mere partisan disagreement. But because the action revealed something troubling about how power operates when there's no one willing to stop it.
