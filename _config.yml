@@ -9,7 +9,8 @@ name: Intellectual Honesty
 description: Intellectually honest analysis of any topic using the BFIH ("beefy") framework.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: ./images/reflexive-review.png
 
 #
 # Flags below are optional
