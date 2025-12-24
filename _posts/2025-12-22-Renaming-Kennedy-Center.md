@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025/12/22: Renaming the Kennedy Center"
+title: "Renaming the Kennedy Center"
 ---
 
 ![For the moment, the Kennedy Center has been renamed.](../images/ap25353699889721.jpg)
