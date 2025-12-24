@@ -66,22 +66,6 @@ Again, only done informally, but I've concluded that it is the extensive context
 
 My plan is to focus each post on a single topic. And, along with the reports, supply you with links to the raw documents and transcripts of the sessions with the AI systems that generated the documents. Maybe you'll want to generate similar BFIH analyses on topics of interest for yourself.  
 
-But to begin with, I'd like to give you a set of examples that illustrate what I mean and what being intellectually honest through BFIH entails.
-
-## Today's Topics
-
-So here are today's topics, with links to the Synopsis and the Full Analysis Report to each.
-
-* "Kennedy Center Renaming"
-  - [Synopsis](https://drive.google.com/file/d/1fwBpSJI_XldDIjXQJ7i1qcDo3JbDfCU4/view?usp=sharing)
-  - [Full Analysis Report](https://drive.google.com/file/d/1NfQTQ_8eJn6JJg_PFtrIDkqn3Y3jmQ-A/view?usp=sharing)
-* "Tom Brady, NFL GOAT?"
-  - [Synopsis]()
-  - [Full Analysis Report]()
-* "An AI Bubble?"
-  - [Synopsis]()
-  - [Full Analysis Report]()
-
 ---
 
 Thank you for your time and mindshare,
