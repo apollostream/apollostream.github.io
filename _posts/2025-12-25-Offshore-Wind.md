@@ -11,7 +11,7 @@ published: true
 
 ---
 
-This issue was brought to my attention by a friend. With this blog, I don't intend to dwell on the many things I think are wrong in current American governance but I do think the BFI approach draws bare attention to how egregious the current administration operates as a matter of course.  It's a shame to normalize behavior so beyond the pale.
+This issue was brought to my attention by a friend. With this blog, I don't intend to dwell on the many things I think are wrong in current American governance but I do think the BFIH approach draws bare attention to how egregious the current administration operates as a matter of course.  It's a shame to normalize behavior so beyond the pale.
 
 And rather than insist that a post like this is not mere partisan griping but a genuine concern for what American's normalize as our government, I let the synopsis of this proposition's BFIH analysis invoke more of the methodological justification for its words than I typically would. I typically leave that for the full analysis report.  The full intellectual honesty of BFIH reveals whatever biases and competing viewpoints (i.e., multi-paradigm lenses) went into the analysis.
 
