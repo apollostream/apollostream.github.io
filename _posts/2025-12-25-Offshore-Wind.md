@@ -4,8 +4,7 @@ title: "An Administration Beyond the Pale"
 published: false
 ---
 
-<a title="A wind turbine in the Vineyard Wind offshore wind site near the coast of Martha’s Vineyard in Mass. on Monday, Sept. 16, 2024. (David Lawlor/Rhode Island PBS)" href="https://media.wbur.org/wp/2024/10/20240916_offshore-wind_RI-PBS-Lowler97_-1000x749.jpg
-"><img width="512" alt="A wind turbine in the Vineyard Wind offshore wind site near the coast of Martha’s Vineyard in Mass. on Monday, Sept. 16, 2024. (David Lawlor/Rhode Island PBS)"></a>
+<a title="A wind turbine in the Vineyard Wind offshore wind site near the coast of Martha’s Vineyard in Mass. on Monday, Sept. 16, 2024. (David Lawlor/Rhode Island PBS)" href="https://media.wbur.org/wp/2024/10/20240916_offshore-wind_RI-PBS-Lowler97_-1000x749.jpg"><img width="512" alt="A wind turbine in the Vineyard Wind offshore wind site near the coast of Martha’s Vineyard in Mass. on Monday, Sept. 16, 2024. (David Lawlor/Rhode Island PBS)"></a>
 
 *A wind turbine in the Vineyard Wind site near Martha’s Vineyard in Massachusetts. (David Lawlor/[Rhode Island PBS](https://www.ctpublic.org/news/2025-11-13/offshore-wind-revolution-connecticut-new-england-rhode-island-massachusetts-clean-energy).*
 
