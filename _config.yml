@@ -22,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: apollostream/apollostream.github.io
+  github: 
   instagram:
   linkedin: mlthomps
   pinterest:
@@ -38,7 +38,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-6JCFDPTTD7
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
