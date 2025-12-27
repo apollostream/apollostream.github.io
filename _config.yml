@@ -5,8 +5,10 @@
 # Name of your site (displayed in the header)
 name: Intellectual Honesty
 
+author: Michael L. Thompson
+
 # Short bio or description (displayed in the header)
-description: Intellectually honest analysis of any topic using the BFIH ("beefy") framework.
+description: Intellectually honest analysis of any topic using the Bayesian framework, BFIH ("beefy").
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
