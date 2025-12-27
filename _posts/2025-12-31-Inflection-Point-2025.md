@@ -11,19 +11,19 @@ published: false
 
 ---
 
-I'll end Year 2025 with a post spawned by a brief text exchange with a family member.  Two of my previous posts note how anomalous 2025 has been with respect to federal governance in America. This one sums it all up with a call for vigilance by all Americans as we embark upon 2026.
+I'll end Year 2025 with a post spawned by a brief text exchange with a family member. (Always remember that statistics are comprised of real events in real people's everyday lives...)  Two of my previous posts note how anomalous 2025 has been with respect to federal governance in America. This one sums it all up with a call for vigilance by all Americans as we embark upon 2026.
 
 **The proposition:**
 
-> **_"Are American citizens' constitutional guarantees substantially realized in their lived experience, and has 2025 marked a structural change in how federal institutions constrain executive power?"_**
+> **_"American citizens' constitutional guarantees are substantially realized in lived experience, and federal institutions effectively constrain executive power through separation of powers and judicial review mechanisms."_**
 
-**The upshot:** It's complicated -- **be watchful for more evidence in 2026.**
+**The upshot:** It's complicated: **_Watch for evidence in 2026._**
 
-*This analysis was born from one of the more complicated interactive sessions with Perplexity Pro that I've had. See for yourself:*
+*This analysis was crafted from a slightly more complicated than typical interactive session with Perplexity Pro that I've had. See for yourself:*
 
-- *Perplexity Pro session ["Inflection-Point-2025"](https://www.perplexity.ai/search/you-are-a-world-class-bfih-bay-XLv.cYptQFe0esG6fKgUdA#15), including the prompts and documents input & generated*.
+- *Perplexity Pro session ["Inflection-Point-2025"](https://www.perplexity.ai/search/you-are-a-world-class-bfih-bay-XLv.cYptQFe0esG6fKgUdA#0), including the prompts and documents input & generated*.
 
-Below is the plain-language synopsis of the BFIH findings; and here's a link to the full BFIH analysis ["Inflection-Point-2025-Full-Report.pdf"]().
+Below is the plain-language synopsis of the BFIH findings; and here's a link to the full BFIH analysis ["Inflection-Point-2025-Full-Report.pdf"](https://drive.google.com/file/d/1svc_AskvjjnDtsMrEAlpHWz9amRPpk-Z/view?usp=sharing).
 
 ---
 
