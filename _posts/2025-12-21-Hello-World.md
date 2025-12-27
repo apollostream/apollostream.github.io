@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Inaugral Post to the Blog "Intellectual Honesty"
+description: Value of using Bayesian Framework for Intellectual Honesty, BFIH
 ---
 
 
