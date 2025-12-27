@@ -11,7 +11,7 @@ published: false
 
 ---
 
-Back in the 1990's, I was introduced to Bayesian methodologies by the computer scientists at MIT CSAIL (Computer Science & Artificial Intelligence Laboratory) while I was in graduate school. So, I learned Bayesian framing first from a viewpoint of cognitive science and computational knowledge representation, reasoning, and decision-making under uncertainty. It wasn't until later along the way of application and research that I encountered it as a data-first statistical modeling methodology. I've always taken to that knowledge-first way as being intuitive to me. Ever since I've been trying to impress upon folks the value of taking this viewpoint, but with limited success.  
+Back in the 1990's, I was introduced to Bayesian concepts by the computer scientists at MIT CSAIL (Computer Science & Artificial Intelligence Laboratory) while I was in graduate school. So, I learned Bayesian framing first from a viewpoint of cognitive science and computational knowledge representation, reasoning, and decision-making under uncertainty. It wasn't until later along the way of application and research that I encountered it as a data-first statistical modeling methodology. I've always taken to that knowledge-first way as being intuitive to me. Ever since I've been trying to impress upon folks the value of taking this viewpoint, but with limited success.  
 
 I think this knowledge-first decision-centric perspective allows you to map the general meta-level concepts down to instantiations as context-specific problem-solving models and applied methods.
 
