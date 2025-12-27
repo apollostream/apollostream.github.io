@@ -300,7 +300,7 @@ This plain-language synopsis summarizes a comprehensive Bayesian Framework for I
 
 [170] Miller, J. W. (2014). Inconsistency of Bayesian inference for misspecified linear models, and a proposal for repairing it. *Bayesian Analysis, 12*(4). https://projecteuclid.org/journals/bayesian-analysis/volume-12/issue-4/
 
-[171] Jansen, M. (n.d.). *Robust Bayesian inference under model misspecification* [Master's thesis, Leiden University]. https://math.leidenuniv.nl/scripties/MasterJansen.pdf
+[171] Jansen, M. (2013). *Robust Bayesian inference under model misspecification* [Master's thesis, Leiden University]. https://math.leidenuniv.nl/scripties/MasterJansen.pdf
 
 [207] U.S. Food and Drug Administration. (2018). Guidance for the use of Bayesian statistics in medical device clinical trials. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical
 
