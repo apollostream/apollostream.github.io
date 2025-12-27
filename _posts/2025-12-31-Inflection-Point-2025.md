@@ -11,7 +11,9 @@ published: false
 
 ---
 
-I'll end Year 2025 with a post spawned by a brief text exchange with a family member. (Always remember that statistics are comprised of real events in real people's everyday lives...)  Two of my previous posts note how anomalous 2025 has been with respect to federal governance in America. This one sums it all up with a call for vigilance by all Americans as we embark upon 2026.
+I'll end Year 2025 with a post spawned by a brief text exchange with a family member. (Always remember that statistics are comprised of real events in real people's everyday lives....)  
+
+Two of my previous posts note how anomalous 2025 has been with respect to federal governance in America. This one sums it all up with a call for vigilance by all Americans as we embark upon 2026.
 
 **The proposition:**
 
