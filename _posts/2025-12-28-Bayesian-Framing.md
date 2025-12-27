@@ -19,9 +19,9 @@ Unsatisfied with the extent I've been able to fully articulate my perspective on
 
 Well, I'm not wholly satisfied with the results but I think it does get partially there. The results below overstate Bayesian pervasiveness -- given what I've read from authors pushing back on the claims stated below. And yet, it doesn't fully capture the essence of Bayesian framing as I see it either.
 
-This failure of the AI-generated analysis to capture the richness of a domain is common. As such, it sits as a cautionary tale as to the extent that you can trust the content of all the posts I generate with AI. Keep that in mind as you read this blog in general. Ultimately, this is all still a work in progress.
+This failure of the AI-generated analysis to capture the richness of a domain is common. As such, it sits as a cautionary tale as to the extent that you can trust the content of all the posts I generate with AI. This post is a sobering reminder to keep that in mind as you read this blog in general. Ultimately, this is all still a work in progress.
 
-But, it still represents something useful -- and, as you can tell from [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#23) -- it sure took me a lot of effort just to get this. So, I've decided to post it anyway.
+That said, it still represents something useful in terms of proposing how representation and reasoning ideas might connect -- and, as you can tell from [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#23) -- it sure took me a lot of effort just to get this. So, I've decided to post it anyway. (But, dig into the bibliography and their latest citations if you want to get "the real real".) 
 
 I have to admit, I kinda like its "GCAA" perspective:
 
