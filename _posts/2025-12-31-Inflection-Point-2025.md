@@ -6,7 +6,7 @@ published: false
 
 ![The U.S. Supreme Court Building, Washington, D.C., 2023 (Juliana Uribbe/Unsplash)](https://images.unsplash.com/photo-1718371309669-598eaa0d7201?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-*"EQUAL JUSTICE UNDER LAW", inscription on the U.S. Supreme Court Building, Washington, D.C. ([Juliana Uribbe/Unsplash](https://www.ctpublic.org/news/2025-11-13/offshore-wind-revolution-connecticut-new-england-rhode-island-massachusetts-clean-energy)).*
+*"EQUAL JUSTICE UNDER LAW", inscription on the U.S. Supreme Court Building, Washington, D.C. ([Juliana Uribbe/Unsplash](https://unsplash.com/@julianauribbe)).*
 
 
 ---
