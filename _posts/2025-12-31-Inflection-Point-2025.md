@@ -24,7 +24,7 @@ Two of my previous posts note how anomalous 2025 has been with respect to federa
 - *This analysis was crafted from a slightly more complicated than typical interactive session with Perplexity Pro. See for yourself:*
   - *Perplexity Pro session ["Inflection-Point-2025"](https://www.perplexity.ai/search/you-are-a-world-class-bfih-bay-XLv.cYptQFe0esG6fKgUdA#0), including the prompts and documents input & generated*.
 
-Below is the plain-language synopsis of the BFIH findings; and here's a link to the full BFIH analysis ["Inflection-Point-2025-Full-Report.pdf"](https://drive.google.com/file/d/1svc_AskvjjnDtsMrEAlpHWz9amRPpk-Z/view?usp=sharing).
+Below is the plain-language synopsis of the BFIH findings, which includes a link to the full BFIH analysis report with bibliography.
 
 ---
 
