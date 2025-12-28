@@ -5,7 +5,7 @@ published: false
 ---
 
 
-<a title="Lukas Raich, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg"><img width="512" alt="FIA F1 Austria 2018 Nr. 44 Hamilton" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/FIA_F1_Austria_2018_Nr._44_Hamilton.jpg/512px-FIA_F1_Austria_2018_Nr._44_Hamilton.jpg?20181129224515"></a>
+![Lukas Raich, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)](./images/FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)
 
 *FIA F1 Austria 2018 Nr. 44 Hamilton. (Lukas Raich, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)).*
 
