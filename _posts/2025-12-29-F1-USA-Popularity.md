@@ -12,11 +12,11 @@ published: false
 
 ---
 
-I'm a fan of Formula One racing. Next season brings big changes with an overhaul of the F1 regulations dictating car design, power unit, race dynamics; entry of an American race team; a new American manufacturer partnership with an existing team; and a new media deal.  I'll miss watching the races on ESPN, as they're moving to Apple TV+ with that media deal. I hope I can still watch full race recaps on YouTube.
+I'm a fan of Formula One racing. Next season brings big changes with an overhaul of the F1 regulations dictating car design, power unit, race dynamics; entry of an American race team; a new American manufacturer partnership with an existing team; a host of team rebrandings; and a new media deal.  I'll miss watching the races on ESPN, as they're moving to Apple TV+ with that media deal. I hope I can still watch full race recaps on YouTube.
 
 So much is changing that I'm excited to see how the sport as a whole adapts, and I'm anticipating more drama than the typical season offers. 
 
-I was curious to find out whether this will ignite an explosion in popularity of F1 among Americans. Maybe this converts the many casual fans ('affinity' fans) into hardcore fans (fans who watch every race & follow on social media). Let's see what a BFIH analysis reveals.
+I was curious to find out whether all of this will ignite an explosion in popularity of F1 among Americans. Maybe this converts the many casual fans ('affinity' fans) into hardcore fans (fans who watch every race). Let's see what a BFIH analysis reveals.
 
 ---
 
@@ -24,7 +24,7 @@ I was curious to find out whether this will ignite an explosion in popularity of
 
 - **_"Over the next 3–5 years, the U.S. Formula 1 market is more likely to stabilize as a two-tier fanbase (large ‘affinity’ fandom + smaller high-intensity viewing core) than to converge toward Europe-like mass, habitual race viewership."_**
 
-**The upshot:** Yes, stabilization is more likely than explosion. But interesting points on how modern fandom in many sports changes in this age of proliferating streaming services.
+**The upshot:** Yes, stabilization is more likely than explosion. But the analysis makes an interesting point on how modern fandom in many sports changes in this age of proliferating streaming services: a spli has grown between identity -- saying your a fan -- and behavior -- acting as a fan. Read on....
 
 Below is the plain-language synopsBack is of the BFIH findings, which includes a link to the full analysis report.
 
