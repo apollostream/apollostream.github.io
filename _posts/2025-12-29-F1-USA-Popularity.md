@@ -24,9 +24,9 @@ I was curious to find out whether all of this will ignite an explosion in popula
 
 - **_"Over the next 3–5 years, the U.S. Formula 1 market is more likely to stabilize as a two-tier fanbase (large ‘affinity’ fandom + smaller high-intensity viewing core) than to converge toward Europe-like mass, habitual race viewership."_**
 
-**The upshot:** Yes, stabilization is more likely than explosion. But the analysis makes an interesting point on how modern fandom in many sports changes in this age of proliferating streaming services: a spli has grown between identity -- saying your a fan -- and behavior -- acting as a fan. Read on....
+**The upshot:** Yes, stabilization is more likely than explosion. But the analysis makes an interesting point on how modern fandom in many sports changes in this age of proliferating streaming services: a split has grown between identity -- saying your a fan -- and behavior -- acting as a fan. Read on....
 
-Below is the plain-language synopsBack is of the BFIH findings, which includes a link to the full analysis report.
+Below is the plain-language synopsis of the BFIH findings, which includes a link to the full analysis report.
 
 ---
 
