@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Formula 1's Popularity in America"
-published: false
+published: true
 ---
 
 
@@ -30,7 +30,7 @@ Below is the plain-language synopsBack is of the BFIH findings, which includes a
 
 ---
 
-{% include f1-popularity-synopsis-include.md %}
+{% include F1-Atlantic-Article.md %}
 
 ---
 
