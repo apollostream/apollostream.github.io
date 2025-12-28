@@ -304,7 +304,7 @@ This plain-language synopsis summarizes a comprehensive Bayesian Framework for I
 
 [207] U.S. Food and Drug Administration. (2018). Guidance for the use of Bayesian statistics in medical device clinical trials. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical
 
-[211] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. *Proceedings of the National Academy of Sciences, 112*(13), 3779-3786. https://www.pnas.org/doi/10.1073/pnas.1420568113
+[211] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. *Science*, 349(6245), 273-278. https://erichorvitz.com/computational_rationality.pdf
 
 [261] Grünwald, P., & Van Ommen, T. (2017). Inconsistency of Bayesian inference for misspecified linear models, and a proposal for repairing it. *Bayesian Analysis, 12*(4), 1069-1103.
 
