@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thinking Like a Bayesian: GCAA?"
-published: false
+published: true
 ---
 
 ![Bayesian framing as Generative, Coherent, Adaptive, and Agentic.(Google Nano Banana Pro 3.0)](../images/The-Bayesian-Brain.jpeg)
@@ -19,11 +19,11 @@ Unsatisfied with the extent I've been able to fully articulate my perspective on
 
 Well, I'm not wholly satisfied with the results but I think it does get partially there. The results below overstate Bayesian pervasiveness -- given what I've read from authors pushing back on the claims stated below. And yet, it doesn't fully capture the essence of Bayesian framing as I see it either.
 
-This failure of the AI-generated analysis to capture the richness of a domain is common. As such, it sits as a cautionary tale as to the extent that you can trust the content of all the posts I generate with AI. This post is a sobering reminder to keep that in mind as you read this blog in general. Ultimately, this is all still a work in progress.
+This failure of the AI-generated analysis to capture the richness of a domain is common. As such, it sits as a cautionary tale as to the extent that you can trust the content of all the posts I generate with AI -- keep that in mind as you read this blog, in general. Ultimately, this is all still a work in progress.
 
-That said, it still represents something useful in terms of proposing how representation and reasoning ideas might connect -- and, as you can tell from [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#23) -- it sure took me a lot of effort just to get this. So, I've decided to post it anyway. (But, dig into the bibliography and their latest citations if you want to get "the real real".) 
+That said, this analysis still represents something useful in terms of proposing how representation and reasoning ideas might connect -- and, as you can tell from [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#23) -- it sure took me a lot of effort just to get this. So, I've decided to post it anyway. (Dig into the bibliography and their latest citations if you want to get "the real real".) 
 
-I have to admit, I kinda like its "GCAA" perspective:
+I have to admit, I kinda like its "GCAA" paradigm:
 
 - **G**_enerative_ -- **Structure** (representing the world as generative models, not just correlations)
 - **C**_oherent_ -- **Logic** (maintaining internal consistency to avoid exploitable contradictions)
@@ -36,7 +36,7 @@ I have to admit, I kinda like its "GCAA" perspective:
 
 - **_"Bayesian framing represents the epitome of robustness for knowledge-first decision-making under uncertainty."_**
 
-**The upshot:** Under the right conditions, sure.
+**The upshot:** Under the right conditions, sure -- but let's not get carried away.
 
 Below is the plain-language synopsis of the BFIH findings, which includes a link to the full analysis report with bibliography.
 
