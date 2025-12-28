@@ -4,7 +4,7 @@ title: "Formula 1's Popularity in America"
 published: false
 ---
 
-![Lukas Raich, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)
+![Lukas Raich, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6a/FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)
 
 *FIA F1 Austria 2018 Nr. 44 Hamilton. (Lukas Raich, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons).*
 
