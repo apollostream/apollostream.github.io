@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thinking Like a Bayesian: GCAA?"
-published: true
+published: false
 ---
 
 ![Bayesian framing as Generative, Coherent, Adaptive, and Agentic.(Google Nano Banana Pro 3.0)](../images/The-Bayesian-Brain.jpeg)
