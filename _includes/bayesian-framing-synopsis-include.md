@@ -296,13 +296,13 @@ This plain-language synopsis summarizes a comprehensive Bayesian Framework for I
 
 [151] Irie, K., Gao, L., Dyer, C., & Hashimoto, T. (2024). The mystery of in-context learning. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 795). Association for Computational Linguistics. https://aclanthology.org/2024.emnlp-main.795.pdf
 
-[165] Miller, J. W., & Dunson, D. B. (2018). Inconsistency of Bayesian inference for misspecified linear models, and a proposal for repairing it. *arXiv preprint arXiv:1412.3730*. http://arxiv.org/pdf/1412.3730.pdf
+[165] Miller, J. W., & Dunson, D. B. (2019). Robust Bayesian Inference via Coarsening. *Journal of the American Statistical Association*, 114(527), 1113–1125. https://doi.org/10.1080/01621459.2018.1469995
 
-[170] Miller, J. W. (2014). Inconsistency of Bayesian inference for misspecified linear models, and a proposal for repairing it. *Bayesian Analysis, 12*(4). https://projecteuclid.org/journals/bayesian-analysis/volume-12/issue-4/
+[170] Grünwald, P., & Van Ommen, T. (2017). Inconsistency of Bayesian inference for misspecified linear models, and a proposal for repairing it. *arXiv preprint arXiv:1412.3730*. http://arxiv.org/pdf/1412.3730.pdf
 
 [171] Jansen, M. (2013). *Robust Bayesian inference under model misspecification* [Master's thesis, Leiden University]. https://math.leidenuniv.nl/scripties/MasterJansen.pdf
 
-[207] U.S. Food and Drug Administration. (2018). Guidance for the use of Bayesian statistics in medical device clinical trials. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical
+[207] U.S. Food and Drug Administration. (2010). Guidance for the use of Bayesian statistics in medical device clinical trials. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials
 
 [211] Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. *Science*, 349(6245), 273-278. https://erichorvitz.com/computational_rationality.pdf
 
