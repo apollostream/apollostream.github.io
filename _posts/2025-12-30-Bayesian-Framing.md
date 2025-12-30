@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thinking Like a Bayesian: GCAA?"
-published: false
+published: true
 ---
 
 ![Bayesian framing as Generative, Coherent, Adaptive, and Agentic.(Google Nano Banana Pro 3.0)](../images/The-Bayesian-Brain.jpeg)
@@ -17,7 +17,7 @@ I think this knowledge-first decision-centric perspective allows you to map the 
 
 Unsatisfied with the extent I've been able to fully articulate my perspective on Bayesian framing, I gave it a shot with the Perplexity.ai LLM-based AI system. And,....
 
-Well, I'm not wholly satisfied with the results but I think it does get partially there. The results below overstate Bayesian pervasiveness -- given what I've read from authors pushing back on the claims stated below. And yet, it doesn't fully capture the essence of Bayesian framing as I see it either.
+Well, I'm not wholly satisfied with the results but I think it does get partially there. The results below overstate Bayesian pervasiveness -- given the literature pushing back on the claims stated below. And yet, these results don't fully capture the essence of "knowledge-first" Bayesian framing as I see it either.
 
 I have to admit, though, I kinda like its "GCAA" paradigm:
 
@@ -30,9 +30,9 @@ I have to admit, though, I kinda like its "GCAA" paradigm:
 
 **_CAVEAT:_**    
 
-*This AI-generated analysis does not capture the richness of the domain.  Unfortunately, this is common with these analyses wrt deep technical topics having a wide spectrum of views across multiple fields. This post is a cautionary tale as to the extent that you can trust the content of all the AI-generated content in this blog, in general. Ultimately, this is all still a work in progress.*
+*This AI-generated analysis does not capture the subtlties of the topic.  Unfortunately, this is common with these analyses wrt deep technical topics having a wide spectrum of views across multiple fields. This post is a cautionary tale as to the extent that you can trust the content of all the AI-generated content in this blog, in general. Ultimately, this is all still a work in progress.*
 
-*To see what went into generating the analysis, visit [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#23). Plus, dig into the bibliography and their latest citations if you want to study these ideas more reliably and deeply.* 
+*To see what went into generating the analysis, visit [the full Perplexity session](https://www.perplexity.ai/search/generate-an-in-depth-discussio-tNxbRtbrRgGomO6dnAFG3w#0). Plus, dig into the bibliography and even the latest citations of those entries if you want to study these ideas more reliably and deeply.* 
 
 ---
 
