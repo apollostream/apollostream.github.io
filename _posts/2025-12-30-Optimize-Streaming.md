@@ -7,7 +7,7 @@ tags: [intellectual-honesty, streaming-economics, behavioral-economics, media-st
 series: "The Economics of Everyday Life"
 synopsis: true
 full_analysis: "optimize-streaming-final-report-rev.md"
-publish: false
+published: false
 ---
 
 ![Streaming Interface](https://images.unsplash.com/photo-1574375927938-d5a98e8efe30?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
