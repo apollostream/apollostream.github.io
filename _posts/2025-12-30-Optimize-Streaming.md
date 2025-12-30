@@ -7,23 +7,26 @@ tags: [intellectual-honesty, streaming-economics, behavioral-economics, media-st
 series: "The Economics of Everyday Life"
 synopsis: true
 full_analysis: "optimize-streaming-final-report-rev.md"
-published: false
+published: true
 ---
 
-![Streaming Interface](https://images.unsplash.com/photo-1574375927938-d5a98e8efe30?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Streaming Interface](../images/oscar-nord-Sd87V72cJEU-unsplash.jpg)
 
-*Image credit: Unsplash*
+*Image credit: [Oscar Nord, Unsplash](https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-white-cabinet-Sd87V72cJEU)*
 
 ---
 
-I'm 
+These days, the entertainment media sources landscape is fragmented across a host of streaming services, cable & satellite options, internet platforms, and plain old-fashioned free TV broadcasting.  All this is entertwined with each other and the hardware like televisions, streaming boxes, home assistants, mobile devices, and personal computers.  The mix is bewildering.  How do you navigate all of this so you get the entertainment you'd like without paying too much for what you want and paying at all for a ton of ads and redundant content?
+
+I posed this as a topic for a BFIH analysis.
+
 ---
 
 **The proposition:**
 
-- **_"."_**
+- **_"In the 2025 media landscape, a hybrid 'active management' strategy provides superior consumer surplus (>30% savings) compared to static bundling or traditional cable models, even after accounting for transaction costs."_**
 
-**The upshot:** 
+**The upshot:** Depending upon how you value raw savings and the mental investment to achieve those savings, you'll come out in different places.
 
 Below is the plain-language synopsis of the BFIH findings, which includes a link to the full analysis report.
 
