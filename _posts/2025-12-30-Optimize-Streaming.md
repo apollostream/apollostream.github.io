@@ -16,7 +16,7 @@ published: true
 
 ---
 
-These days, the entertainment media landscape is fragmented across a host of streaming services, cable & satellite options, internet platforms, and plain old-fashioned free TV broadcasting.  All this is entertwined with each other and the hardware like televisions, streaming boxes, home assistants, mobile devices, and personal computers.  The mix is bewildering.  How do you navigate all of this so you get the entertainment you'd like without paying too much for what you want and paying at all for a ton of ads and redundant content?
+These days, the entertainment media landscape is fragmented across a host of streaming services, cable & satellite options, internet platforms, and plain old-fashioned free TV broadcasting.  All this is entertwined with each other and the hardware like televisions, streaming boxes, home assistants, mobile devices, and personal computers.  The mix is bewildering.  How do you navigate all of this so you get the entertainment you'd like without paying too much for what you want and without paying at all for a ton of ads and redundant content?
 
 I posed this as a topic for a BFIH analysis.
 
