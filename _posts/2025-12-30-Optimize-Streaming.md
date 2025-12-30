@@ -10,11 +10,9 @@ full_analysis: "optimize-streaming-final-report-rev.md"
 publish: false
 ---
 
+![Streaming Interface](https://images.unsplash.com/photo-1574375927938-d5a98e8efe30?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-![Lukas Raich, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)](../images/FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)
-
-*FIA F1 Austria 2018 Nr. 44 Hamilton. (Lukas Raich, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg)).*
-
+*Image credit: Unsplash*
 
 ---
 
