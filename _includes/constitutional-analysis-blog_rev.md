@@ -190,7 +190,7 @@ Then there's the counterfactual problem. We can observe what happened in 2025, b
 
 Most critically, we're assessing current state, not future trajectory. H3 (Stress Test with Recovery) and H4 (Regime Transformation) both fit the evidence from 2025. They diverge on predictions: H3 says institutions will reassert constraints in 2026-2027; H4 says capture will deepen. Only time will tell which is correct.
 
-## What Comes Next?
+## What Comes Next
 
 **The analysis makes specific, testable predictions for 2026-2027:**
 
