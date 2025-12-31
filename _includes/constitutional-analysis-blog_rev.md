@@ -1,4 +1,4 @@
-# When Constitutional Protections Become Conditional: America's 2025 Turning Point
+# When Constitutional Protections Become Conditional: America's 2025 Inflection Point
 
 ## An Analysis of Federal Enforcement, Institutional Capture, and the Question of Loyalty
 
