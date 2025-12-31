@@ -224,7 +224,7 @@ The actual events of 2025 support the hypothesis that the United States is under
 
 **For political opponents—prosecutors, journalists, former officials, attorneys — the targeting is direct and acknowledged.** When the White House Chief of Staff admits that "score settling" motivates prosecutions, when the president enumerates enemies for investigation in the Oval Office, when federal judges find credible claims of vindictive prosecution, the violation of post-Watergate norms becomes undeniable.
 
-**For the general public, the implications are systemic.** When constitutional protections shift from guaranteed rights to contingent privileges that depend on loyalty, when loyalty definitions are arbitrary and can shift, when today's acceptable position becomes tomorrow's prosecutable offense, the foundational premise of rule of law erodes.
+**For all Americans, the implications are systemic.** When constitutional protections shift from guaranteed rights to contingent privileges that depend on loyalty, when loyalty definitions are arbitrary and can shift, when today's acceptable position becomes tomorrow's prosecutable offense, the foundational premise of rule of law erodes.
 
 ## Hope and Honest Uncertainty
 
