@@ -6,7 +6,7 @@
 
 ---
 
-In the final days of 2025, as Americans prepare to mark another year's end, a question hangs over the nation's constitutional order: have the protections promised by the Constitution — equal justice, due process, voting rights — become contingent on political loyalty? Loyalty judged explicitly by individual fealty and implicitly by race, wealth, and sexual orientation.
+In the final days of 2025, as Americans prepare to mark another year's end, a question hangs over the nation's constitutional order: have the protections promised by the Constitution — equal justice, due process, voting rights — become contingent on political loyalty? Loyalty judged explicitly by individual fealty and judged implicitly by race, wealth, and sexual orientation.
 
 This isn't a rhetorical question designed to provoke partisan outrage. It's an empirical question that can be investigated systematically, tested against evidence, and answered with measurable confidence. Using the Bayesian Framework for Intellectual Honesty, we examined 82 distinct sources across institutional behavior, criminal justice, voting rights, and federal enforcement patterns. Our analysis considered five competing explanations ranging from "normal institutional variation" to "regime transformation through institutional capture."
 
