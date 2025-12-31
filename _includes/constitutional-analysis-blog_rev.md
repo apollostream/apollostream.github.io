@@ -268,7 +268,7 @@ This article summarizes a comprehensive Bayesian Framework for Intellectual Hone
 - Falsification criteria and testable predictions for 2026-2027
 
 **Methodology:** Bayesian Framework for Intellectual Honesty Rev 4  
-**Conclusion:** H4 (Regime Transformation) posterior probability 99.25% (robust)  
+**Conclusion:** H4 (Regime Transformation) posterior probability 42%  
 **Confidence:** Evidence is strong (>8 dB weight of evidence)  
 **Analysis Date:** December 30, 2025
 
