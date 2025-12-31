@@ -28,13 +28,13 @@ With a post like this one, I'm compelled to talk a bit more about the process of
 - This particular BFIH analysis was crafted from a more complicated than typical interactive session with Perplexity Pro.
   - See for yourself -- ["Inflection-Point-2025"](https://www.perplexity.ai/search/you-are-a-world-class-bfih-bay-XLv.cYptQFe0esG6fKgUdA#0), which includes the prompts and documents input & generated.
 - Actually, I prompted Perplexity.AI through two entire analyses. The first one was pretty good but the AI system slightly misinterpreted my posed topic. The second one lost some of what I liked about the first but ultimately it was closer to investigating the topic that I wanted it to investigate.
-- Yet, some of the language used in both the synopsis and the final report is stronger than the quantitative results would suggest. This is because I corrected the numbers after the report and synopsis were AI-generated based upon erroneous treatment of all 22 pieces of evidence as conditionally independent given any hypothesis. The correct calculations were made later by a manually edited Python script treating the 4 evidence clusters as conditionally independent given any hypothesis. This change to the correct calculations weakened the support of the dominant hypothesis considerably but that hypothesis, **H4**, retained strong support and still had a posterior probability nearly double that of each of the next two hypotheses, which were roughly equal:
->  - **H4 (Regime Transformation Through Institutional Capture): 42%** (prior: 10%)
->  - H5 (Unitary Executive Authority): 23% (prior: 15%)
->  - H3 (Stress Test with Recovery): 22% (prior: 20%)
->  - H2 (Gradual Erosion): 12% (prior: 25%)
+- Yet, some of the language used in both the synopsis and the final report is stronger than the quantitative results would suggest. This is because I corrected the numbers after the report and synopsis were AI-generated based upon erroneous treatment of all 22 pieces of evidence as conditionally independent given any hypothesis. The correct calculations were made later by a manually edited Python script treating the 4 evidence clusters as conditionally independent given any hypothesis. This change to the correct calculations weakened the support of the dominant hypothesis considerably but that hypothesis, **H4**, retained strong support. Additionally, I deemed the LLM likelihood assessments under each perspective to be suspect for **H5** considering laws and oaths of offices were broken. Those changes left its posterior nearly the same as its prior:
+>  - H4 (Regime Transformation Through Institutional Capture): 48% (prior: 10%)
+>  - H3 (Stress Test with Recovery): 25% (prior: 20%)
+>  - H2 (Gradual Erosion): 14% (prior: 25%)
+>  - H5 (Unitary Executive Authority): 14% (prior: 15%)
 >  - H1 (Constitutional Continuity): 0.00% (prior: 25%)
-- Keep in mind that in all of these BFIH analyses the quantitative values are only intended to inform the resulting narrative about the insights and conclusions. So exact values don't matter but relative magnitudes, esp. in terms of log-odds do (e.g., weight of evidence).
+- The magnitudes of these values are sensitive to the likelihood assessments. Keep in mind that in all of these BFIH analyses the quantitative values are only intended to inform the resulting narrative about the insights and conclusions. So exact values don't matter but relative magnitudes, esp. in terms of log-odds do (e.g., weight of evidence).
 - I also edited the synopsis a tad more than usual: changing a word here and there, adding a spattering of bold-faced font for emphasis, and just fashioning it slightly more in line with what I concluded and wished to communicate from the analysis. You can compare this post to the original AI-generated synopsis markdown document at the Perplexity session linked above to see that the changes are minimal.
 
 ---
