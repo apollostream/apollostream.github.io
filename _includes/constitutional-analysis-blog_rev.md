@@ -240,19 +240,17 @@ The question is whether American institutions—courts, Congress, civil society,
 
 **We'll find out soon. The predictions are testable. The timeline is clear. By the end of 2026, evidence will have accumulated that either falsifies H4 (regime transformation) by showing institutional recovery, or confirms it by showing deepening capture.**
 
-I hope this analysis is wrong. I hope institutions reassert constraints. I hope 2026 brings judicial checks, Congressional oversight, civil service protections, and restored DOJ independence. I hope democracy indices stabilize rather than decline. I hope marginalized communities see protections strengthen rather than weaken.
+I hope American democracy is resilient. I hope institutions reassert constraints. I hope 2026 brings judicial checks, Congressional oversight, civil service protections, and restored DOJ independence. I hope democracy indices stabilize rather than decline. I hope marginalized communities see protections strengthen rather than weaken. But intellectual honesty requires following evidence, not hope.
 
-But intellectual honesty requires following evidence, not hope.
-
-Right now, at the end of 2025, the evidence points toward transformation rather than continuity, toward capture rather than resilience, toward loyalty-based rather than citizenship-based constitutional enforcement.
-
-That's an uncomfortable conclusion. It contradicts our assumptions about American exceptionalism, institutional strength, and constitutional stability. It suggests that what we thought was permanent may be provisional, that what we assumed was guaranteed may be contingent.
+Right now, at the end of 2025, the evidence points toward transformation rather than continuity, toward capture rather than resilience, toward loyalty-based rather than citizenship-based constitutional enforcement. That's an uncomfortable conclusion. It contradicts our assumptions about American exceptionalism, institutional strength, and constitutional stability. It suggests that what we thought was permanent may be provisional, that what we assumed was guaranteed may be contingent.
 
 And yet, evidence compels it.
 
 The work now belongs to citizens, officials, judges, journalists, lawyers, and legislators to determine whether 2025 becomes the year American democracy began a transformation from which it couldn't recover — or the year citizens mobilized to defend constitutional government and institutions found the strength to resist.
 
 History hasn't yet been written. But the choice is becoming clear.
+
+---
 
 ---
 
