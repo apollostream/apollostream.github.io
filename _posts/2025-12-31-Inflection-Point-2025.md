@@ -19,7 +19,7 @@ Two of my previous posts note how anomalous 2025 has been with respect to federa
 
 > **_"What is the nature and magnitude of changes to constitutional enforcement mechanisms in 2025, and what do these changes imply for the realization of constitutional protections for different populations?"_**
 
-**The upshot:** It's not good but **_watch for evidence in 2026_** for a definitive answer.
+**The upshot:** It's not looking good but **_watch for evidence in 2026_** for a more definitive answer.
 
 ---
 
