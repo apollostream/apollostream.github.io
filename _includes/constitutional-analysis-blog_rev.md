@@ -23,7 +23,7 @@ The conclusion is both clear and uncomfortable: the evidence points to a structu
 
 Before diving into evidence, we should acknowledge what we expected to find. Starting with the assumption that American institutions have historically proven resilient—surviving everything from McCarthyism to Watergate to post-9/11 surveillance expansion—we assigned the "regime transformation" hypothesis only a 10% prior probability. That is odds-in-favor of just 1:9. We expected the data to show either normal institutional variation or perhaps a continuation of gradual post-9/11 erosion of civil liberties.
 
-The evidence forced us to revise that belief. The odds increased by a factor of nearly 7 (LR=6.64)[^fitelson].
+The evidence forced us to revise that belief. The odds increased by a factor of 8 (LR=8.2)[^fitelson].
 
 
 [^fitelson]: Fitelson, B. (2001). *Studies in Bayesian Confirmation Theory.* The University of Wisconsin-Madison. [https://www.proquest.com/docview/304725417?sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/304725417?sourcetype=Dissertations%20&%20Theses)
@@ -136,7 +136,7 @@ We didn't approach this analysis assuming the worst. We systematically evaluated
 
 **H5: Legitimate Executive Authority Expansion** argued that 2025 actions fall within proper Article II presidential authority, that courts properly defer on national security and personnel matters, and that outcome disparities reflect non-governmental factors rather than constitutional violations. This hypothesis failed even when we analyzed evidence through a lens maximally favorable to presidential power. The IG removals violated clear statutory requirements. Selective prosecution was admitted by White House officials. First Amendment violations (law firm targeting) can't be justified even under the broadest unitary executive theory.
 
-The Bayesian analysis assigned H4 just a 10% prior probability—we started skeptical that American institutions could be captured so thoroughly. The evidence forced us to revise that probability to 42%. This wasn't what we wanted to find. It's what the evidence compelled us to conclude.
+The Bayesian analysis assigned H4 just a 10% prior probability—we started skeptical that American institutions could be captured so thoroughly. The evidence forced us to revise that probability to 48%. This wasn't what we wanted to find. It's what the evidence compelled us to conclude.
 
 ## The Method Matters
 
@@ -266,8 +266,8 @@ This article summarizes a comprehensive Bayesian Framework for Intellectual Hone
 - Falsification criteria and testable predictions for 2026-2027
 
 **Methodology:** Bayesian Framework for Intellectual Honesty Rev 4  
-**Conclusion:** H4 (Regime Transformation) posterior probability 42%  
-**Confidence:** Evidence is strong (>8 dB weight of evidence)  
+**Conclusion:** H4 (Regime Transformation) posterior probability 48%  
+**Confidence:** Evidence is strong (>9 dB weight of evidence)  
 **Analysis Date:** December 30, 2025
 
 *__For readers interested in the technical details, the full analysis, evidence matrices, and complete source bibliography are available separately: [Perplexity session](https://www.perplexity.ai/search/inflection-point-2025-XLv.cYptQFe0esG6fKgUdA#0).__*
