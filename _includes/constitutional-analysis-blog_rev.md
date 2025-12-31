@@ -23,7 +23,7 @@ The conclusion is both clear and uncomfortable: the evidence points to a structu
 
 Before diving into evidence, we should acknowledge what we expected to find. Starting with the assumption that American institutions have historically proven resilient—surviving everything from McCarthyism to Watergate to post-9/11 surveillance expansion—we assigned the "regime transformation" hypothesis only a 10% prior probability. That is odds-in-favor of just 1:9. We expected the data to show either normal institutional variation or perhaps a continuation of gradual post-9/11 erosion of civil liberties.
 
-The evidence forced us to revise that belief. The odds increased by a factor of 8 (LR=8.2)[^fitelson].
+The evidence forced us to revise that belief. The odds increased by a factor of 8 (LR=8.2)[^fitelson] to nearly even.
 
 
 [^fitelson]: Fitelson, B. (2001). *Studies in Bayesian Confirmation Theory.* The University of Wisconsin-Madison. [https://www.proquest.com/docview/304725417?sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/304725417?sourcetype=Dissertations%20&%20Theses)
