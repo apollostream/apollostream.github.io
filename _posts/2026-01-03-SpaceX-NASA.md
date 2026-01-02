@@ -16,7 +16,7 @@ I wanted to learn a bit more about the structure of the NASA and SpaceX deals. T
 
 > **_"SpaceX epitomizes the best of private ventures achieving global-scale goals as well as creating capital value in a way that public/gov't agencies cannot."_**
 
-**The upshot:** NASA & SpaceX.
+**The upshot:** NASA & SpaceX have had a mutually beneficial partnership.
 
 ---
 
