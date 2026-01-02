@@ -26,7 +26,7 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 ---
 
-{% include Philosophy-synopsis-include.md %}
+{% include spacex-nasa_synopsis_report_rev.md %}
 
 ---
 
