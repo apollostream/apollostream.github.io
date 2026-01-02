@@ -236,7 +236,7 @@ The evidence suggests three key points:
 
 1. **Philosophy is not dead in the sense of being replaced by science.** Some of its ideas are more entangled with science than ever, and its tools are actively used in other domains.[^7][^11]
 2. **Philosophy is not dead in the sense of having no new ideas.** There are genuinely new frameworks and concepts on the table, many of which have already reshaped parts of the discipline and influenced other fields.[^6][^4][^7]
-3. **Philosophy is “dead” only if you demand that progress must look like physics.** If your standard is unanimous agreement on final answers to timeless questions, then philosophy will always look like it is failing.
+3. **Philosophy is “dead” only if you demand that progress must look like science.** If your standard is concensus agreement on final answers to timeless questions, then philosophy will always look like it is failing.
 
 A more realistic and, arguably, more honest way to see the field is as an ongoing effort to:
 
@@ -248,6 +248,7 @@ A more realistic and, arguably, more honest way to see the field is as an ongoin
 On that picture, philosophy is very much alive. It is not a machine for producing final answers but a discipline for **making sense of being the kind of creatures who ask these questions at all**.
 
 For individual readers, that means this: philosophy is unlikely to tell you exactly what to believe, but it can make you far better at understanding what you already believe, what alternatives you might consider, and what is at stake in those choices. That is not a cure for uncertainty, but it is a powerful way to live more deliberately in a world that will probably never stop being mysterious.
+
 <span style="display:none">[^18]</span>
 
 <div align="center">⁂</div>
