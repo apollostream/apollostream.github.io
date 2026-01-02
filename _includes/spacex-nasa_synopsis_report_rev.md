@@ -121,5 +121,4 @@ This model is now the envy of the world. While Europe and China struggle to repl
 [^3_11]: Reddit. (n.d.). *Ariane 6 Cost Discussion*. https://www.reddit.com/r/SpaceXMasterrace/comments/1hruc1u/fun_fact_the_ariane_6_launch_vehicle_will_cost/
 [^3_23]: Inverse. (n.d.). *Ariane 6 vs SpaceX*. https://www.inverse.com/science/innovation/ariane-6-vs-spacex
 
----
 
