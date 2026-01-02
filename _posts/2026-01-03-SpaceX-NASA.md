@@ -10,7 +10,7 @@ published: false
 
 ---
 
-I wanted to learn a bit more about the structure of the NASA and SpaceX deals. The narative that the private sector is somehow inherently better at all things than the public sector presents itself as an easy strawman to poke holes through. So, I turned to BFIH for a more complete analysis from different perspectives, posing different hypotheses, being as thorough as possible at seeking out all relevant evidence whether for or against any particular hypotheses, and then just turning the Bayesian computational crank to see where it sorted out.
+I wanted to learn a bit more about the structure of the NASA and SpaceX deals. The narrative that the private sector is somehow inherently better at all things than the public sector presents itself as an easy strawman to poke holes through. So, I turned to BFIH for a more complete analysis from different perspectives, posing different hypotheses, being as thorough as possible at seeking out all relevant evidence whether for or against any particular hypotheses, and then just turning the Bayesian computational crank to see where it sorted out.
 
 In the process, I was sure to uncover plenty of sources to read up on.  And, as usual, the BFIH analysis turned out to be helpful.
 
