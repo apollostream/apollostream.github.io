@@ -112,10 +112,6 @@ This model is now the envy of the world. While Europe and China struggle to repl
 [^2_104]: Waveup. (n.d.). *Top Aerospace and Space Venture Capital Firms*. https://waveup.com/blog/top-aerospace-and-space-venture-capital-firms
 [^2_113]: VC Sheet. (n.d.). *Space Venture Capital Sheet*. https://www.vcsheet.com/sheet/space
 [^2_116]: Failory. (n.d.). *Aerospace & Space Venture Capital Firms*. https://www.failory.com/blog/aerospace-space-venture-capital-firms
-
-## Tier 4: General Media & Public Commentary (Moderate Reliability)
-Sources in this tier include general news, opinion pieces, and community discussions which provide context but are not primary data sources.
-
 [^1_33]: Reason. (n.d.). *NASA Should Consider Switching to SpaceX Starship*. https://reason.org/commentary/nasa-should-consider-switching-to-spacex-starship-for-future-missions/
 [^1_18]: YouTube. (n.d.). *SpaceX Video Analysis*. https://www.youtube.com/watch?v=jMOt5yAyXLc
 [^1_21]: Reddit. (n.d.). *SpaceX vs NASA Budget Discussion*. https://www.reddit.com/r/SpaceXLounge/comments/cg1cb3/what_is_the_budget_of_spacex_versus_nasas_21/
