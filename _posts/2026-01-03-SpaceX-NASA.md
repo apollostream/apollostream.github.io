@@ -22,6 +22,10 @@ In the process, I was sure to uncover plenty of sources to read up on.  And, as 
 
 ---
 
+**Caveats:** *In my customary review of the contents and sources cited by the AI-generated BFIH reports, I found some discrepancies in the attribution of funding to specific contracts as stated in the report and reported elsewhere. I've corrected the ones I found. But, I can't guarantee that no others exist.*
+
+---
+
 Below is the plain-language synopsis of the BFIH findings, which includes a link to the full BFIH analysis report with bibliography.
 
 ---
