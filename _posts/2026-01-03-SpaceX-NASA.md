@@ -4,7 +4,7 @@ title: "SpaceX vs. NASA? NASA & SpaceX?"
 published: false
 ---
 
-![From the ancients to AI](../images/philosophy-image4.png)
+![SpaceX blast-off.](../images/spacex-Ptd-iTdrCJM-unsplash.jpg)
 
 *Photo by* <a href="https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">*SpaceX*</a> *on* <a href="https://unsplash.com/photos/rocket-ship-launching-during-daytime-Ptd-iTdrCJM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">*Unsplash*</a>
 
