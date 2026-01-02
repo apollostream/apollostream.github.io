@@ -22,7 +22,7 @@ In the process, I was sure to uncover plenty of sources to read up on.  And, as 
 
 ---
 
-**Caveats:** *__Beware errors!__ In my customary review of the contents and sources cited by the AI-generated BFIH reports on this topic, I found some discrepancies between the attribution of SpaceX funding to specific government contracts as stated in the report and those reported elsewhere. The ones I found in the synopsis also had footnotes to relevant but the wrong sources. These inaccuracies do not change the analysis conclusions or the upshot of the synopsis, but they are errors. I correct as many as my manual investigation of the sources and ancillary Google AI Mode searches uncover. But, frankly, some of those errors persist in these reports because I've gotten what I want out of my manual queries and don't want to spend the time editing the documents.*
+**Caveats:** *__Beware errors!__ In my customary review of the contents and sources cited by the AI-generated BFIH reports on this topic, I found some discrepancies between the attribution of SpaceX funding to specific government contracts as stated in the report and those reported elsewhere. The ones I found in the synopsis also had footnotes to relevant but the wrong sources. These inaccuracies do not change the analysis conclusions or the upshot of the synopsis, but they are errors. I correct a few as my manual investigation of the sources and ancillary Google AI Mode searches uncover. But, frankly, some of those errors persist in these reports because I've gotten what I want out of my manual queries and don't want to spend the time editing the documents.*
 
 ---
 
