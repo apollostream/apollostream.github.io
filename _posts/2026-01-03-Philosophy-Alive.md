@@ -14,11 +14,18 @@ From [a conversation with Gemini Pro 3.0, using Perplexity.AI](https://www.perpl
 
 Well, right up until I read through the cited sources, and tried to sort through the jumble of incorrect URLs it compiled as footnotes for the synopsis below. I learned a lot going to each of the originally generated sources of thee interactive session and finding the appropriate ones to swap in as correct URLs in those footnotes. Time-consuming but part and parcel what's necessary to trust your AI-generated reports.
 
+But then, I decided to prompt the AI system through another iteration of review and critique.  
+
+- The review included RAG based upon a markdown transcript of the Perplexity.AI session, which includes the exact URLs returned by its internal Google searches, and created a new Python script to deterministcally match each report citation with a verified URL.
+- The critique was eye-opening. So, I include it below in the ["Caveats"](#caveats) section. It is a reminder that it actually takes genuine expertise in the field of inquiry to judge how valid each of these AI-generated reports really are.
+
+---
+
 **The research question:**
 
-> **_"Is Philosophy dead?"_**
+> **_"Is philosophy "dead" in the sense that all meritorious ideas about human existence have been exhaustively explored, leaving only recombinations?"_**
 
-**The upshot:** Yes -- and I learned something....
+**The upshot:** Far from it -- and I learned something....
 
 ---
 
@@ -27,6 +34,14 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 ---
 
 {% include Philosophy-synopsis-include.md %}
+
+---
+
+# Caveats
+
+{% include philosophy-bfih-caveats.md }
+
+<div align="center">⁂</div>
 
 ---
 
