@@ -192,7 +192,6 @@ For a modern seeker, that is neither a eulogy nor a sales pitch. It is an invita
 
 ---
 
-## References (APA style)
 
 [^1_1]: Philosophy Now. (2011). *Hawking contra philosophy*. Philosophy Now, Issue 82. https://philosophynow.org/issues/82/Hawking_contra_Philosophy
 
