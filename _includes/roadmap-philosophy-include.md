@@ -22,7 +22,7 @@ This roadmap is your guided tour of that machinery.
 
 ---
 
-## Stop #1: The Engine Room – New Concepts That Didn’t Exist in 1990
+## The Engine Room – New Concepts That Didn’t Exist in 1990
 
 If philosophy were truly dead, we would expect to see zero genuine conceptual innovation—only recycling. Instead, when we opened the hood of 21st‑century philosophy, we found a suite of radical new tools developed in just the last 15–20 years.
 
@@ -54,7 +54,7 @@ Again, this isn’t just recycling. It is a targeted response to the modern "har
 
 ---
 
-## Stop #2: The Export Terminal – When Philosophy Becomes Engineering
+## The Export Terminal – When Philosophy Becomes Engineering
 
 Critics often miss philosophy’s progress because once a philosophical tool works, it gets exported and rebranded as "science" or "math." Our analysis tracked these exports and found that philosophy has functioned, repeatedly, as R&D for other disciplines.[^1_95][^1_102]
 
@@ -79,7 +79,7 @@ These are not cases of "science replacing philosophy" so much as science running
 
 ---
 
-## Stop #3: The Junkyard – Ideas We Will Not Return To
+## The Junkyard – Ideas We Will Not Return To
 
 Progress is not only building; it is also **unbuilding**. One of the most striking findings from the BFIH analysis is the extent of **negative progress**: entire families of once‑dominant views have been abandoned and are unlikely to return.[^1_3][^2_16]
 
@@ -187,8 +187,6 @@ From the standpoint of intellectual honesty, the fairest summary is this:
 > Philosophy is not dead, but it is not what many people once hoped it would be. It is less a factory of final answers and more an evolving workshop of conceptual tools, negative progress, and interdisciplinary scaffolding. The abyss has no bottom—but we are getting much better at building ladders inside it.
 
 For a modern seeker, that is neither a eulogy nor a sales pitch. It is an invitation: to treat philosophy not as a promise of closure, but as a disciplined way of **walking the open questions** with your eyes fully open.
-
-<div align="center">⁂</div>
 
 ---
 
