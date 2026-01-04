@@ -12,12 +12,12 @@ published: false
 
 From [a conversation with Gemini Pro 3.0, using Perplexity.AI](https://www.perplexity.ai/search/philosophy-s-vast-richness-avA8jGcZRNeEKAGD_ZIXWg#7), I segued into a request for a BFIH analysis.  It didn't disappoint!
 
-Well, right up until I read through the cited sources, and tried to sort through the jumble of incorrect URLs it compiled as footnotes for the synopsis below. I learned a lot going to each of the originally generated sources of thee interactive session and finding the appropriate ones to swap in as correct URLs in those footnotes. Time-consuming but part and parcel what's necessary to trust your AI-generated reports.
+Well, right up until I read through the cited sources, and tried to sort through the jumble of incorrect URLs it compiled as footnotes for the first version of the synopsis. I learned a lot going to each of the originally generated sources of the interactive session and finding the appropriate ones to swap in as correct URLs in those footnotes. Time-consuming but often what's necessary to trust your AI-generated reports.
 
-But then, I decided to prompt the AI system through another iteration of review and critique.  
+And, then, I decided to prompt the AI system through another iteration of review and critique.  
 
-- The review included RAG based upon a markdown transcript of the Perplexity.AI session, which includes the exact URLs returned by its internal Google searches, and created a new Python script to deterministcally match each report citation with a verified URL.
-- The critique was eye-opening. So, I include it below in the ["Caveats"](#caveats) section. It is a reminder that it actually takes genuine expertise in the field of inquiry to judge how valid each of these AI-generated reports really are.
+- The review included RAG based upon a markdown transcript of [the interactive Perplexity.AI session](https://www.perplexity.ai/search/philosophy-s-vast-richness-avA8jGcZRNeEKAGD_ZIXWg#0), which contains the exact URLs returned by its internal Google searches. The AI system created a new Python script to deterministcally match each report citation with a verified URL.
+- The critique came next and was eye-opening. I include it below in the ["Caveats"](#caveats) section. It is a cautionary reminder that it actually takes genuine expertise in the field of inquiry to judge how valid each of these AI-generated reports really are.
 
 ---
 
@@ -41,9 +41,9 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 {% include philosophy-bfih-caveats.md }
 
-<div align="center">⁂</div>
-
 ---
+
+<div align="center">⁂</div>
 
 Thank you for your time and mindshare,
 
