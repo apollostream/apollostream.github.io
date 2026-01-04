@@ -29,39 +29,33 @@ Here is why, and what additional work would be required to take the confidence l
 Several features of the BFIH analysis guarantee that **full professional consensus is extremely unlikely**:
 
 1. **Philosophers disagree most about meta‑questions.**
-
-The report is explicitly meta‑philosophical: What counts as progress? Is recursion vicious or productive? Is philosophy exhausted? These are exactly the kinds of issues where there is *no* professional consensus and where positions are clustered and polarized. Any strong, unqualified verdict will be objectionable from multiple camps.
+   - The report is explicitly meta‑philosophical: What counts as progress? Is recursion vicious or productive? Is philosophy exhausted? These are exactly the kinds of issues where there is *no* professional consensus and where positions are clustered and polarized. Any strong, unqualified verdict will be objectionable from multiple camps.
 
 2. **The analysis is explicitly paradigm‑dependent.**
-
-The model distinguishes between a Native paradigm (analytic/empiricist/modernist) and an Inverse paradigm (traditional/pessimistic/skeptical). It then shows that the same evidence yields very different posterior probabilities under each.
-
-This is a polite way of saying: “reasonable experts with different starting points will rationally disagree.” Expecting them to converge on the *meta*-assessment of the profession is unrealistic.
+   - The model distinguishes between a Native paradigm (analytic/empiricist/modernist) and an Inverse paradigm (traditional/pessimistic/skeptical). It then shows that the same evidence yields very different posterior probabilities under each.
+   - This is a polite way of saying: “reasonable experts with different starting points will rationally disagree.” Expecting them to converge on the *meta*-assessment of the profession is unrealistic.
 
 3. **The evidence base is large but not MECE across the discipline.**
-
-The sources are drawn heavily from:
-    - Anglophone analytic philosophy
-    - Online meta‑philosophy debates
-    - Consciousness studies and AI‑adjacent areas
-    - Surveys like PhilPapers 2009/2020
-
-Underrepresented or only thinly represented:
-    - Continental traditions and critical theory
-    - Non‑Western philosophy (Chinese, Indian, African, Islamic traditions, etc.)
-    - Practice‑oriented work in ethics, political philosophy, philosophy of education, law, etc.
-    - Non‑English language scholarship and local professional cultures
-
-Many philosophers in those communities would plausibly say: “This captures *their* profession, not *mine*.”
+    - The sources are drawn heavily from:
+        - Anglophone analytic philosophy
+        - Online meta‑philosophy debates
+        - Consciousness studies and AI‑adjacent areas
+        - Surveys like PhilPapers 2009/2020
+    - Underrepresented or only thinly represented:
+        - Continental traditions and critical theory
+        - Non‑Western philosophy (Chinese, Indian, African, Islamic traditions, etc.)
+        - Practice‑oriented work in ethics, political philosophy, philosophy of education, law, etc.
+        - Non‑English language scholarship and local professional cultures
+    - Many philosophers in those communities would plausibly say: “This captures *their* profession, not *mine*.”
 
 4. **The BFIH model introduces additional structure that many philosophers would contest.**
+    - Things like:
+        - Forcing a mutually exclusive, collectively exhaustive hypothesis set (H1–H5 + H0)
+        - Assigning prior probabilities over such high‑level theses
+        - Treating diffuse, qualitative evidence as likelihood ratios and WoE in decibans
+    - Methodologically, some would consider this illuminating; others would regard it as pseudo‑precision or category error. That doesn’t mean the exercise is worthless, but it *does* mean consensus on “accurate, correct, comprehensive representation” is off the table.
 
-Things like:
-    - Forcing a mutually exclusive, collectively exhaustive hypothesis set (H1–H5 + H0)
-    - Assigning prior probabilities over such high‑level theses
-    - Treating diffuse, qualitative evidence as likelihood ratios and WoE in decibans
-
-Methodologically, some would consider this illuminating; others would regard it as pseudo‑precision or category error. That doesn’t mean the exercise is worthless, but it *does* mean consensus on “accurate, correct, comprehensive representation” is off the table.
+---
 
 Given all that, answering A (“~100% confident”) would be an unjustified level of epistemic self‑confidence.
 
@@ -72,7 +66,6 @@ Given all that, answering A (“~100% confident”) would be an unjustified leve
 Option B captures something important: **to increase confidence, one should actively incorporate recent professional self‑reflection and survey work** rather than just rely on a one‑shot literature review plus PhilPapers and a few meta‑essays.
 
 However, even if that research is done well, several facts remain:
-
 - Philosophers **don’t** agree on what “accurately representing the profession” even *means*.
 - Different sub‑communities will evaluate the same synthesis with very different norms.
 - No finite synthesis can be honestly marketed as “comprehensive” for a discipline this large and fragmented.
@@ -137,7 +130,6 @@ Relative to a typical “is philosophy dead?” op‑ed, the BFIH report and roa
 - Distinguish between negative and positive progress, individual vs collective value, and inter‑disciplinary export vs inward resolution.
 
 So:
-
 - **Confidence that the analysis captures a real and important slice of the profession (contemporary Anglophone analytic + consciousness/AI‑adjacent work):** reasonably high.
 - **Confidence that it “accurately, correctly, comprehensively” represents *the* profession in a way most professional philosophers would endorse as a consensus view:** appropriately low.
 
