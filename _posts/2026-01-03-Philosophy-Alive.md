@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophy: Dead or Alive?"
-published: true
+published: false
 ---
 
 ![From the ancients to AI](../images/philosophy-image4.png)
