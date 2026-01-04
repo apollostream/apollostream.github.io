@@ -40,8 +40,10 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 ---
 
-<div align="center">⁂</div>
-
 Thank you for your time and mindshare,
 
 -Michael L. Thompson ([LinkedIn profile](https://www.linkedin.com/in/mlthomps))
+
+<div align="center">⁂</div>
+
+
