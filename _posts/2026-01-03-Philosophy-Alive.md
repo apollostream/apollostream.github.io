@@ -10,7 +10,7 @@ published: true
 
 ---
 
-From [a conversation with Gemini Pro 3.0, using Perplexity.AI](https://www.perplexity.ai/search/philosophy-s-vast-richness-avA8jGcZRNeEKAGD_ZIXWg#7), I segued into a request for a BFIH analysis.  It didn't disappoint!
+From [a conversation with Gemini Pro 3.0, using Perplexity.AI](https://www.perplexity.ai/search/philosophy-s-vast-richness-avA8jGcZRNeEKAGD_ZIXWg#0), I segued into a request for a BFIH analysis.  It didn't disappoint!
 
 Well, right up until I read through the cited sources, and tried to sort through the jumble of incorrect URLs it compiled as footnotes for the first version of the synopsis. I learned a lot going to each of the originally generated sources of the interactive session and finding the appropriate ones to swap in as correct URLs in those footnotes. Time-consuming but often what's necessary to trust your AI-generated reports.  Ultimately, though, I decided to prompt the AI system through another iteration of review and critique.  
 
