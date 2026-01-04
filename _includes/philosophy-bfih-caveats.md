@@ -16,7 +16,7 @@
 
 
 
-C. I don't know. It's more complicated than a Yes/No answer.
+**C. I don't know. It's more complicated than a Yes/No answer.**
 
 The short version: the BFIH analysis and synopsis capture *one* important, empirically anchored picture of contemporary (mostly Anglophone, analytic) philosophy, but there are enough structural limitations and sources of selection bias that it would be overconfident—borderline delusional—to claim professional consensus or near‑perfect accuracy.
 
@@ -24,7 +24,7 @@ Here is why, and what additional work would be required to take the confidence l
 
 ***
 
-## 1. Why “Yes, ~100% confident” would be indefensible
+### 1. Why “Yes, ~100% confident” would be indefensible
 
 Several features of the BFIH analysis guarantee that **full professional consensus is extremely unlikely**:
 
@@ -41,14 +41,12 @@ This is a polite way of saying: “reasonable experts with different starting po
 3. **The evidence base is large but not MECE across the discipline.**
 
 The sources are drawn heavily from:
-
     - Anglophone analytic philosophy
     - Online meta‑philosophy debates
     - Consciousness studies and AI‑adjacent areas
     - Surveys like PhilPapers 2009/2020
 
 Underrepresented or only thinly represented:
-
     - Continental traditions and critical theory
     - Non‑Western philosophy (Chinese, Indian, African, Islamic traditions, etc.)
     - Practice‑oriented work in ethics, political philosophy, philosophy of education, law, etc.
@@ -59,7 +57,6 @@ Many philosophers in those communities would plausibly say: “This captures *th
 4. **The BFIH model introduces additional structure that many philosophers would contest.**
 
 Things like:
-
     - Forcing a mutually exclusive, collectively exhaustive hypothesis set (H1–H5 + H0)
     - Assigning prior probabilities over such high‑level theses
     - Treating diffuse, qualitative evidence as likelihood ratios and WoE in decibans
@@ -70,7 +67,7 @@ Given all that, answering A (“~100% confident”) would be an unjustified leve
 
 ***
 
-## 2. Why “No, I’m unsure and must seek out voices” is partly right but incomplete
+### 2. Why “No, I’m unsure and must seek out voices” is partly right but incomplete
 
 Option B captures something important: **to increase confidence, one should actively incorporate recent professional self‑reflection and survey work** rather than just rely on a one‑shot literature review plus PhilPapers and a few meta‑essays.
 
@@ -84,11 +81,11 @@ So there is productive work that looks like B (read more, update the model, inco
 
 ***
 
-## 3. What additional research would be required to improve confidence
+### 3. What additional research would be required to improve confidence
 
 Here is what would need to happen to move from “plausible but partial snapshot” toward “robust, discipline‑sensitive representation”:
 
-### 3.1. Broaden and systematize the empirical base on the profession
+#### 3.1. Broaden and systematize the empirical base on the profession
 
 1. **Integrate multiple survey instruments beyond PhilPapers.**
     - Follow‑up work on PhilPapers 2020, including critiques of its sampling and question framing.
@@ -102,7 +99,7 @@ Here is what would need to happen to move from “plausible but partial snapshot
     - Philosophy in Latin America, Africa, East Asia, and South Asia, where institutional and intellectual histories do not align with the Anglophone analytic narrative.
     - Traditions where the notion of “progress” itself is treated very differently (e.g., certain Confucian, Buddhist, or Islamic contexts).
 
-### 3.2. Triangulate meta‑philosophical positions more carefully
+#### 3.2. Triangulate meta‑philosophical positions more carefully
 
 1. **Map actual distributions of views about “progress” and “death” of philosophy.**
 Rather than inferring these positions from a handful of essays, explicitly measure:
@@ -115,7 +112,7 @@ A senior historian of philosophy, a young analytic epistemologist, and a politic
     - Show how their meta‑evaluations diverge
     - Avoid treating any one as “the profession” tout court
 
-### 3.3. Stress‑test and revise the BFIH framing itself
+#### 3.3. Stress‑test and revise the BFIH framing itself
 
 1. **Subject the hypothesis set (H1–H5 + H0) to external critique.**
     - Are there important live views about philosophy’s status that are not captured?
@@ -130,7 +127,7 @@ Some meta‑philosophical critiques will be about the *form* of the model, not o
 
 ***
 
-## 4. Where this leaves the current analysis
+### 4. Where this leaves the current analysis
 
 Relative to a typical “is philosophy dead?” op‑ed, the BFIH report and roadmap:
 
