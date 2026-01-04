@@ -37,6 +37,7 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 # Caveats
 
+{% include philosophy-bfih-caveats.md %}
 
 ---
 
