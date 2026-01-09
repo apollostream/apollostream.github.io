@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "College Football and Tradition"
-published: false
+published: true
 ---
 
 ![From the ancients to AI](../images/media_rights_distant_stadium_view_football.png)
