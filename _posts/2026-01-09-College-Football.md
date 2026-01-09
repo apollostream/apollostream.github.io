@@ -24,7 +24,7 @@ But, I have my own biases born from family ties to the sport and first-hand witn
 
 **The research topic:**
 
-> **_"The traditions of NCAA Division I American college football -- amateur 'student-athletes', athletes & coaches loyal to the universities, school rivalries -- were destroyed by colleges & coaches chasing (TV) money many years before NIL and the transfer portal.'."_**
+> **_"The traditions of NCAA Division I American college football -- amateur 'student-athletes', athletes & coaches loyal to the universities, school rivalries -- were destroyed by colleges & coaches chasing (TV) money many years before NIL and the transfer portal."_**
 
 **The upshot:** Facts is facts: today's college game is the inevitable culmination of big-money forces set in motion decades ago.
 
