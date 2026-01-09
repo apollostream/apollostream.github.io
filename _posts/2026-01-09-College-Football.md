@@ -18,7 +18,7 @@ I always sneer when someone suggests that NIL and the transfer portal have "ruin
 
 And, ... well, I could go on and on ....
 
-But, I have my own biases born from family ties to the sport and first-hand witnessing as a former NCAA Division I athlete myself.  So, I turned to an intellectually honest oracle for its take on the topic.
+But, I have my own biases born from family ties to the sport and first-hand witnessing as a former NCAA Division I athlete myself (see ["Trackmen set personal records", *The Daily Northwestern*](https://drive.google.com/file/d/1rDWAp0brv6RJc-d3QBqd3-j6bxCCBtDE/view?usp=sharing)).  So, I turned to an intellectually honest oracle for its take on the topic.
 
 ---
 
