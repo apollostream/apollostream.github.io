@@ -156,7 +156,7 @@ Here's the crucial finding: **The destruction of traditional college football st
 
 Television money had already reshaped conferences beyond recognition. Traditional rivalries had already been sacrificed repeatedly for media contracts. The "student-athlete amateur" model had already been exposed as legally and ethically indefensible.
 
-NIL and the transfer portal didn't destroy college football's traditions. They arrived at the funeral.
+**NIL and the transfer portal didn't destroy college football's traditions. They arrived at the funeral.**
 
 ---
 
@@ -312,34 +312,34 @@ That collapse is happening now. What matters is what comes next.
 ## References
 
 
-1. Staples, A. (2012, August 6). How television changed college football—and how it will again. Sports Illustrated. https://www.si.com/college/2012/08/06/tv-college-football
+1. Staples, A. (2012, August 6). How television changed college football—and how it will again. Sports Illustrated. [https://www.si.com/college/2012/08/06/tv-college-football](https://www.si.com/college/2012/08/06/tv-college-football)
 
-2. City Journal. (2022). College Football’s Twilight. City Journal. https://www.city-journal.org/article/college-footballs-twilight
+2. City Journal. (2022). College Football’s Twilight. City Journal. [https://www.city-journal.org/article/college-footballs-twilight](https://www.city-journal.org/article/college-footballs-twilight)
 
-3. The Washington Post. (2023, August 15). College football realignment doesn’t account for tradition or history. https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/
+3. The Washington Post. (2023, August 15). College football realignment doesn’t account for tradition or history. [https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/](https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/)
 
-4. Wikipedia. (2025). O’Bannon v. NCAA. https://en.wikipedia.org/wiki/O%27Bannon_v._NCAA
+4. Wikipedia. (2025). O’Bannon v. NCAA. [https://en.wikipedia.org/wiki/O%27Bannon_v._NCAA](https://en.wikipedia.org/wiki/O%27Bannon_v._NCAA)
 
-5. Wikipedia. (2026). National Collegiate Athletic Association v. Alston. https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association_v._Alston
+5. Wikipedia. (2026). National Collegiate Athletic Association v. Alston. [https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association_v._Alston](https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association_v._Alston)
 
-6. Wikipedia. (2026). Fair Pay to Play Act. https://en.wikipedia.org/wiki/Fair_Pay_to_Play_Act
+6. Wikipedia. (2026). Fair Pay to Play Act. [https://en.wikipedia.org/wiki/Fair_Pay_to_Play_Act](https://en.wikipedia.org/wiki/Fair_Pay_to_Play_Act)
 
-7. Time. (2024). Ramogi Huma Is Playing the Long Game in His Fight for College Athletes' Rights. https://time.com/collection/closers/6564903/ramogi-huma-college-athletes-nil-rights/
+7. Time. (2024). Ramogi Huma Is Playing the Long Game in His Fight for College Athletes' Rights. [https://time.com/collection/closers/6564903/ramogi-huma-college-athletes-nil-rights/](https://time.com/collection/closers/6564903/ramogi-huma-college-athletes-nil-rights/)
 
-8. Associated Press. (2025). Rebuilding Pac‑12 reaches deal with CBS for its football and men's basketball games. https://apnews.com/article/e14934d0e4beb72ccaaffd52044080c7
+8. Associated Press. (2025). Rebuilding Pac‑12 reaches deal with CBS for its football and men's basketball games. [https://apnews.com/article/e14934d0e4beb72ccaaffd52044080c7](https://apnews.com/article/e14934d0e4beb72ccaaffd52044080c7)
 
-9. Washington Post. (2025, March 4). ACC works out a deal to appease Florida State and Clemson (for now). https://www.washingtonpost.com/sports/2025/03/04/acc-settlement-clemson-florida-state/
+9. Washington Post. (2025, March 4). ACC works out a deal to appease Florida State and Clemson (for now). [https://www.washingtonpost.com/sports/2025/03/04/acc-settlement-clemson-florida-state/](https://www.washingtonpost.com/sports/2025/03/04/acc-settlement-clemson-florida-state/)
 
-10. Tomahawk Nation. (2025, March 13). How hubris and complacency brought ACC to brink of destruction. https://www.tomahawknation.com/2025/3/13/24378086/acc-lawsuit-settlement-unc-clemson-conference-realignment-expansion-basketball-corrigan-money
+10. Tomahawk Nation. (2025, March 13). How hubris and complacency brought ACC to brink of destruction. [https://www.tomahawknation.com/2025/3/13/24378086/acc-lawsuit-settlement-unc-clemson-conference-realignment-expansion-basketball-corrigan-money](https://www.tomahawknation.com/2025/3/13/24378086/acc-lawsuit-settlement-unc-clemson-conference-realignment-expansion-basketball-corrigan-money)
 
-11. City Journal. (2022). College Football’s Twilight. City Journal. https://www.city-journal.org/article/college-footballs-twilight
+11. City Journal. (2022). College Football’s Twilight. City Journal. [https://www.city-journal.org/article/college-footballs-twilight](https://www.city-journal.org/article/college-footballs-twilight)
 
-12. The Evanstonian. (2025, October 24). THE SCHMECK EFFECT: Conference realignment is destroying college sports. https://www.evanstonian.net/sports/2025/10/24/the-schmeck-effect-conference-realignment-is-destroying-college-sports/
+12. The Evanstonian. (2025, October 24). THE SCHMECK EFFECT: Conference realignment is destroying college sports. [https://www.evanstonian.net/sports/2025/10/24/the-schmeck-effect-conference-realignment-is-destroying-college-sports/](https://www.evanstonian.net/sports/2025/10/24/the-schmeck-effect-conference-realignment-is-destroying-college-sports/)
 
-13. The Washington Post. (2023, August 15). College football realignment doesn’t account for tradition or history. https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/
+13. The Washington Post. (2023, August 15). College football realignment doesn’t account for tradition or history. [https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/](https://www.washingtonpost.com/sports/2023/08/15/college-football-super-league/)
 
-14. Zaia, J. (2025). The History and Future of Amateurism in College Sports. Fordham International Law Journal, 35(2), 503. https://ir.lawnet.fordham.edu/iplj/vol35/iss2/5/
+14. Zaia, J. (2025). The History and Future of Amateurism in College Sports. Fordham International Law Journal, 35(2), 503. [https://ir.lawnet.fordham.edu/iplj/vol35/iss2/5/](https://ir.lawnet.fordham.edu/iplj/vol35/iss2/5/)
 
-15. American Bar Association. (2025). Name, Image, and Leverage: Conditioning Federal Grants to Resolve Crisis in College Athletics. https://www.americanbar.org/groups/public_contract_law/resources/journal/2025-fall/nil-conditioning-federal-grants-crisis-college-athletics/
+15. American Bar Association. (2025). Name, Image, and Leverage: Conditioning Federal Grants to Resolve Crisis in College Athletics. [https://www.americanbar.org/groups/public_contract_law/resources/journal/2025-fall/nil-conditioning-federal-grants-crisis-college-athletics/](https://www.americanbar.org/groups/public_contract_law/resources/journal/2025-fall/nil-conditioning-federal-grants-crisis-college-athletics/)
 
 ---
