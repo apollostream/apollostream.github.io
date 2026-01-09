@@ -35,7 +35,7 @@ I still used Perplexity.AI to write the blog post below after feeding it the ana
 
 Below is the plain-language synopsis of the BFIH findings, which includes a link to the full BFIH analysis report with bibliography.
 
----
+<div align="center">⁂</div>
 
 {% include claude-code-include.md %}
 
