@@ -156,7 +156,8 @@ That is not just a question about Claude Code. It is a question about how to liv
 
 ---
 
-## References
+
+<div align="center">⁂</div>
 
 [^s_1]: Reuters. (2025, December 2). Anthropic acquires developer tool startup Bun to scale AI coding. Reuters. https://www.reuters.com/business/media-telecom/anthropic-acquires-developer-tool-startup-bun-scale-ai-coding-2025-12-02/
 
