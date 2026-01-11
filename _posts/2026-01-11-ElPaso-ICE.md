@@ -4,9 +4,9 @@ title: "El Paso, TX: My Hometown"
 published: false
 ---
 
-![El Paso, TX]("../images/El Paso by Sean Mathis.jpeg")
+![WmCheez, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Paso_Cityscape_(cropped).jpg)](../images/El_Paso_Cityscape_(cropped).jpg)
 
-*El Paso, Texas wraps around the Franklin Mountains -- aerial view by [Sean Mathis](https://jp.pinterest.com/pin/el-paso-by-sean-mathis--33425222229207226/).*
+*El Paso, Texas as seen from Scenic Drive on the Franklin Mountains. (v, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Paso_Cityscape_(cropped).jpg)).*
 
 ---
 
