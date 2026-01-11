@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Paso, TX: My Hometown"
-published: false
+published: true
 ---
 
 ![WmCheez, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Paso_Cityscape_(cropped).jpg)](../images/El_Paso_Cityscape_(cropped).jpg)
@@ -12,9 +12,9 @@ published: false
 
 I was born in El Paso, Texas. As an Army family, we were stationed in places from Florida to Alaska before I was 7 years old when we returned to El Paso. And I grew up there from midway into 2nd grade to high school graduation. I call it my hometown.  
 
-This post arises out of a friend's recent experience there: he was stopped by ICE, for no stated reason, while driving as a citizen going about his daily life. Reasonable, moral people should agree that being stopped by armed masked men in unmarked vehicles and having them demand your passport is no way for American citizens to have to live ....
+This post arises out of a friend's recent experience there: he was stopped by ICE, for no stated reason, while driving as a citizen going about his daily life. Reasonable, moral people should agree that being stopped by armed masked men in unmarked vehicles and having them demand your passport is no way for American citizens to have to live....
 
-The BFIH analysis always gives the benefit of the doubt to a claim as it doggedly scours authoritative sources on the internet for evidence. For now, I think the BFIH analysis is too cautious in its conclusions but understandable based upon current reporting. I think the number of personal testimonies like my friend's will soon become so pervasive the journalism outlets will have to report them to the rest of America and the world.
+The BFIH analysis always gives the benefit of the doubt to a claim as it doggedly scours authoritative sources on the internet for evidence. For now, I think the BFIH analysis is too cautious in its conclusions but understandable based upon current reporting. I think the encounters like my friend's will soon become so common and -- unlike this one thankfully -- with the inevitable few that escalate to violence that journalism outlets will have to report them to the rest of America.
 
 ---
 
