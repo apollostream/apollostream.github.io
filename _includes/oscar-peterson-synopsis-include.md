@@ -123,7 +123,7 @@ The lingering thought is that the arguments around Peterson are, in miniature, a
 
 ## Bibliography
 
-1. Fordham, J. (2007, December 27). Oscar Peterson obituary. The Guardian. Retrieved from [[https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham)](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham))
+1. Fordham, J. (2007, December 27). Oscar Peterson obituary. The Guardian. Retrieved from [https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham)
 
 2. The Independent. (2007, December 25). Oscar Peterson: Virtuoso pianist who dominated jazz piano in the second half of the 20th century. The Independent. [https://www.the-independent.com/news/obituaries/oscar-peterson-virtuoso-pianist-who-dominated-jazz-piano-in-the-second-half-of-the-20th-century-766843.html](https://www.the-independent.com/news/obituaries/oscar-peterson-virtuoso-pianist-who-dominated-jazz-piano-in-the-second-half-of-the-20th-century-766843.html)
 
