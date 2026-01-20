@@ -171,7 +171,7 @@ The lingering thought is that the arguments around Peterson are, in miniature, a
 
 24. Gilbert, A. (2024, June 10). This never-performed work of a piano great is premiering at SFJazz Festival. San Francisco Chronicle. Retrieved from [https://www.sfchronicle.com/entertainment/music/article/oscar-peterson-sfjazz-music-19466016.php](https://www.sfchronicle.com/entertainment/music/article/oscar-peterson-sfjazz-music-19466016.php)
 
-25. Lubet, A. (2015). Oscar Peterson’s piano prostheses: Strategies of performance and publicity in the post-stroke phase of his career. Jazz Research Journal, 7(2), 151–182. [https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from https://journal.equinoxpub.com/JAZZ/article/view/12316](https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from https://journal.equinoxpub.com/JAZZ/article/view/12316)
+25. Lubet, A. (2015). Oscar Peterson’s piano prostheses: Strategies of performance and publicity in the post-stroke phase of his career. Jazz Research Journal, 7(2), 151–182. https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from [https://journal.equinoxpub.com/JAZZ/article/view/12316](https://journal.equinoxpub.com/JAZZ/article/view/12316)
 
 26. Anonymous. (1993). Four pianists: Four minority views. In Jazz Changes (pp. 273–282). Oxford University Press. Retrieved from [https://academic.oup.com/book/10700/chapter/158772531](https://academic.oup.com/book/10700/chapter/158772531)
 
