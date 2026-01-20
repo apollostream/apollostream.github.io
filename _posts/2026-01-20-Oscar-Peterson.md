@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oscar Peterson, Legendary Jazz Pianist"
-published: false
+published: true
 ---
 
 ![Tom Marcello Webster, New York, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg)](../images/Oscar_Peterson.jpg)
