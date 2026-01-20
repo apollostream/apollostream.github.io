@@ -1,6 +1,6 @@
 # Oscar Peterson, Jazz Legend
 
-*Generated from [BFIH Analysis Report auto_5a6b8607]([https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*    ](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*    )
+*Generated from [BFIH Analysis Report auto_5a6b8607](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*
 *For the full technical analysis, see the complete BFIH report.*
 
 ---
