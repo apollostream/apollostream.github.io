@@ -22,7 +22,7 @@ By the way, per the BFIH web app: I've worked a lot with Anthropic's Claude Code
 
 > **_"Oscar Peterson has a special place among the pantheon of jazz piano greats because of his uniquely lyrical and virtuosic style."_**
 
-**The upshot:** Yes. And I agree.
+**The upshot:** Yes. And I agree. I encourage you to spend time and dwell on the sources referenced in the Bibliography.
 
 ---
 
