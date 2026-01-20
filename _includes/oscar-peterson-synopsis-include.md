@@ -1,6 +1,6 @@
 # Oscar Peterson, Jazz Legend
 
-*Generated from [BFIH Analysis Report auto_5a6b8607](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*    
+*Generated from [BFIH Analysis Report auto_5a6b8607]([https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*    ](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) by Michael L. Thompson.*    )
 *For the full technical analysis, see the complete BFIH report.*
 
 ---
@@ -15,7 +15,7 @@ The core finding of the investigation behind this article is straightforward: **
 
 Why does that matter? Because “greatness” in jazz isn’t a single contest. It’s a moving negotiation between musicians who care about craft, critics who care about historical meaning, institutions that build canons, and audiences who vote with attention. In other words, Peterson’s reputation is an ideal test case for a deeper question: when a musician becomes a near-universal reference point, is it because the playing itself contains something uniquely compelling—or because the machinery of fame, education, and media makes it so?
 
-To answer that honestly, you have to do something unfashionable: treat the claim as a claim, not a tribute. You look at what different communities actually said, when they said it, and what kinds of evidence travel well between worlds—between the conservatory, the jazz club, the radio program, the streaming platform, and the musician-to-musician aside. [A recent investigation](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) did exactly that, assembling testimony and data from journalism, specialist criticism, academic analysis, educational materials, institutional history, and public listening patterns, then asking which explanation best accounts for the full spread of evidence.
+To answer that honestly, you have to do something unfashionable: treat the claim as a claim, not a tribute. You look at what different communities actually said, when they said it, and what kinds of evidence travel well between worlds—between the conservatory, the jazz club, the radio program, the streaming platform, and the musician-to-musician aside. [A recent investigation]([https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) did exactly that, assembling testimony and data from journalism, specialist criticism, academic analysis, educational materials, institutional history, and public listening patterns, then asking which explanation best accounts for the full spread of evidence.](https://drive.google.com/file/d/1aIhpB1HPuL0SoyIMqcTkeI-EdX8sOTrC/view?usp=sharing) did exactly that, assembling testimony and data from journalism, specialist criticism, academic analysis, educational materials, institutional history, and public listening patterns, then asking which explanation best accounts for the full spread of evidence.)
 
 ---
 
@@ -121,90 +121,88 @@ The lingering thought is that the arguments around Peterson are, in miniature, a
 
 ---
 
-## 9. Bibliography
+## Bibliography
 
-**References (APA Format):**
+1. Fordham, J. (2007, December 27). Oscar Peterson obituary. The Guardian. Retrieved from [[https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham)](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham](https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham))
 
-1. Fordham, J. (2007, December 27). Oscar Peterson obituary. The Guardian. Retrieved from https://www.theguardian.com/music/2007/dec/27/jazz.johnfordham
+2. The Independent. (2007, December 25). Oscar Peterson: Virtuoso pianist who dominated jazz piano in the second half of the 20th century. The Independent. [https://www.the-independent.com/news/obituaries/oscar-peterson-virtuoso-pianist-who-dominated-jazz-piano-in-the-second-half-of-the-20th-century-766843.html](https://www.the-independent.com/news/obituaries/oscar-peterson-virtuoso-pianist-who-dominated-jazz-piano-in-the-second-half-of-the-20th-century-766843.html)
 
-2. The Independent. (2007, December 25). Oscar Peterson: Virtuoso pianist who dominated jazz piano in the second half of the 20th century. The Independent. https://www.the-independent.com/news/obituaries/oscar-peterson-virtuoso-pianist-who-dominated-jazz-piano-in-the-second-half-of-the-20th-century-766843.html
+3. AllMusic. (n.d.). Oscar Peterson biography. AllMusic. [https://www.allmusic.com/artist/oscar-peterson-mn0000489316](https://www.allmusic.com/artist/oscar-peterson-mn0000489316)
 
-3. AllMusic. (n.d.). Oscar Peterson biography. AllMusic. https://www.allmusic.com/artist/oscar-peterson-mn0000489316
+4. Tarnow, D. (Producer). (n.d.). Jazz Profiles: Oscar Peterson [Audio series]. NPR. [https://media.npr.org/programs/jazzprofiles/archive/peterson.html](https://media.npr.org/programs/jazzprofiles/archive/peterson.html)
 
-4. Tarnow, D. (Producer). (n.d.). Jazz Profiles: Oscar Peterson [Audio series]. NPR. https://media.npr.org/programs/jazzprofiles/archive/peterson.html
+5. Smithsonian Magazine. (n.d.). Return of a virtuoso. Smithsonian Magazine. [https://www.smithsonianmag.com/arts-culture/return-of-a-virtuoso-105883629/](https://www.smithsonianmag.com/arts-culture/return-of-a-virtuoso-105883629/)
 
-5. Smithsonian Magazine. (n.d.). Return of a virtuoso. Smithsonian Magazine. https://www.smithsonianmag.com/arts-culture/return-of-a-virtuoso-105883629/
+6. JazzTimes. (2011, December 27). Oscar Peterson: Unmistakable. JazzTimes. [https://www.jazztimes.com/reviews/albums/oscar-peterson-unmistakable/](https://www.jazztimes.com/reviews/albums/oscar-peterson-unmistakable/)
 
-6. JazzTimes. (2011, December 27). Oscar Peterson: Unmistakable. JazzTimes. https://www.jazztimes.com/reviews/albums/oscar-peterson-unmistakable/
+7. Dupre, J. (2025, May 30). How to Play Like Oscar Peterson: 3 Signature Jazz Piano Techniques. Pianote. [https://www.pianote.com/blog/oscar-peterson-signature-sound/](https://www.pianote.com/blog/oscar-peterson-signature-sound/)
 
-7. Dupre, J. (2025, May 30). How to Play Like Oscar Peterson: 3 Signature Jazz Piano Techniques. Pianote. https://www.pianote.com/blog/oscar-peterson-signature-sound/
+8. Coleman, B., & Deaville, J. (2024). Oscar Peterson: Cherishing a Legacy of Technical Virtuosity and Soulful Swing. Carleton Newsroom. [https://carleton.ca/news/story/oscar-peterson-virtuosity-soulful-swing/](https://carleton.ca/news/story/oscar-peterson-virtuosity-soulful-swing/)
 
-8. Coleman, B., & Deaville, J. (2024). Oscar Peterson: Cherishing a Legacy of Technical Virtuosity and Soulful Swing. Carleton Newsroom. https://carleton.ca/news/story/oscar-peterson-virtuosity-soulful-swing/
+9. Collar, M. (n.d.). The Jazz Soul of Oscar Peterson. AllMusic (as cited in Wikipedia). Retrieved January 20, 2026, from [https://en.wikipedia.org/wiki/The_Jazz_Soul_of_Oscar_Peterson](https://en.wikipedia.org/wiki/The_Jazz_Soul_of_Oscar_Peterson)
 
-9. Collar, M. (n.d.). The Jazz Soul of Oscar Peterson. AllMusic (as cited in Wikipedia). Retrieved January 20, 2026, from https://en.wikipedia.org/wiki/The_Jazz_Soul_of_Oscar_Peterson
+10. Encyclopaedia Britannica. (2026). Oscar Peterson. [https://www.britannica.com/biography/Oscar-Peterson](https://www.britannica.com/biography/Oscar-Peterson)
 
-10. Encyclopaedia Britannica. (2026). Oscar Peterson. https://www.britannica.com/biography/Oscar-Peterson
+11. Inthanin, K. (2024). An Analysis of Oscar Peterson’s Improvisation in The Girl from Ipanema. Mahidol Music Journal, 7(2), 39–53. [https://so04.tci-thaijo.org/index.php/mmj/article/view/271305](https://so04.tci-thaijo.org/index.php/mmj/article/view/271305)
 
-11. Inthanin, K. (2024). An Analysis of Oscar Peterson’s Improvisation in The Girl from Ipanema. Mahidol Music Journal, 7(2), 39–53. https://so04.tci-thaijo.org/index.php/mmj/article/view/271305
+12. Heile, B. (2016). The Oscar Peterson Trio Performing “Someday My Prince Will Come.” In B. Heile (Ed.), Watching Jazz: Encounters with Jazz Performance on Screen. Oxford University Press. [https://academic.oup.com/book/11112/chapter/159545126](https://academic.oup.com/book/11112/chapter/159545126)
 
-12. Heile, B. (2016). The Oscar Peterson Trio Performing “Someday My Prince Will Come.” In B. Heile (Ed.), Watching Jazz: Encounters with Jazz Performance on Screen. Oxford University Press. https://academic.oup.com/book/11112/chapter/159545126
+13. Carleton Newsroom. (2025, February 14). Oscar Peterson: A Legacy of Technical Virtuosity and Soulful Swing. The Conversation. Retrieved January 20, 2026, from [https://newsroom.carleton.ca/story/oscar-peterson-virtuosity-soulful-swing/](https://newsroom.carleton.ca/story/oscar-peterson-virtuosity-soulful-swing/)
 
-13. Carleton Newsroom. (2025, February 14). Oscar Peterson: A Legacy of Technical Virtuosity and Soulful Swing. The Conversation. Retrieved January 20, 2026, from https://newsroom.carleton.ca/story/oscar-peterson-virtuosity-soulful-swing/
+14. WSWS. (2008, January). The art of Oscar Peterson: legacy of a jazz piano virtuoso. World Socialist Web Site. Retrieved January 20, 2026, from [https://www.wsws.org/en/articles/2008/01/pete-j04.html](https://www.wsws.org/en/articles/2008/01/pete-j04.html)
 
-14. WSWS. (2008, January). The art of Oscar Peterson: legacy of a jazz piano virtuoso. World Socialist Web Site. Retrieved January 20, 2026, from https://www.wsws.org/en/articles/2008/01/pete-j04.html
+15. Barris, A. (n.d.). Cakewalk (Oscar Peterson composition). Coda Magazine [as cited in Wikipedia]. Retrieved January 20, 2026, from [https://en.wikipedia.org/wiki/Cakewalk_%28Oscar_Peterson_composition%29](https://en.wikipedia.org/wiki/Cakewalk_%28Oscar_Peterson_composition%29)
 
-15. Barris, A. (n.d.). Cakewalk (Oscar Peterson composition). Coda Magazine [as cited in Wikipedia]. Retrieved January 20, 2026, from https://en.wikipedia.org/wiki/Cakewalk_%28Oscar_Peterson_composition%29
+16. Capak, R. J. (2014, August 15). Oscar Peterson on Piano Jazz. NPR. Retrieved January 20, 2026, from [https://www.npr.org/2014/08/15/oscar-peterson-on-piano-jazz](https://www.npr.org/2014/08/15/oscar-peterson-on-piano-jazz)
 
-16. Capak, R. J. (2014, August 15). Oscar Peterson on Piano Jazz. NPR. Retrieved January 20, 2026, from https://www.npr.org/2014/08/15/oscar-peterson-on-piano-jazz
+17. JazzTimes. (2003). Oscar Peterson: Solo. JazzTimes. [https://jazztimes.com/archives/oscar-peterson-solo/](https://jazztimes.com/archives/oscar-peterson-solo/)
 
-17. JazzTimes. (2003). Oscar Peterson: Solo. JazzTimes. https://jazztimes.com/archives/oscar-peterson-solo/
+18. Los Angeles Times. (2002, November 24). Artists alike only in their genius. Los Angeles Times. [https://www.latimes.com/archives/la-xpm-2002-nov-24-ca-spotlight24-story.html](https://www.latimes.com/archives/la-xpm-2002-nov-24-ca-spotlight24-story.html)
 
-18. Los Angeles Times. (2002, November 24). Artists alike only in their genius. Los Angeles Times. https://www.latimes.com/archives/la-xpm-2002-nov-24-ca-spotlight24-story.html
+19. Ranker. (2026). Greatest Jazz Pianists of All Time. Ranker. [https://www.ranker.com/list/greatest-jazz-pianists-of-all-time/ranker-music](https://www.ranker.com/list/greatest-jazz-pianists-of-all-time/ranker-music)
 
-19. Ranker. (2026). Greatest Jazz Pianists of All Time. Ranker. https://www.ranker.com/list/greatest-jazz-pianists-of-all-time/ranker-music
+20. Cook, R., & Morton, B. (2006). The Penguin Guide to Jazz Recordings (8th ed.). Penguin. Retrieved from [https://en.wikipedia.org/wiki/Exclusively_for_My_Friends%3A_The_Lost_Tapes](https://en.wikipedia.org/wiki/Exclusively_for_My_Friends%3A_The_Lost_Tapes)
 
-20. Cook, R., & Morton, B. (2006). The Penguin Guide to Jazz Recordings (8th ed.). Penguin. Retrieved from https://en.wikipedia.org/wiki/Exclusively_for_My_Friends%3A_The_Lost_Tapes
+21. Open Culture. (2021, November). Jazz Virtuoso Oscar Peterson Gives Dick Cavett a Dazzling Piano Lesson (1979). Open Culture. Retrieved from [https://www.openculture.com/2021/11/jazz-virtuoso-oscar-peterson-gives-dick-cavett-a-dazzling-piano-lesson-1979.html](https://www.openculture.com/2021/11/jazz-virtuoso-oscar-peterson-gives-dick-cavett-a-dazzling-piano-lesson-1979.html)
 
-21. Open Culture. (2021, November). Jazz Virtuoso Oscar Peterson Gives Dick Cavett a Dazzling Piano Lesson (1979). Open Culture. Retrieved from https://www.openculture.com/2021/11/jazz-virtuoso-oscar-peterson-gives-dick-cavett-a-dazzling-piano-lesson-1979.html
+22. Anonymous. (1959, September 19). Jazz records. The New Yorker. Retrieved from [https://www.newyorker.com/magazine/1959/09/19/1959-09-19-130-tny-cards-000063681](https://www.newyorker.com/magazine/1959/09/19/1959-09-19-130-tny-cards-000063681)
 
-22. Anonymous. (1959, September 19). Jazz records. The New Yorker. Retrieved from https://www.newyorker.com/magazine/1959/09/19/1959-09-19-130-tny-cards-000063681
+23. Lewis, M. (2007, December 25). Pianist dazzled jazz world with technique, creativity. Los Angeles Times. Retrieved from [https://www.latimes.com/archives/la-xpm-2007-dec-25-me-peterson25-story.html](https://www.latimes.com/archives/la-xpm-2007-dec-25-me-peterson25-story.html)
 
-23. Lewis, M. (2007, December 25). Pianist dazzled jazz world with technique, creativity. Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-2007-dec-25-me-peterson25-story.html
+24. Gilbert, A. (2024, June 10). This never-performed work of a piano great is premiering at SFJazz Festival. San Francisco Chronicle. Retrieved from [https://www.sfchronicle.com/entertainment/music/article/oscar-peterson-sfjazz-music-19466016.php](https://www.sfchronicle.com/entertainment/music/article/oscar-peterson-sfjazz-music-19466016.php)
 
-24. Gilbert, A. (2024, June 10). This never-performed work of a piano great is premiering at SFJazz Festival. San Francisco Chronicle. Retrieved from https://www.sfchronicle.com/entertainment/music/article/oscar-peterson-sfjazz-music-19466016.php
+25. Lubet, A. (2015). Oscar Peterson’s piano prostheses: Strategies of performance and publicity in the post-stroke phase of his career. Jazz Research Journal, 7(2), 151–182. [https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from https://journal.equinoxpub.com/JAZZ/article/view/12316](https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from https://journal.equinoxpub.com/JAZZ/article/view/12316)
 
-25. Lubet, A. (2015). Oscar Peterson’s piano prostheses: Strategies of performance and publicity in the post-stroke phase of his career. Jazz Research Journal, 7(2), 151–182. https://doi.org/10.1558/jazz.v7i2.17492 Retrieved from https://journal.equinoxpub.com/JAZZ/article/view/12316
+26. Anonymous. (1993). Four pianists: Four minority views. In Jazz Changes (pp. 273–282). Oxford University Press. Retrieved from [https://academic.oup.com/book/10700/chapter/158772531](https://academic.oup.com/book/10700/chapter/158772531)
 
-26. Anonymous. (1993). Four pianists: Four minority views. In Jazz Changes (pp. 273–282). Oxford University Press. Retrieved from https://academic.oup.com/book/10700/chapter/158772531
+27. National Museum of American History. (2021, April 29). Norman Granz: Revolutionizing jazz for social justice. Smithsonian American History. [https://americanhistory.si.edu/explore/stories/norman-granz-revolutionizing-jazz-social-justice](https://americanhistory.si.edu/explore/stories/norman-granz-revolutionizing-jazz-social-justice)
 
-27. National Museum of American History. (2021, April 29). Norman Granz: Revolutionizing jazz for social justice. Smithsonian American History. https://americanhistory.si.edu/explore/stories/norman-granz-revolutionizing-jazz-social-justice
+28. Encyclopedia.com. (n.d.). Oscar Peterson. In Music Popular and Jazz Biographies. Encyclopedia.com. [https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/oscar-peterson](https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/oscar-peterson)
 
-28. Encyclopedia.com. (n.d.). Oscar Peterson. In Music Popular and Jazz Biographies. Encyclopedia.com. https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/oscar-peterson
+29. Grokipedia. (2026). Another Day (Oscar Peterson album): Reception and legacy. Retrieved from [https://grokipedia.com/page/another_day_oscar_peterson_album](https://grokipedia.com/page/another_day_oscar_peterson_album)
 
-29. Grokipedia. (2026). Another Day (Oscar Peterson album): Reception and legacy. Retrieved from https://grokipedia.com/page/another_day_oscar_peterson_album
+30. Organissimo Forums. (2004, August 27). Oscar Peterson – why did those greats dislike him? Retrieved from [https://www.organissimo.org/forum/topic/12745-oscar-peterson-%E2%80%93-why-did-those-greats-disliked-him/](https://www.organissimo.org/forum/topic/12745-oscar-peterson-%E2%80%93-why-did-those-greats-disliked-him/)
 
-30. Organissimo Forums. (2004, August 27). Oscar Peterson – why did those greats dislike him? Retrieved from https://www.organissimo.org/forum/topic/12745-oscar-peterson-%E2%80%93-why-did-those-greats-disliked-him/
+31. Deaville, J., & Lee, S. (2020). Towards an evolution of interprofessional practice: Lessons learned from two jazz piano trios. Journal of Interprofessional Care. Retrieved from [https://pmc.ncbi.nlm.nih.gov/articles/PMC7292945/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292945/)
 
-31. Deaville, J., & Lee, S. (2020). Towards an evolution of interprofessional practice: Lessons learned from two jazz piano trios. Journal of Interprofessional Care. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC7292945/
+32. JazzTimes. (n.d.). Oscar Peterson in Conversation. Retrieved from [https://jazztimes.com/features/columns/oscar-peterson-in-conversation/](https://jazztimes.com/features/columns/oscar-peterson-in-conversation/)
 
-32. JazzTimes. (n.d.). Oscar Peterson in Conversation. Retrieved from https://jazztimes.com/features/columns/oscar-peterson-in-conversation/
+33. Wikipedia contributors. (2026, January). Norman Granz. In Wikipedia, The Free Encyclopedia. Retrieved January 20, 2026, from [https://en.wikipedia.org/wiki/Norman_Granz](https://en.wikipedia.org/wiki/Norman_Granz)
 
-33. Wikipedia contributors. (2026, January). Norman Granz. In Wikipedia, The Free Encyclopedia. Retrieved January 20, 2026, from https://en.wikipedia.org/wiki/Norman_Granz
+34. WMOT. (2004, November 29). Norman Granz. WMOT 89.5. Retrieved January 20, 2026, from [https://www.wmot.org/columns/2004-11-29/norman-granz](https://www.wmot.org/columns/2004-11-29/norman-granz)
 
-34. WMOT. (2004, November 29). Norman Granz. WMOT 89.5. Retrieved January 20, 2026, from https://www.wmot.org/columns/2004-11-29/norman-granz
+35. WBSS Media. (n.d.). Norman Granz. Retrieved January 20, 2026, from [https://wbssmedia.com/artists/detail/1899](https://wbssmedia.com/artists/detail/1899)
 
-35. WBSS Media. (n.d.). Norman Granz. Retrieved January 20, 2026, from https://wbssmedia.com/artists/detail/1899
+36. Digital Journal. (n.d.). Music legend Oscar Peterson celebrates more than 50 years in jazz. Digital Journal. Retrieved January 20, 2026, from [https://www.digitaljournal.com/life/music-legend-oscar-peterson-celebrates-more-than-50-years-in-jazz/article/33015](https://www.digitaljournal.com/life/music-legend-oscar-peterson-celebrates-more-than-50-years-in-jazz/article/33015)
 
-36. Digital Journal. (n.d.). Music legend Oscar Peterson celebrates more than 50 years in jazz. Digital Journal. Retrieved January 20, 2026, from https://www.digitaljournal.com/life/music-legend-oscar-peterson-celebrates-more-than-50-years-in-jazz/article/33015
+37. The Seattle Times. (n.d.). Oscar Peterson: A true giant of jazz piano. The Seattle Times. Retrieved January 20, 2026, from [https://www.seattletimes.com/entertainment/oscar-peterson-a-true-giant-of-jazz-piano/](https://www.seattletimes.com/entertainment/oscar-peterson-a-true-giant-of-jazz-piano/)
 
-37. The Seattle Times. (n.d.). Oscar Peterson: A true giant of jazz piano. The Seattle Times. Retrieved January 20, 2026, from https://www.seattletimes.com/entertainment/oscar-peterson-a-true-giant-of-jazz-piano/
+38. MusicMetricsVault. (2025, July 29). Oscar Peterson – monthly listeners and total stream count. Retrieved from [https://www.musicmetricsvault.com/artists/oscar-peterson/6zkX5fhrSD4tdVOmimR9wB](https://www.musicmetricsvault.com/artists/oscar-peterson/6zkX5fhrSD4tdVOmimR9wB)
 
-38. MusicMetricsVault. (2025, July 29). Oscar Peterson – monthly listeners and total stream count. Retrieved from https://www.musicmetricsvault.com/artists/oscar-peterson/6zkX5fhrSD4tdVOmimR9wB
+39. Kworb. (2025). Oscar Peterson – Spotify Top Albums. Retrieved from [https://kworb.net/spotify/artist/6zkX5fhrSD4tdVOmimR9wB_albums.html](https://kworb.net/spotify/artist/6zkX5fhrSD4tdVOmimR9wB_albums.html)
 
-39. Kworb. (2025). Oscar Peterson – Spotify Top Albums. Retrieved from https://kworb.net/spotify/artist/6zkX5fhrSD4tdVOmimR9wB_albums.html
+40. The Guardian. (2008, January 3). Oscar winning performance. Retrieved from [https://www.theguardian.com/music/musicblog/2008/jan/03/oscarwinningperformance](https://www.theguardian.com/music/musicblog/2008/jan/03/oscarwinningperformance)
 
-40. The Guardian. (2008, January 3). Oscar winning performance. Retrieved from https://www.theguardian.com/music/musicblog/2008/jan/03/oscarwinningperformance
+41. Wikipedia. (n.d.). Night Train (Oscar Peterson album). Retrieved from [https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album)](https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album))
 
-41. Wikipedia. (n.d.). Night Train (Oscar Peterson album). Retrieved from https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album)
-
-42. Sputnikmusic. (2009). Oscar Peterson – Night Train (album review). Retrieved from https://www.sputnikmusic.com/review/28783/Oscar-Peterson-Night-Train/
+42. Sputnikmusic. (2009). Oscar Peterson – Night Train (album review). Retrieved from [https://www.sputnikmusic.com/review/28783/Oscar-Peterson-Night-Train/](https://www.sputnikmusic.com/review/28783/Oscar-Peterson-Night-Train/)
