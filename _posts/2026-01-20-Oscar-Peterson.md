@@ -4,15 +4,17 @@ title: "Oscar Peterson, Legendary Jazz Pianist"
 published: false
 ---
 
-![Tom Marcello Webster, New York, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg)](../images/Oscar_Peterson.jpg)
+![Tom Marcello Webster, New York, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg)](../images/Oscar_Peterson.jpg)
 
-Oscar Peterson in 1977. (Photo by Tom Marcello Webster, New York, USA, CC BY-SA 2.0, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg)).*
+*Oscar Peterson in 1977. (Photo by Tom Marcello Webster, New York, USA, CC BY-SA 2.0, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg)).*
 
 ---
 
-Oscar Peterson is one of my all-time favorite musicians.  I used to have a bunch of his LPs back in the day -- college through grad school.  I just love the flow, the singing of the fingers, of his playing.
+Oscar Peterson is one of my all-time favorite musicians.  I used to have a bunch of his LPs back in the day -- college through grad school.  I just love the flow -- the singing of the fingersof --  his playing.
 
-Sometimes you just want external validation of what you feel in your heart is true is generally recognized by those in-the-know as true, too.  That's how I felt when I posed this to my ['BFIH Tournament' web app](https://bfih-game2-711582453480.us-east5.run.app). I've done a lot to improve its formation of hypotheses, assignment of priors and likelihoods, and writing of engaging yet still accurate and information-dense synopses.  The synopsis below comes from the app employing OpenAI's GPT-5.2 -- the first one without using Perplexity AI in the mix at all. 
+Sometimes you just want external validation that what you feel in your heart is true is also generally recognized by those in-the-know as true.  That's how I felt when I posed this to my ['BFIH Tournament' web app](https://bfih-game2-711582453480.us-east5.run.app). 
+
+By the way, per the BFIH web app: I've worked a lot with Anthropic's Claude Code to improve the app's formation of hypotheses, assignment of priors and likelihoods, and writing of engaging yet still accurate and information-dense synopses.  The synopsis below comes from the app employing OpenAI's GPT-5.2 -- the first one without using Perplexity AI in the mix at all. 
 
 ---
 
