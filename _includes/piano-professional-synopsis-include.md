@@ -138,7 +138,7 @@ Second, __the system rewards *legibility*—the ability to be understood quickly
 
 Third, __there is a practical distinction between branching *in repertoire* and branching *in role*__. Some pianists will protect their artistic center by keeping repertoire classical while expanding roles: collaborative piano degrees, accompanying, lecture-recitals, educational content, commissioning work [10], [19]. Others will keep “pianist” as the constant and let repertoire travel: jazz fluency, pop arranging, hybrid albums [28]. The evidence supports both pathways as adaptive; the choice depends on temperament and opportunity, not a single correct model.
 
-A useful way to decide is to treat branching as a set of levers and ask which one you can pull without breaking your practice life:
+**A useful way to decide is to treat branching as a set of levers and ask which one you can pull without breaking your practice life:**
 
 - **Format lever:** short-form video, educational series, livestreams **⟶ can preserve repertoire**.  
 - **Role lever:** accompaniment, chamber work, music directing, teaching **⟶ can preserve style**.  
@@ -165,9 +165,7 @@ What remains genuinely uncertain is how much of this is a transitional disorder�
 
 ---
 
-## 9. Bibliography
-
-**References (APA Format):**
+## Bibliography
 
 1. Park, J., & Bernstein, J. (2025). Arts Entrepreneurship through Strategic Collaboration in Korean Classical Music. Journal of Arts and Humanities, 9(8). [https://doi.org/10.18533/journal.v9i8.1964](https://doi.org/10.18533/journal.v9i8.1964) Retrieved from [https://theartsjournal.org/index.php/site/article/view/1964](https://theartsjournal.org/index.php/site/article/view/1964)
 
