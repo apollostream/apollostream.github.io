@@ -12,7 +12,7 @@ published: false
 
 Too often it can become a luxury to both pursue one's passion and make a good living financially.  In the world of professional music, that luxury has become rarer; and for specifically classical pianists, it is unattainable for all but the most gifted and the most resourceful musicians.
 
-I'm a big believer in following your passions, doing what's necessary to mitigate the risks in life that come with that, and being resilient and confident enough in oneself to know in your heart that you will find a way.  Yet, I wanted to dimension this in more specific terms grounded in the reality of the profession my son is pursuing. So, I posed the topic below to my BFIH Tournament web app.  
+I'm a big believer in following your passions, doing what's necessary to mitigate the risks in life that come with that, and being resilient enough and confident enough in oneself to know in your heart that you will find a way.  Yet, I wanted to dimension this in more specific terms grounded in the reality of the profession my son is pursuing. So, I posed the topic below to my BFIH Tournament web app.  
 
 I'm pleased with the source material links it uncovered -- see the Bibliography -- and how it laid out the realities of the professional music landscape.  It gives us a foundational context in which we can brainstorm possibilities and opportunities.
 
