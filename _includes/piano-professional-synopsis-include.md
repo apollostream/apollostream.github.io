@@ -4,7 +4,7 @@ title: |
        | The Hidden Economics of Being a Classical Pianist
 ---
 
-*From __Bayesian Framework for Intellectual Honesty (BFIH) Analysis Report__ auto_d06865ce by __Michael L. Thompson__, __January 20, 2026__*    
+*From [__Bayesian Framework for Intellectual Honesty (BFIH) Analysis Report__ auto_d06865ce](https://drive.google.com/file/d/1w9tHq3LIIUUXLM61iErknOHicsEz3x-q/view?usp=sharing) by __Michael L. Thompson__, __January 20, 2026__*    
 *For the full technical analysis, see the complete BFIH report.*
 
 ---
@@ -19,7 +19,7 @@ That sentence can sound like an argument about taste: maybe audiences have chang
 
 Meanwhile, the profession has quietly redefined what counts as “being a pianist.” Conservatories advertise degrees built around collaboration and flexible working identities [10]. Major schools foreground cross-genre enterprise in their seasons [11]. Digital platforms reward work that is legible to broad audiences and adaptable to short forms [12]. And in the wild—weddings, cruises, private events, content studios—pianists who can improvise, arrange, record, and cross stylistic borders are simply easier to hire [29].
 
-Our investigation pulled together labor projections, musician income surveys, platform marketplaces, institutional signals, and research on musicians’ career patterns and wellbeing. It treated the romantic image of the solo specialist as a hypothesis to be tested against how people actually get booked, paid, and sustained—and then followed the evidence where it led.
+[Our investigation](https://drive.google.com/file/d/1w9tHq3LIIUUXLM61iErknOHicsEz3x-q/view?usp=sharing) pulled together labor projections, musician income surveys, platform marketplaces, institutional signals, and research on musicians’ career patterns and wellbeing. It treated the romantic image of the solo specialist as a hypothesis to be tested against how people actually get booked, paid, and sustained—and then followed the evidence where it led.
 
 ---
 
@@ -35,7 +35,7 @@ More pointed are the large surveys that show how often musical work fails to tra
 
 In the U.S., a large survey summarized by Grantmakers in the Arts found that classical musicians derived only about 10% of their income from live performance, with larger shares coming from salaries and teaching [45]. That distribution matters. It suggests that even when musicians identify as performers, the cashflow commonly comes from adjacent roles—roles that are often classical-adjacent (teaching, institutional employment), but not identical to “concertizing.”
 
-Compensation aggregates reinforce the same general picture in a different way. One widely cited salary estimate puts U.S. pianist earnings around $44,107 on average, with a relatively narrow middle band [16]. A number like that is not proof of impossibility—people live on it, especially in lower-cost regions, and some earn more—but it is evidence of a ceiling effect: a large share of piano work priced by the general market does not pay like a high-skill specialist profession. It pays like service work with artistry attached.
+Compensation aggregates reinforce the same general picture in a different way. One widely cited salary estimate puts U.S. pianist earnings around $44,107 on average, with a relatively narrow middle band [16]. A number like that is not proof of impossibility—people live on it, especially in lower-cost regions, and some earn more—but it is evidence of a ceiling effect: a large share of piano work priced by the general market does not pay like a high-skill specialist profession. **It pays like service work with artistry attached.**
 
 Where the money does appear reliably, it often comes with conditions that change the job. Orchestral musician salaries, for instance, are reported at a much higher median level—around $74,272 in one U.S. estimate [50]—but orchestral posts are limited and competitively rationed, and pianists occupy only a small subset of those seats. The existence of good jobs does not mean the system produces enough of them.
 
@@ -54,7 +54,7 @@ If the labor market were the whole story, the prescription would be merely pragm
 
 Consider how elite training programs advertise “career readiness.” Boston Conservatory at Berklee added advanced collaborative piano degrees emphasizing accompaniment across voice, instruments, and dance [10]. Read that as an aesthetic statement if you want, but it is also a labor statement: the school is telling students that employability and artistic seriousness now travel together through collaboration, versatility, and work that is not centered on the solo recital.
 
-Juilliard’s own season announcements frame cross-genre collaboration as part of its enterprise, explicitly connecting orchestral, chamber, and jazz students through new series initiatives [11]. Again, this can be read as creative expansion. It can also be read as risk management: students trained to work across stylistic boundaries can accept a wider range of opportunities without leaving their professional identity behind.
+Juilliard’s own season announcements frame cross-genre collaboration as part of its enterprise, explicitly connecting orchestral, chamber, and jazz students through new series initiatives [11]. Again, this can be read as creative expansion. It can also be read as **risk management: students trained to work across stylistic boundaries can accept a wider range of opportunities without leaving their professional identity behind.**
 
 Festivals and commissioning ecosystems show another kind of branching: expansion of the “classical” category itself. The Gilmore Festival’s commissioning of dozens of new works [19] supports a version of specialization that stays inside contemporary classical language while stretching the canon. This matters because it clarifies a common ambiguity. Many careers are not “classical-only” in the sense of repeating the 19th-century repertoire; they are classical in technique and institutional framing, but contemporary in output and collaborative networks.
 
@@ -144,10 +144,10 @@ Third, __there is a practical distinction between branching *in repertoire* and 
 
 A useful way to decide is to treat branching as a set of levers and ask which one you can pull without breaking your practice life:
 
-- **Format lever:** short-form video, educational series, livestreams (can preserve repertoire).  
-- **Role lever:** accompaniment, chamber work, music directing, teaching (can preserve style).  
-- **Genre lever:** jazz/pop/film/world styles (maximizes general-market demand).  
-- **Skill lever:** arranging, composition, DAWs, audio/video production (turns musicianship into products).
+- **Format lever:** short-form video, educational series, livestreams **⟶ can preserve repertoire**.  
+- **Role lever:** accompaniment, chamber work, music directing, teaching **⟶ can preserve style**.  
+- **Genre lever:** jazz/pop/film/world styles **⟶ maximizes general-market demand**.  
+- **Skill lever:** arranging, composition, [DAWs](https://blog.native-instruments.com/what-is-a-daw-in-music-digital-audio-workstations-explained/), audio/video production **⟶ turns musicianship into products**.
 
 Fourth, **institutions face a parallel question: how to preserve depth while admitting reality**. If conservatories train pianists only for the solo stage, they are effectively training students for a job market with too few jobs. The institutional signals suggest many schools already recognize this and are moving toward hybrid training [10], [11]. The risk is that “career readiness” becomes synonymous with constant self-marketing. The opportunity is to teach entrepreneurship as craft: not hype, but skills—contracts, recording basics, arrangement, collaboration, rights literacy.
 
