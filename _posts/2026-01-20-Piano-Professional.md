@@ -10,9 +10,11 @@ published: false
 
 ---
 
-Too often it can become a luxury to both pursue one's passion and make a good living financially.  In the world of professional music, that luxury has become rarer; and for specifically classical pianists, it is all but unattainable but for the most talented and the most resourceful musicians.
+Too often it can become a luxury to both pursue one's passion and make a good living financially.  In the world of professional music, that luxury has become rarer; and for specifically classical pianists, it is unattainable for all but the most gifted and the most resourceful musicians.
 
-I'm a big believer in following your passions, doing what's necessary to mitigate the risks in life that come with that, and being resilient and confident enough in oneself to know in your heart that you will find a way.  Yet, I wanted to dimension this in more specific terms grounded in reality. So, I posed the topic below to my BFIH Tournament web app.  I'm pleased with the source material links it uncovered -- see the Bibliography -- and how it laid out the realities of the professional music landscape.
+I'm a big believer in following your passions, doing what's necessary to mitigate the risks in life that come with that, and being resilient and confident enough in oneself to know in your heart that you will find a way.  Yet, I wanted to dimension this in more specific terms grounded in the reality of the profession my son is pursuing. So, I posed the topic below to my BFIH Tournament web app.  
+
+I'm pleased with the source material links it uncovered -- see the Bibliography -- and how it laid out the realities of the professional music landscape.  It gives us a foundational context in which we can brainstorm possibilities and opportunities.
 
 ---
 
@@ -20,7 +22,7 @@ I'm a big believer in following your passions, doing what's necessary to mitigat
 
 > **_"In this day and age (2026), unless one is a prodigy, a pianist specializing in classical music must branch out beyond specifically classical music if one is to be first and foremost a performing professional musician."_**
 
-**The upshot:** True, versatility saves the day, and there are many different ways to be versatile.
+**The upshot:** True, for the most part. Versatility saves the day, and there are many different ways to be versatile.
 
 ---
 
