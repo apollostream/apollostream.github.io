@@ -10,11 +10,9 @@ published: false
 
 ---
 
-I believe it takes tremendous passion to deliver the perfection needed to achieve excellence in any domain. But we all have limited resources, and so we must pick our battles: Sometimes just doing well is good enough.
+Too often it can become a luxury to both pursue one's passion and make a good living financially.  In the world of professional music, that luxury has become rarer; and for specifically classical pianists, it is all but unattainable but for the most talented and the most resourceful musicians.
 
-Context matters a lot in determining when to strive for perfection. What I like about the BFIH analysis discussed below is that it thoroughly vetted the source material to enumerate the different contexts and how the trade off of seeking perfection with mere satisficing shifts with context and values.
-
-By the way, the in-depth BFIH analysis behind all of this was performed using my Claude Code-generated web app ['BFIH Tournament'](https://bfih-game2-711582453480.us-east5.run.app), which leverages OpenAI models, esp. GPT-5.2. I didn't like the app-generated synopsis -- a bit redundant an uninteresting -- so I ran both it and the full BFIH analysis report through [Perplexity.AI "Research" mode](https://www.perplexity.ai/search/read-the-attached-thoroughly-c-pvxL7fjWS92vifCCkuOKug?sm=d#2). And using the same prompt that the app gave GPT-5.2, I had Perplexity.AI generate the synopsis below. I prefer it over what the app generated.
+I'm a big believer in following your passions, doing what's necessary to mitigate the risks in life that come with that, and being resilient and confident enough in oneself to know in your heart that you will find a way.  Yet, I wanted to dimension this in more specific terms grounded in reality. So, I posed the topic below to my BFIH Tournament web app.  I'm pleased with the source material links it uncovered -- see the Bibliography -- and how it laid out the realities of the professional music landscape.
 
 ---
 
