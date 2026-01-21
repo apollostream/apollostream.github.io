@@ -1,4 +1,4 @@
-# Service Work With Artistry Attached: <br>The Hidden Economics of Being a Classical Pianist
+# Service Work With Artistry Attached: <br>The Economics of Being a Classical Pianist
 
 *From [__Bayesian Framework for Intellectual Honesty (BFIH) Analysis Report__ auto_d06865ce](https://drive.google.com/file/d/1w9tHq3LIIUUXLM61iErknOHicsEz3x-q/view?usp=sharing) by __Michael L. Thompson__, __January 20, 2026__*    
 *For the full technical analysis, see the complete BFIH report.*
