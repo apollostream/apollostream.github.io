@@ -167,11 +167,11 @@ What remains genuinely uncertain is how much of this is a transitional disorderâ
 
 ## Bibliography
 
-1. Park, J., & Bernstein, J. (2025). Arts Entrepreneurship through Strategic Collaboration in Korean Classical Music. Journal of Arts and Humanities, 9(8). [https://doi.org/10.18533/journal.v9i8.1964](https://doi.org/10.18533/journal.v9i8.1964) Retrieved from [https://theartsjournal.org/index.php/site/article/view/1964](https://theartsjournal.org/index.php/site/article/view/1964)
+1. Park, J., & Bernstein, J. (2025). Arts Entrepreneurship through Strategic Collaboration in Korean Classical Music. *Journal of Arts and Humanities*, 9(8). [https://doi.org/10.18533/journal.v9i8.1964](https://doi.org/10.18533/journal.v9i8.1964) Retrieved from [https://theartsjournal.org/index.php/site/article/view/1964](https://theartsjournal.org/index.php/site/article/view/1964)
 
-2. Author(s). (2025). Moving beyond precision: adapting to new measures of learning via improvisation in music education. Discover Education, 4, 219. [https://doi.org/10.1007/s44217-025-00534-2](https://doi.org/10.1007/s44217-025-00534-2) Retrieved from [https://link.springer.com/article/10.1007/s44217-025-00534-2](https://link.springer.com/article/10.1007/s44217-025-00534-2)
+2. Choi, S. (2025). Moving beyond precision: adapting to new measures of learning via improvisation in music education. *Discover Education*, 4(1), 219. [https://doi.org/10.1007/s44217-025-00534-2](https://doi.org/10.1007/s44217-025-00534-2) Retrieved from [https://link.springer.com/article/10.1007/s44217-025-00534-2](https://link.springer.com/article/10.1007/s44217-025-00534-2)
 
-3. Sherwin, A. (2023, September 11). Nearly half of working UK musicians earn less than Â£14,000, new census finds. The Guardian. Retrieved from [https://www.theguardian.com/music/2023/sep/11/nearly-half-of-working-uk-musicians-earn-less-than-14000-new-census-finds](https://www.theguardian.com/music/2023/sep/11/nearly-half-of-working-uk-musicians-earn-less-than-14000-new-census-finds)
+3. Sherwin, A. (2023, September 11). Nearly half of working UK musicians earn less than Â£14,000, new census finds. *The Guardian*. Retrieved from [https://www.theguardian.com/music/2023/sep/11/nearly-half-of-working-uk-musicians-earn-less-than-14000-new-census-finds](https://www.theguardian.com/music/2023/sep/11/nearly-half-of-working-uk-musicians-earn-less-than-14000-new-census-finds)
 
 4. Coles, D. X., & Miller, M. (2025). More Necessary than Ever: Portfolio Careers in Music as a way of Adapting to the Current Economic Paradigm. College Music Symposium. Retrieved from [https://s.music.org/current-issue/item/11695-more-necessary-than-ever.html](https://s.music.org/current-issue/item/11695-more-necessary-than-ever.html)
 
@@ -179,7 +179,7 @@ What remains genuinely uncertain is how much of this is a transitional disorderâ
 
 6. League of American Orchestras. (2025). 2025 Guide to Pops Programming. Symphony.org. Retrieved from [https://symphony.org/listings/2025-guide-to-pops-programming/](https://symphony.org/listings/2025-guide-to-pops-programming/)
 
-7. U.S. Bureau of Labor Statistics. (2025). Musicians and singers. Occupational Outlook Handbook. [https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm](https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm)
+7. U.S. Bureau of Labor Statistics. (2025). Musicians and singers. *Occupational Outlook Handbook*. [https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm](https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm)
 
 8. Xposure Music. (2025). Independent Music Industry Report 2025. [https://info.xposuremusic.com/article/music-industry-report-2025](https://info.xposuremusic.com/article/music-industry-report-2025)
 
