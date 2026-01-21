@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Classical Piano Professional"
-published: false
+published: true
 ---
 
 ![A classical pianist making a good living.](../images/pianist_sceneB.png)
