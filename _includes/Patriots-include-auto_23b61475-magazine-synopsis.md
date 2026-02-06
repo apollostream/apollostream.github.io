@@ -137,134 +137,135 @@ What remains genuinely uncertain isn’t whether the Patriots received help—th
 
 ## Bibliography
 
-1. Bradford, E. (2026, February 4). The Patriots' Super Bowl path was comically soft, but it might not matter vs. Seahawks. SB Nation. Retrieved from https://www.sbnation.com/nfl/1102275/patriots-schedule-super-bowl-path-soft-easiest-in-50-years-seahawks
+1. Bradford, E. (2026, February 4). The Patriots' Super Bowl path was comically soft, but it might not matter vs. Seahawks. SB Nation. Retrieved from [https://www.sbnation.com/nfl/1102275/patriots-schedule-super-bowl-path-soft-easiest-in-50-years-seahawks](https://www.sbnation.com/nfl/1102275/patriots-schedule-super-bowl-path-soft-easiest-in-50-years-seahawks)
 
-2. Smith, J. (2026, February 1). Patriots strength of schedule: Inside opponents' win-loss record for 'easy' New England regular season. Yahoo Sports. Retrieved from https://ca.sports.yahoo.com/news/patriots-strength-schedule-inside-opponents-102002093.html
+2. Smith, J. (2026, February 1). Patriots strength of schedule: Inside opponents' win-loss record for 'easy' New England regular season. Yahoo Sports. Retrieved from [https://ca.sports.yahoo.com/news/patriots-strength-schedule-inside-opponents-102002093.html](https://ca.sports.yahoo.com/news/patriots-strength-schedule-inside-opponents-102002093.html)
 
-3. Doe, A. (2025, October 20). Updated strength of schedule - Patriots could ride schedule to AFC East title. Fantasy Index. Retrieved from https://fantasyindex.com/2025/10/20/scheduletron/updated-strength-of-schedule
+3. Doe, A. (2025, October 20). Updated strength of schedule - Patriots could ride schedule to AFC East title. Fantasy Index. Retrieved from [https://fantasyindex.com/2025/10/20/scheduletron/updated-strength-of-schedule](https://fantasyindex.com/2025/10/20/scheduletron/updated-strength-of-schedule)
 
-4. Johnson, L. (2025, May 16). Patriots' 2025 schedule projects among easiest in the NFL. Patriots Pulpit. Retrieved from https://www.patspulpit.com/2025/5/16/24430794/patriots-2025-strength-of-schedule-analysis
+4. Johnson, L. (2025, May 16). Patriots' 2025 schedule projects among easiest in the NFL. Patriots Pulpit. Retrieved from [https://www.patspulpit.com/2025/5/16/24430794/patriots-2025-strength-of-schedule-analysis](https://www.patspulpit.com/2025/5/16/24430794/patriots-2025-strength-of-schedule-analysis)
 
-5. Fox Sports Staff. (2026, January 10). Texans vs. Chargers injury report – AFC Wild Card Round, 2025. Fox Sports. Retrieved from https://www.foxsports.com/articles/nfl/texans-vs-chargers-injury-report-afc-wild-card-round-2025
+5. Fox Sports Staff. (2026, January 10). Texans vs. Chargers injury report – AFC Wild Card Round, 2025. Fox Sports. Retrieved from [https://www.foxsports.com/articles/nfl/texans-vs-chargers-injury-report-afc-wild-card-round-2025](https://www.foxsports.com/articles/nfl/texans-vs-chargers-injury-report-afc-wild-card-round-2025)
 
-6. Vigderman, A. (2025, December 3). Which NFL teams were most and least affected by injuries in 2025. Sports Info Solutions. Retrieved from https://www.sportsinfosolutions.com/2025/12/03/which-nfl-teams-have-been-most-and-least-affected-by-injuries-in-2025/
+6. Vigderman, A. (2025, December 3). Which NFL teams were most and least affected by injuries in 2025. Sports Info Solutions. Retrieved from [https://www.sportsinfosolutions.com/2025/12/03/which-nfl-teams-have-been-most-and-least-affected-by-injuries-in-2025/](https://www.sportsinfosolutions.com/2025/12/03/which-nfl-teams-have-been-most-and-least-affected-by-injuries-in-2025/)
 
-7. Pantuosco, J. (n.d.). NFL at the Half: Breaking down the numbers. Grantland. Retrieved from https://grantland.com/the-triangle/nfl-at-the-half-breaking-down-the-numbers/
+7. Pantuosco, J. (n.d.). NFL at the Half: Breaking down the numbers. Grantland. Retrieved from [https://grantland.com/the-triangle/nfl-at-the-half-breaking-down-the-numbers/](https://grantland.com/the-triangle/nfl-at-the-half-breaking-down-the-numbers/)
 
-8. StatMuse. (2026). AFC East combined record 2025. StatMuse. Retrieved from https://www.statmuse.com/nfl/ask/afc-east-combined-record-2025
+8. StatMuse. (2026). AFC East combined record 2025. StatMuse. Retrieved from [https://www.statmuse.com/nfl/ask/afc-east-combined-record-2025](https://www.statmuse.com/nfl/ask/afc-east-combined-record-2025)
 
-9. Sharp Football Analysis. (2025). 2025 strength of schedule rank – New England Patriots. Sharp Football Analysis. Retrieved from https://www.sharpfootballanalysis.com/analysis/nfl-strength-of-schedule/amp/
+9. Sharp Football Analysis. (2025). 2025 strength of schedule rank – New England Patriots. Sharp Football Analysis. Retrieved from [https://www.sharpfootballanalysis.com/analysis/nfl-strength-of-schedule/amp/](https://www.sharpfootballanalysis.com/analysis/nfl-strength-of-schedule/amp/)
 
-10. Chargers. (2026, January 7). Chargers vs. Patriots injury report: Omarion Hampton among 8 players who don't practice Wednesday. Chargers.com. Retrieved from https://www.chargers.com/news/patriots-injury-report-omarion-hampton-wild-card-playoffs
+10. Chargers. (2026, January 7). Chargers vs. Patriots injury report: Omarion Hampton among 8 players who don't practice Wednesday. Chargers.com. Retrieved from [https://www.chargers.com/news/patriots-injury-report-omarion-hampton-wild-card-playoffs](https://www.chargers.com/news/patriots-injury-report-omarion-hampton-wild-card-playoffs)
 
-11. Wilson, T. (2026). Denver quarterback Bo Nix to miss rest of playoffs after breaking ankle in win over Buffalo Bills. Houston Chronicle. Retrieved from https://www.houstonchronicle.com/sports/texans/article/bo-nix-denver-broken-ankle-21301462.php
+11. Wilson, T. (2026). Denver quarterback Bo Nix to miss rest of playoffs after breaking ankle in win over Buffalo Bills. Houston Chronicle. Retrieved from [https://www.houstonchronicle.com/sports/texans/article/bo-nix-denver-broken-ankle-21301462.php](https://www.houstonchronicle.com/sports/texans/article/bo-nix-denver-broken-ankle-21301462.php)
 
-12. NFL.com. (2026). 2025 AFC East standings. NFL.com. Retrieved from https://www.nfl.com/standings/division/2025/REG
+12. NFL.com. (2026). 2025 AFC East standings. NFL.com. Retrieved from [https://www.nfl.com/standings/division/2025/REG](https://www.nfl.com/standings/division/2025/REG)
 
-13. Brennen, D. (2026, January). Patriots have fatal flaw that nobody is talking about. Sports Illustrated. Retrieved from https://www.si.com/nfl/patriots/onsi/news/new-england-patriots-fatal-flaw-nobody-talking-about
+13. Brennen, D. (2026, January). Patriots have fatal flaw that nobody is talking about. Sports Illustrated. Retrieved from [https://www.si.com/nfl/patriots/onsi/news/new-england-patriots-fatal-flaw-nobody-talking-about](https://www.si.com/nfl/patriots/onsi/news/new-england-patriots-fatal-flaw-nobody-talking-about)
 
-14. ChampsOrChumps.us. (2026). New England Patriots 2025 Schedule & Results. Retrieved from https://champsorchumps.us/team/nfl/new-england-patriots/2025
+14. ChampsOrChumps.us. (2026). New England Patriots 2025 Schedule & Results. Retrieved from [https://champsorchumps.us/team/nfl/new-england-patriots/2025](https://champsorchumps.us/team/nfl/new-england-patriots/2025)
 
-15. FOX Sports. (2026). Patriots vs. Chargers Injury Report – AFC Wild Card Round, 2026. FOX Sports. Retrieved from https://www.foxsports.com/articles/nfl/patriots-vs-chargers-injury-report-afc-wild-card-round-2026
+15. FOX Sports. (2026). Patriots vs. Chargers Injury Report – AFC Wild Card Round, 2026. FOX Sports. Retrieved from [https://www.foxsports.com/articles/nfl/patriots-vs-chargers-injury-report-afc-wild-card-round-2026](https://www.foxsports.com/articles/nfl/patriots-vs-chargers-injury-report-afc-wild-card-round-2026)
 
-16. ESPN. (2025). NFL trends through Week 12: Bengals, Giants, Patriots, Bears. ESPN. Retrieved from https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc
+16. ESPN. (2025). NFL trends through Week 12: Bengals, Giants, Patriots, Bears. ESPN. Retrieved from [https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc](https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc)
 
-17. Patra, K. (2026). Patriots played one of the easiest schedules in NFL history: Why it won’t discount a Super Bowl title. CBS Sports. Retrieved from https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/
+17. Patra, K. (2026). Patriots played one of the easiest schedules in NFL history: Why it won’t discount a Super Bowl title. CBS Sports. Retrieved from [https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/](https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/)
 
-18. ESPN Staff. (2026, January 25). NFL playoffs: Divisional round questions, overreactions. ESPN. Retrieved from https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026
+18. ESPN Staff. (2026, January 25). NFL playoffs: Divisional round questions, overreactions. ESPN. Retrieved from [https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026](https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026)
 
-19. Pro Football Network. (2026, January 18). NFL Analyst Undermines Patriots’ Potential ‘Path to a Super Bowl Championship’ After Win vs. Texans: ‘Easiest Road Ever’. Pro Football Network. Retrieved from https://www.profootballnetwork.com/analyst-undermines-patriots-potential-super-bowl-path-after-texans-win
+19. Pro Football Network. (2026, January 18). NFL Analyst Undermines Patriots’ Potential ‘Path to a Super Bowl Championship’ After Win vs. Texans: ‘Easiest Road Ever’. Pro Football Network. Retrieved from [https://www.profootballnetwork.com/analyst-undermines-patriots-potential-super-bowl-path-after-texans-win](https://www.profootballnetwork.com/analyst-undermines-patriots-potential-super-bowl-path-after-texans-win)
 
-20. Associated Press. (2026). Justin Herbert and his broken hand lead Chargers into playoffs against Patriots. FOX Sports. Retrieved from https://www.foxsports.com/articles/nfl/justin-herbert-and-his-broken-hand-lead-chargers-into-playoffs-against-patriots
+20. Associated Press. (2026). Justin Herbert and his broken hand lead Chargers into playoffs against Patriots. FOX Sports. Retrieved from [https://www.foxsports.com/articles/nfl/justin-herbert-and-his-broken-hand-lead-chargers-into-playoffs-against-patriots](https://www.foxsports.com/articles/nfl/justin-herbert-and-his-broken-hand-lead-chargers-into-playoffs-against-patriots)
 
-21. Means, A. (2026). Houston Texans receiver Nico Collins to miss playoff against Patriots with concussion. Houston Chronicle. Retrieved from https://www.houstonchronicle.com/sports/texans/article/nico-collins-status-playoffs-patriots-21298624.php
+21. Means, A. (2026). Houston Texans receiver Nico Collins to miss playoff against Patriots with concussion. Houston Chronicle. Retrieved from [https://www.houstonchronicle.com/sports/texans/article/nico-collins-status-playoffs-patriots-21298624.php](https://www.houstonchronicle.com/sports/texans/article/nico-collins-status-playoffs-patriots-21298624.php)
 
-22. New England Patriots. (2026). AFC Championship Injury Report: Patriots at Broncos. New England Patriots. Retrieved from https://www.patriots.com/news/afc-championship-injury-report-patriots-at-broncos
+22. New England Patriots. (2026). AFC Championship Injury Report: Patriots at Broncos. New England Patriots. Retrieved from [https://www.patriots.com/news/afc-championship-injury-report-patriots-at-broncos](https://www.patriots.com/news/afc-championship-injury-report-patriots-at-broncos)
 
-23. Dussault, M. (2025). Breaking Down the New England Patriots 2025 Schedule. New England Patriots. Retrieved from https://www.patriots.com/news/analysis-breaking-down-the-new-england-patriots-2025-schedule
+23. Dussault, M. (2025). Breaking Down the New England Patriots 2025 Schedule. New England Patriots. Retrieved from [https://www.patriots.com/news/analysis-breaking-down-the-new-england-patriots-2025-schedule](https://www.patriots.com/news/analysis-breaking-down-the-new-england-patriots-2025-schedule)
 
-24. Demos, K. (2025, May 8). Analytics show Bills benefit from playing in weak AFC East. SI.com. Retrieved from https://www.si.com/nfl/bills/news/sos-analytics-show-bills-benefit-from-playing-in-weak-afc-east
+24. Demos, K. (2025, May 8). Analytics show Bills benefit from playing in weak AFC East. SI.com. Retrieved from [https://www.si.com/nfl/bills/news/sos-analytics-show-bills-benefit-from-playing-in-weak-afc-east](https://www.si.com/nfl/bills/news/sos-analytics-show-bills-benefit-from-playing-in-weak-afc-east)
 
-25. Los Angeles Chargers. (2025). 5 Things To Know About Chargers-Patriots Wild Card Playoff Matchup. chargers.com. Retrieved from https://www.chargers.com/news/justin-herbert-playoff-patriots-wild-card-round-game-2025
+25. Los Angeles Chargers. (2025). 5 Things To Know About Chargers-Patriots Wild Card Playoff Matchup. chargers.com. Retrieved from [https://www.chargers.com/news/justin-herbert-playoff-patriots-wild-card-round-game-2025](https://www.chargers.com/news/justin-herbert-playoff-patriots-wild-card-round-game-2025)
 
-26. D’Abate, M. (2026, January). Two Patriots miss first practice of AFC Championship week. SI.com. Retrieved from https://www.si.com/nfl/patriots/onsi/news/two-new-england-patriots-miss-first-practice-afc-championship-week
+26. D’Abate, M. (2026, January). Two Patriots miss first practice of AFC Championship week. SI.com. Retrieved from [https://www.si.com/nfl/patriots/onsi/news/two-new-england-patriots-miss-first-practice-afc-championship-week](https://www.si.com/nfl/patriots/onsi/news/two-new-england-patriots-miss-first-practice-afc-championship-week)
 
-27. Zschau, C. (2026, January 16). New England Patriots vs. Houston Texans divisional round injury report. bet365 News US. Retrieved from https://news.bet365.com/en-us/article/new-england-patriots-vs-houston-texans-divisional-round-injury-report/2026011620574571700
+27. Zschau, C. (2026, January 16). New England Patriots vs. Houston Texans divisional round injury report. bet365 News US. Retrieved from [https://news.bet365.com/en-us/article/new-england-patriots-vs-houston-texans-divisional-round-injury-report/2026011620574571700](https://news.bet365.com/en-us/article/new-england-patriots-vs-houston-texans-divisional-round-injury-report/2026011620574571700)
 
-28. NBC Sports Boston. (2025, May 14). Patriots’ 2025 schedule is among NFL’s easiest based on these metrics. NBC Sports Boston. Retrieved from https://www.nbcsportsboston.com/nfl/new-england-patriots/patriots-2025-schedule-strength-opponents/709673/
+28. NBC Sports Boston. (2025, May 14). Patriots’ 2025 schedule is among NFL’s easiest based on these metrics. NBC Sports Boston. Retrieved from [https://www.nbcsportsboston.com/nfl/new-england-patriots/patriots-2025-schedule-strength-opponents/709673/](https://www.nbcsportsboston.com/nfl/new-england-patriots/patriots-2025-schedule-strength-opponents/709673/)
 
-29. Houston Chronicle. (2025, December 27). Houston Texans lose Mario Edwards for season in another blow to defensive-line depth. Houston Chronicle. Retrieved from https://www.houstonchronicle.com/sports/texans/article/mario-edwards-season-ending-pectoral-injury-21243892.php
+29. Houston Chronicle. (2025, December 27). Houston Texans lose Mario Edwards for season in another blow to defensive-line depth. Houston Chronicle. Retrieved from [https://www.houstonchronicle.com/sports/texans/article/mario-edwards-season-ending-pectoral-injury-21243892.php](https://www.houstonchronicle.com/sports/texans/article/mario-edwards-season-ending-pectoral-injury-21243892.php)
 
-30. New England Patriots. (2026, January 10). Injury Report: Patriots vs. Chargers. Patriots.com. Retrieved from https://www.patriots.com/news/injury-report-patriots-vs-chargers-wild-card-playoffs
+30. New England Patriots. (2026, January 10). Injury Report: Patriots vs. Chargers. Patriots.com. Retrieved from [https://www.patriots.com/news/injury-report-patriots-vs-chargers-wild-card-playoffs](https://www.patriots.com/news/injury-report-patriots-vs-chargers-wild-card-playoffs)
 
-31. Yahoo Sports. (2026). Close-game regression candidates for the 2026 NFL season. Yahoo Sports. Retrieved from https://sports.yahoo.com/articles/close-game-regression-candidates-2026-110000090.html
+31. Yahoo Sports. (2026). Close-game regression candidates for the 2026 NFL season. Yahoo Sports. Retrieved from [https://sports.yahoo.com/articles/close-game-regression-candidates-2026-110000090.html](https://sports.yahoo.com/articles/close-game-regression-candidates-2026-110000090.html)
 
-32. The Washington Post. (2025, November 9). What to know from NFL Week 10: Mike Vrabel has transformed the Patriots. The Washington Post. Retrieved from https://www.washingtonpost.com/sports/2025/11/09/nfl-week-10-what-to-know/
+32. The Washington Post. (2025, November 9). What to know from NFL Week 10: Mike Vrabel has transformed the Patriots. The Washington Post. Retrieved from [https://www.washingtonpost.com/sports/2025/11/09/nfl-week-10-what-to-know/](https://www.washingtonpost.com/sports/2025/11/09/nfl-week-10-what-to-know/)
 
-33. Pats Pulpit. (2025, December). Week 12 Patriots Power Rankings: ‘They just keep on winning’. Pats Pulpit. Retrieved from https://www.patspulpit.com/new-england-patriots-power-rankings/114499/week-12-patriots-power-rankings-they-just-keep-on-winning
+33. Pats Pulpit. (2025, December). Week 12 Patriots Power Rankings: ‘They just keep on winning’. Pats Pulpit. Retrieved from [https://www.patspulpit.com/new-england-patriots-power-rankings/114499/week-12-patriots-power-rankings-they-just-keep-on-winning](https://www.patspulpit.com/new-england-patriots-power-rankings/114499/week-12-patriots-power-rankings-they-just-keep-on-winning)
 
-34. Pro-Football-Reference.com. (2025). 2025 New England Patriots Rosters, Stats, Schedule, Team Draftees, Injury Reports. Retrieved from https://www.pro-football-reference.com/teams/nwe/2025.htm
+34. Pro-Football-Reference.com. (2025). 2025 New England Patriots Rosters, Stats, Schedule, Team Draftees, Injury Reports. Retrieved from [https://www.pro-football-reference.com/teams/nwe/2025.htm](https://www.pro-football-reference.com/teams/nwe/2025.htm)
 
-35. ABC13 Houston. (2026, January). NFL playoffs: Divisional round questions, overreactions. ABC13 Houston. Retrieved from https://abc13.com/post/nfl-playoffs-divisional-round-questions-overreactions/18424595/
+35. ABC13 Houston. (2026, January). NFL playoffs: Divisional round questions, overreactions. ABC13 Houston. Retrieved from [https://abc13.com/post/nfl-playoffs-divisional-round-questions-overreactions/18424595/](https://abc13.com/post/nfl-playoffs-divisional-round-questions-overreactions/18424595/)
 
-36. Associated Press. (2025, December). Texans clinch third consecutive playoff berth with 20-16 win over Chargers. AP News. Retrieved from https://apnews.com/article/e4d32c2c101f7c8daccb83a9057141b8
+36. Associated Press. (2025, December). Texans clinch third consecutive playoff berth with 20-16 win over Chargers. AP News. Retrieved from [https://apnews.com/article/e4d32c2c101f7c8daccb83a9057141b8](https://apnews.com/article/e4d32c2c101f7c8daccb83a9057141b8)
 
-37. New York Post. (2025, November 3). Mike Vrabel’s Patriots radio interview gets feisty with host’s ‘little smirk’ after touchy question. New York Post. Retrieved from https://nypost.com/2025/11/03/sports/mike-vrabels-patriots-radio-interview-gets-feisty-with-hosts-little-smirk/
+37. New York Post. (2025, November 3). Mike Vrabel’s Patriots radio interview gets feisty with host’s ‘little smirk’ after touchy question. New York Post. Retrieved from [https://nypost.com/2025/11/03/sports/mike-vrabels-patriots-radio-interview-gets-feisty-with-hosts-little-smirk/](https://nypost.com/2025/11/03/sports/mike-vrabels-patriots-radio-interview-gets-feisty-with-hosts-little-smirk/)
 
-38. Breech, J. (2025, May 14). 2025 NFL strength of schedule for all 32 teams: Giants, Bears facing rough slates, 49ers have it easiest. CBS Sports. Retrieved from https://www.cbssports.com/nfl/news/2025-nfl-strength-of-schedule-for-all-32-teams-giants-bears-facing-rough-slates-49ers-have-it-easiest/
+38. Breech, J. (2025, May 14). 2025 NFL strength of schedule for all 32 teams: Giants, Bears facing rough slates, 49ers have it easiest. CBS Sports. Retrieved from [https://www.cbssports.com/nfl/news/2025-nfl-strength-of-schedule-for-all-32-teams-giants-bears-facing-rough-slates-49ers-have-it-easiest/](https://www.cbssports.com/nfl/news/2025-nfl-strength-of-schedule-for-all-32-teams-giants-bears-facing-rough-slates-49ers-have-it-easiest/)
 
-39. Allan, I. (2026, January 10). Cruising on easy street: Patriots have played historically soft schedule. Fantasy Index. Retrieved from https://fantasyindex.com/2026/01/10/scheduletron/cruising-on-easy-street
+39. Allan, I. (2026, January 10). Cruising on easy street: Patriots have played historically soft schedule. Fantasy Index. Retrieved from [https://fantasyindex.com/2026/01/10/scheduletron/cruising-on-easy-street](https://fantasyindex.com/2026/01/10/scheduletron/cruising-on-easy-street)
 
-40. Melendrez Stapleton, A. (2026, January 17). Broncos reach AFC title game after 33-30 win over Bills, but lose Nix for season with ankle injury. AP News. Retrieved from https://apnews.com/article/denver-broncos-buffalo-bills-score-playoffs-06db9c892a27dd854e25ece79d4671f1
+40. Melendrez Stapleton, A. (2026, January 17). Broncos reach AFC title game after 33-30 win over Bills, but lose Nix for season with ankle injury. AP News. Retrieved from [https://apnews.com/article/denver-broncos-buffalo-bills-score-playoffs-06db9c892a27dd854e25ece79d4671f1](https://apnews.com/article/denver-broncos-buffalo-bills-score-playoffs-06db9c892a27dd854e25ece79d4671f1)
 
-41. Ryan, C. (2026, January 4). 4 things to know about Patriots’ wild-card playoff foe Chargers. Boston.com. Retrieved from https://www.boston.com/sports/new-england-patriots/2026/01/04/new-england-patriots-los-angeles-chargers-nfl-football/
+41. Ryan, C. (2026, January 4). 4 things to know about Patriots’ wild-card playoff foe Chargers. Boston.com. Retrieved from [https://www.boston.com/sports/new-england-patriots/2026/01/04/new-england-patriots-los-angeles-chargers-nfl-football/](https://www.boston.com/sports/new-england-patriots/2026/01/04/new-england-patriots-los-angeles-chargers-nfl-football/)
 
-42. Buchmasser, B. (2025, July 13). Sunday Patriots Notes: Better team health a key to success in 2025. Pats Pulpit. Retrieved from https://www.patspulpit.com/2025/7/13/24466744/sunday-patriots-notes-team-health-success-2025-nfl-season
+42. Buchmasser, B. (2025, July 13). Sunday Patriots Notes: Better team health a key to success in 2025. Pats Pulpit. Retrieved from [https://www.patspulpit.com/2025/7/13/24466744/sunday-patriots-notes-team-health-success-2025-nfl-season](https://www.patspulpit.com/2025/7/13/24466744/sunday-patriots-notes-team-health-success-2025-nfl-season)
 
-43. Pro Football Focus. (2025). 2025 NFL midseason report: All 32 NFL teams' highest-graded players, biggest surprises and more. Pro Football Focus. Retrieved from https://www.pff.com/news/2025-nfl-midseason-report-all-32-nfl-teams-highest-graded-players-biggest-surprises-and-more
+43. Pro Football Focus. (2025). 2025 NFL midseason report: All 32 NFL teams' highest-graded players, biggest surprises and more. Pro Football Focus. Retrieved from [https://www.pff.com/news/2025-nfl-midseason-report-all-32-nfl-teams-highest-graded-players-biggest-surprises-and-more](https://www.pff.com/news/2025-nfl-midseason-report-all-32-nfl-teams-highest-graded-players-biggest-surprises-and-more)
 
-44. The Next Gen Stats Analytics Team. (2026, January 7). Next Gen Stats 2025 All-Pro Team: Drake Maye, Puka Nacua star on offense. NFL. Retrieved from https://www.nfl.com/news/next-gen-stats-2025-all-pro-team-offense/
+44. The Next Gen Stats Analytics Team. (2026, January 7). Next Gen Stats 2025 All-Pro Team: Drake Maye, Puka Nacua star on offense. NFL. Retrieved from [https://www.nfl.com/news/next-gen-stats-2025-all-pro-team-offense/](https://www.nfl.com/news/next-gen-stats-2025-all-pro-team-offense/)
 
-45. SB Nation. (2026). Drake Maye and the Patriots have turned things around with explosive plays. SB Nation. Retrieved from https://www.sbnation.com/nfl/1099287/drake-maye-patriots-chargers-wild-card-stats-video
+45. SB Nation. (2026). Drake Maye and the Patriots have turned things around with explosive plays. SB Nation. Retrieved from [https://www.sbnation.com/nfl/1099287/drake-maye-patriots-chargers-wild-card-stats-video](https://www.sbnation.com/nfl/1099287/drake-maye-patriots-chargers-wild-card-stats-video)
 
-46. StatMuse. (2026). NFL average margin of victory 2025: Patriots. StatMuse. Retrieved from https://www.statmuse.com/nfl/ask/nfl-average-margin-of-victory-2025-patriots
+46. StatMuse. (2026). NFL average margin of victory 2025: Patriots. StatMuse. Retrieved from [https://www.statmuse.com/nfl/ask/nfl-average-margin-of-victory-2025-patriots](https://www.statmuse.com/nfl/ask/nfl-average-margin-of-victory-2025-patriots)
 
-47. Yahoo Sports. (2026). Oddsmakers, projections mixed on Patriots’ Super Bowl chances. Yahoo Sports. Retrieved from https://sports.yahoo.com/articles/oddsmakers-projections-mixed-patriots-super-100048080.html
+47. Yahoo Sports. (2026). Oddsmakers, projections mixed on Patriots’ Super Bowl chances. Yahoo Sports. Retrieved from [https://sports.yahoo.com/articles/oddsmakers-projections-mixed-patriots-super-100048080.html](https://sports.yahoo.com/articles/oddsmakers-projections-mixed-patriots-super-100048080.html)
 
-48. Fox Sports. (2026, February 1). 2025-26 New England Patriots Odds: Odds to win Super Bowl, NFL Playoffs, Division. Fox Sports. Retrieved from https://www.foxsports.com/articles/nfl/2025-26-new-england-patriots-odds-odds-to-win-super-bowl-nfl-playoffs-division
+48. Fox Sports. (2026, February 1). 2025-26 New England Patriots Odds: Odds to win Super Bowl, NFL Playoffs, Division. Fox Sports. Retrieved from [https://www.foxsports.com/articles/nfl/2025-26-new-england-patriots-odds-odds-to-win-super-bowl-nfl-playoffs-division](https://www.foxsports.com/articles/nfl/2025-26-new-england-patriots-odds-odds-to-win-super-bowl-nfl-playoffs-division)
 
-49. The Wall Street Journal. (2026, February 4). The polarizing mastermind who resurrected the Patriots’ offense. The Wall Street Journal. Retrieved from https://www.wsj.com/sports/football/josh-mcdaniels-patriots-tom-brady-drake-maye-d6884e30
+49. The Wall Street Journal. (2026, February 4). The polarizing mastermind who resurrected the Patriots’ offense. The Wall Street Journal. Retrieved from [https://www.wsj.com/sports/football/josh-mcdaniels-patriots-tom-brady-drake-maye-d6884e30](https://www.wsj.com/sports/football/josh-mcdaniels-patriots-tom-brady-drake-maye-d6884e30)
 
-50. Gasper, C. L. (2025, November 2). In the end, defense bails out Patriots’ sorry second-half offense — with some help from Lady Luck. The Boston Globe. Retrieved from https://www.bostonglobe.com/2025/11/02/sports/patriots-win-defense-luck-falcons/
+50. Gasper, C. L. (2025, November 2). In the end, defense bails out Patriots’ sorry second-half offense — with some help from Lady Luck. The Boston Globe. Retrieved from [https://www.bostonglobe.com/2025/11/02/sports/patriots-win-defense-luck-falcons/](https://www.bostonglobe.com/2025/11/02/sports/patriots-win-defense-luck-falcons/)
 
-51. Curran, T. E. (2025, November 4). Reaction to Patriots’ ‘lucky’ win is more evidence of how far they’ve come. NBC Sports Boston. Retrieved from https://sports.yahoo.com/article/reaction-patriots-lucky-win-more-092342114.html
+51. Curran, T. E. (2025, November 4). Reaction to Patriots’ ‘lucky’ win is more evidence of how far they’ve come. NBC Sports Boston. Retrieved from [https://sports.yahoo.com/article/reaction-patriots-lucky-win-more-092342114.html](https://sports.yahoo.com/article/reaction-patriots-lucky-win-more-092342114.html)
 
-52. Sharp, W. (2018, February 13). Ignore Virtually All Offseason NFL Strength of Schedule Information. Sharp Football Analysis. Retrieved from https://www.sharpfootballanalysis.com/analysis/ignore-virtually-all-offseason-nfl-strength-of-schedule-information/
+52. Sharp, W. (2018, February 13). Ignore Virtually All Offseason NFL Strength of Schedule Information. Sharp Football Analysis. Retrieved from [https://www.sharpfootballanalysis.com/analysis/ignore-virtually-all-offseason-nfl-strength-of-schedule-information/](https://www.sharpfootballanalysis.com/analysis/ignore-virtually-all-offseason-nfl-strength-of-schedule-information/)
 
-53. The Boston Globe. (2025, October 9). No one said the NFL was easy, but analysis of the Patriots’ upcoming schedule suggests a smooth road ahead. The Boston Globe. Retrieved from https://www.bostonglobe.com/2025/10/09/sports/patriots-schedule-nfl-football/
+53. The Boston Globe. (2025, October 9). No one said the NFL was easy, but analysis of the Patriots’ upcoming schedule suggests a smooth road ahead. The Boston Globe. Retrieved from [https://www.bostonglobe.com/2025/10/09/sports/patriots-schedule-nfl-football/](https://www.bostonglobe.com/2025/10/09/sports/patriots-schedule-nfl-football/)
 
-54. Murtha, D. (2016, August 14). Strength of Schedule Myth. Fantasy Alarm. Retrieved from https://www.fantasyalarm.com/articles/mlb/strength-of-schedule-myth/28001
+54. Murtha, D. (2016, August 14). Strength of Schedule Myth. Fantasy Alarm. Retrieved from [https://www.fantasyalarm.com/articles/mlb/strength-of-schedule-myth/28001](https://www.fantasyalarm.com/articles/mlb/strength-of-schedule-myth/28001)
 
-55. Yahoo Sports. (2025). Will Patriots' weak strength of schedule hurt them? The history is interesting. Retrieved from https://sports.yahoo.com/article/patriots-weak-strength-schedule-hurt-212446423.html
+55. Yahoo Sports. (2025). Will Patriots' weak strength of schedule hurt them? The history is interesting. Retrieved from [https://sports.yahoo.com/article/patriots-weak-strength-schedule-hurt-212446423.html](https://sports.yahoo.com/article/patriots-weak-strength-schedule-hurt-212446423.html)
 
-56. CBS News San Francisco. (2026). Blog calculates Patriots as most-injured team in NFL this season. Retrieved from https://www.cbsnews.com/sanfrancisco/news/blog-calculates-patriots-as-most-injured-team-in-nfl-this-season/
+56. CBS News San Francisco. (2026). Blog calculates Patriots as most-injured team in NFL this season. Retrieved from [https://www.cbsnews.com/sanfrancisco/news/blog-calculates-patriots-as-most-injured-team-in-nfl-this-season/](https://www.cbsnews.com/sanfrancisco/news/blog-calculates-patriots-as-most-injured-team-in-nfl-this-season/)
 
-57. Evans, D. (2025, March 3). Which NFL Team Had The Highest Injury Cost In The 24/25 Season? Sports Casting. Retrieved from https://www.sportscasting.com/news/which-nfl-team-had-the-highest-injury-cost-in-the-24-25-season/
+57. Evans, D. (2025, March 3). Which NFL Team Had The Highest Injury Cost In The 24/25 Season? Sports Casting. Retrieved from [https://www.sportscasting.com/news/which-nfl-team-had-the-highest-injury-cost-in-the-24-25-season/](https://www.sportscasting.com/news/which-nfl-team-had-the-highest-injury-cost-in-the-24-25-season/)
 
-58. ProFootballLogic. (2026). NFL Injury Point Value. Retrieved from https://www.profootballlogic.com/articles/nfl-injury-point-value/
+58. ProFootballLogic. (2026). NFL Injury Point Value. Retrieved from [https://www.profootballlogic.com/articles/nfl-injury-point-value/](https://www.profootballlogic.com/articles/nfl-injury-point-value/)
 
-59. Schalter, T. (2018, April 20). The way everybody measures NFL schedule strength? It’s wrong. FiveThirtyEight. Retrieved from https://fivethirtyeight.com/features/the-way-everybody-measures-nfl-schedule-strength-its-wrong/
+59. Schalter, T. (2018, April 20). The way everybody measures NFL schedule strength? It’s wrong. FiveThirtyEight. Retrieved from [https://fivethirtyeight.com/features/the-way-everybody-measures-nfl-schedule-strength-its-wrong/](https://fivethirtyeight.com/features/the-way-everybody-measures-nfl-schedule-strength-its-wrong/)
 
-60. Jenkins, K. (2025, August 6). What is NFL strength of schedule? 2025 rankings by team. ESPN. Retrieved from https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings
+60. Jenkins, K. (2025, August 6). What is NFL strength of schedule? 2025 rankings by team. ESPN. Retrieved from [https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings](https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings)
 
-61. DeHollander, A., & Karwan, M. (2025). Improving strength of schedule metrics in sports scheduling. Journal of Quantitative Analysis in Sports. https://doi.org/10.1515/jqas-2024-0171 Retrieved from https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0171/pdf
+61. DeHollander, A., & Karwan, M. (2025). Improving strength of schedule metrics in sports scheduling. Journal of Quantitative Analysis in Sports. [https://doi.org/10.1515/jqas-2024-0171](https://doi.org/10.1515/jqas-2024-0171) Retrieved from [https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0171/pdf](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0171/pdf)
 
-62. Bouzarth, E. L., Cromer, A. W., Fravel, W. J., Grannan, B. C., & Hutson, K. R. (2020). Dynamically scheduling NFL games to reduce strength of schedule variability. Journal of Sports Analytics. https://doi.org/10.3233/jsa-200428 Retrieved from https://zendy.io/title/10.3233/jsa-200428
+62. Bouzarth, E. L., Cromer, A. W., Fravel, W. J., Grannan, B. C., & Hutson, K. R. (2020). Dynamically scheduling NFL games to reduce strength of schedule variability. Journal of Sports Analytics. [https://doi.org/10.3233/jsa-200428](https://doi.org/10.3233/jsa-200428) Retrieved from [https://zendy.io/title/10.3233/jsa-200428](https://zendy.io/title/10.3233/jsa-200428)
 
-63. Price, J. (2026). The liturgies of sports fandom. Partners and Citizens. Retrieved from https://www.partnersandcitizens.org/articles/the-liturgies-of-sports-fandom
+63. Price, J. (2026). The liturgies of sports fandom. Partners and Citizens. Retrieved from [https://www.partnersandcitizens.org/articles/the-liturgies-of-sports-fandom](https://www.partnersandcitizens.org/articles/the-liturgies-of-sports-fandom)
 
-64. Course Hero. (n.d.). I need some help with this assignment. Retrieved February 6, 2026, from https://www.coursehero.com/tutors-problems/Literature/79019955-I-need-some-help-with-this-assignment-If-you-have-any-questions/
+64. Course Hero. (n.d.). I need some help with this assignment. Retrieved February 6, 2026, from [https://www.coursehero.com/tutors-problems/Literature/79019955-I-need-some-help-with-this-assignment-If-you-have-any-questions/](https://www.coursehero.com/tutors-problems/Literature/79019955-I-need-some-help-with-this-assignment-If-you-have-any-questions/)
 
-65. Gilbert, D. E., & Wells, M. T. (2018). Ludometrics: Luck, and how to measure it. arXiv. https://arxiv.org/abs/1811.00673
+65. Gilbert, D. E., & Wells, M. T. (2018). Ludometrics: Luck, and how to measure it. arXiv. [https://arxiv.org/abs/1811.00673](https://arxiv.org/abs/1811.00673)
 
-66. Sports Cultures. (2024). In Cultural Studies. Retrieved from https://ebooks.inflibnet.ac.in/engp16/chapter/sports-cultures/
+66. Sports Cultures. (2024). In Cultural Studies. Retrieved from [https://ebooks.inflibnet.ac.in/engp16/chapter/sports-cultures/](https://ebooks.inflibnet.ac.in/engp16/chapter/sports-cultures/)
+
