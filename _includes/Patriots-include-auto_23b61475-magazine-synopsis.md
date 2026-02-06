@@ -171,7 +171,7 @@ What remains genuinely uncertain isn’t whether the Patriots received help—th
 
 17. Patra, K. (2026). Patriots played one of the easiest schedules in NFL history: Why it won’t discount a Super Bowl title. CBS Sports. Retrieved from [https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/](https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/)
 
-18. ESPN Staff. (2026, January 25). NFL playoffs: Divisional round questions, overreactions. ESPN. Retrieved from [https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026](https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026)
+18. ESPN Staff. (2026, January 25). NFL playoffs: Divisional round questions, overreactions. ESPN. Retrieved from [`https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026`](https://www.espn.com/nfl/story/_/id/47631469/nfl-playoffs-divisional-round-nfc-afc-big-questions-overreactions-2026)
 
 19. Pro Football Network. (2026, January 18). NFL Analyst Undermines Patriots’ Potential ‘Path to a Super Bowl Championship’ After Win vs. Texans: ‘Easiest Road Ever’. Pro Football Network. Retrieved from [https://www.profootballnetwork.com/analyst-undermines-patriots-potential-super-bowl-path-after-texans-win](https://www.profootballnetwork.com/analyst-undermines-patriots-potential-super-bowl-path-after-texans-win)
 
