@@ -167,7 +167,7 @@ What remains genuinely uncertain isn’t whether the Patriots received help—th
 
 15. FOX Sports. (2026). Patriots vs. Chargers Injury Report – AFC Wild Card Round, 2026. FOX Sports. Retrieved from [https://www.foxsports.com/articles/nfl/patriots-vs-chargers-injury-report-afc-wild-card-round-2026](https://www.foxsports.com/articles/nfl/patriots-vs-chargers-injury-report-afc-wild-card-round-2026)
 
-16. ESPN. (2025). NFL trends through Week 12: Bengals, Giants, Patriots, Bears. ESPN. Retrieved from [https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc](https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc)
+16. ESPN. (2025). NFL trends through Week 12: Bengals, Giants, Patriots, Bears. ESPN. Retrieved from [`https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc`](https://www.espn.com/nfl/story/_/id/47109281/2025-nfl-season-trends-dvoa-bengals-giants-patriots-bears-jsn-cmc)
 
 17. Patra, K. (2026). Patriots played one of the easiest schedules in NFL history: Why it won’t discount a Super Bowl title. CBS Sports. Retrieved from [https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/](https://www.cbssports.com/nfl/news/patriots-easy-schedule-wont-discount-super-bowl-title/amp/)
 
@@ -255,7 +255,7 @@ What remains genuinely uncertain isn’t whether the Patriots received help—th
 
 59. Schalter, T. (2018, April 20). The way everybody measures NFL schedule strength? It’s wrong. FiveThirtyEight. Retrieved from [https://fivethirtyeight.com/features/the-way-everybody-measures-nfl-schedule-strength-its-wrong/](https://fivethirtyeight.com/features/the-way-everybody-measures-nfl-schedule-strength-its-wrong/)
 
-60. Jenkins, K. (2025, August 6). What is NFL strength of schedule? 2025 rankings by team. ESPN. Retrieved from [https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings](https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings)
+60. Jenkins, K. (2025, August 6). What is NFL strength of schedule? 2025 rankings by team. ESPN. Retrieved from [`https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings`](https://insider.espn.com/nfl/story/_/id/45916116/what-nfl-strength-schedule-2025-team-rankings)
 
 61. DeHollander, A., & Karwan, M. (2025). Improving strength of schedule metrics in sports scheduling. Journal of Quantitative Analysis in Sports. [https://doi.org/10.1515/jqas-2024-0171](https://doi.org/10.1515/jqas-2024-0171) Retrieved from [https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0171/pdf](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0171/pdf)
 
