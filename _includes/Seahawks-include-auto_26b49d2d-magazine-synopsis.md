@@ -274,4 +274,3 @@ That’s fine. Football is not a lab experiment. But it *is* a domain where you 
 
 55. VueMotion. (2025). NFL Injuries Are a $213 M Pain, But They Don’t Have to Be. VueMotion. Retrieved from [https://www.vuemotion.com/blog/nfl-injuries-are-a-213m-pain-but-they-dont-have-to-be](https://www.vuemotion.com/blog/nfl-injuries-are-a-213m-pain-but-they-dont-have-to-be)
 
-56. 
