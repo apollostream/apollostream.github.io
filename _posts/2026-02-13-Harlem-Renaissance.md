@@ -33,7 +33,7 @@ Having said all that, I'm far from a historian on the subject. To learn more I r
 
 Although the 3 BFIH analyses came to slightly different hypotheses with the highest posterior probability, they all have similar conclusions and takeaways.  In the end, as I've waded through the tons of BFIH output and source material, I'm satisfied that either of the 3 analyses serves the BFIH purpose well: To shed light upon the topic from several perspectives and counterpoints. For this post, I chose the latst of the 3 BFIH analyses.
 
-I also had Perplexity.AI generate a chronology, ["Deep Chronology of Harlem Renaissance Literary Figures: A Network Analysis of Six Key Authors and Their Cultural Milieu"](../_include/harlem_renaissance_chronology_rev.html). I also had it generate the visualization shown below. Both the chronology and the visualization are centered around six key authors connected to the Harlem Renaissance. 
+I also had Perplexity.AI generate a chronology, ["Deep Chronology of Harlem Renaissance Literary Figures: A Network Analysis of Six Key Authors and Their Cultural Milieu"](../_includes/harlem_renaissance_chronology_rev.html). I also had it generate the visualization shown below. Both the chronology and the visualization are centered around six key authors connected to the Harlem Renaissance. 
 ![The Harlem Renaissance: Six Key Authors](../images/six-authors-graphviz.png)
 
 I can't speak to the accuracy or completeness of either.  I simply haven't paid the dues of diligent scholarship needed to speak authoritatively on this subject. 
@@ -55,7 +55,7 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 <div align="center">⁂</div>
 
-{% include UPF-Ban-include.md %}
+{% include auto_d0a597f6_magazine_synopsis_rev.md %}
 
 ---
 
