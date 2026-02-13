@@ -10,30 +10,30 @@ published: false
 
 ---
 
-I've been working on several revamps of the core methodological engine of the BFIH analysis. Instrumental in this has been Anthropic's Claude Code (Opus 4.6). It has allowed me to make several specialized versions of BFIH:
+**Latest on the _Bayesian Framework of Intellectual Honesty (BFIH)_:** I've been working on several revamps of the core methodological engine of the BFIH analysis. Instrumental in this has been Anthropic's Claude Code (Opus 4.6). It has allowed me to make several specialized versions of BFIH:
 
 - 'lite' analysis,
 - predictive forecasting,
 - synthesis of a network of multiple interdependent analyses
 
-And to leverage scripted parallelized investigations of multiple propositions and ablation studies with parallelized Monte Carlo simulation.
+And to leverage scripted parallelized investigations of multiple propositions and to perform ablation studies with parallelized Monte Carlo simulation.
 
 This is all to say that when I turned the BFIH analysis on a subject dear to me -- the Harlem Renaissance -- I went deep down the rabbit hole. 
 
 ---
 
-I picked the Harlem Renaissance because it is special to me. I discovered it in high school nearly 50 years ago in the school library. I've forgotten the exact when and how and who I read first but I remember ravenously reading Langston Hughes, Zora Neale Hurston, then James Baldwin, Richard Wright, Roy Ellison -- all in this high school library in El Paso, Texas!  These great authors had a great impact upon me, and were a key influence in my own creative writing, for which I won awards at the district, state, regional and ultimately national level, culminating in "Best Short Story" in the 1978 National High School Literary Magazine Contest of the [Columbia Scholastic Press Association (CSPA)](https://www.columbia.edu/cu/cspa/docs/contests-and-critiques/gold-circle-awards/index.html). (*The CSPA web site documents their latest competitions and awards, noting the current awards date from 1982. So, I have only [this newspaper article from the El Paso Herald-Post of Nov. 8, 1978](https://drive.google.com/file/d/1lG4wFJWr-uDN2abYrB3XrcJS4lmtzu7e/view?usp=sharing) documenting my national recognition. Needless to say, times were different then....*)
+**Today's Topic:** I picked the Harlem Renaissance because it is special to me. I discovered it in high school roughly 50 years ago in the school library. I've forgotten the exact when and how and who I read first but I remember ravenously reading Langston Hughes, Zora Neale Hurston, then James Baldwin, Richard Wright, Roy Ellison -- all in this high school library in El Paso, Texas!  These great authors had a great impact upon me, and were a key influence in my own creative writing, for which I won awards at the district, state, regional and ultimately national level culminating in "Best Short Story" in the 1978 National High School Literary Magazine Contest of the [Columbia Scholastic Press Association (CSPA)](https://www.columbia.edu/cu/cspa/docs/contests-and-critiques/gold-circle-awards/index.html). (*The CSPA web site documents their latest competitions and awards, noting the current awards date from 1982, 4 years after I competed. So, I have only [this newspaper article from the El Paso Herald-Post of Nov. 8, 1978](https://drive.google.com/file/d/1lG4wFJWr-uDN2abYrB3XrcJS4lmtzu7e/view?usp=sharing) documenting my national recognition. Needless to say, times were different then....*)
 
 Having said all that, I'm far from a historian on the subject. To learn more I ran three separate BFIH analyses of this topic, each with a slightly different version of the code.  I was at first thrilled with the depth and breadth of the results:
 
-- It tied in The Great Migration of Black Americans from the South to the North.
-- It described into the network of editors, publishers, and patrons which helped support and spread the creative output of the creatives.
+- The analyses tied in The Great Migration of Black Americans from the South to the North creating the community within which the Renaissance rose and the audience hungry for literature, art, and music bay and about themselves.
+- It described the professional infrastructure of editors, publishers, and patrons who helped support and spread the creative output of the creatives.
 - It cited a treasure trove of source material digitally and in print for me to dive deeply into.
-- And it gave life to the *senius* -- as Brian Eno calls such creative ecosystems interacting in daily life to empower, compete, and ultimately elevate each others works, defying the myth of sinular genius toiling away brilliantly in solitude.
+- And it gave life to the **_scenius_** -- as Brian Eno coined for such creative ecosystems interacting in daily life to empower, compete, and ultimately elevate each others works, defying the myth of the singular **_genius_** toiling away brilliantly in solitude.
 
 But then I was disappointed by how the 3 BFIH analyses came to slightly different hypotheses with the highest posterior probability.
 
-Yet, in the end, as I've waded through the tons of BFIH output and source material, I'm satisfied that either of the 3 BFIH analyses
+Yet, in the end, as I've waded through the tons of BFIH output and source material, I'm satisfied that either of the 3 BFIH analyses serves its purpose well: To shed light upon a topic from several perspectives and counterpoints.
 
 ---
 
