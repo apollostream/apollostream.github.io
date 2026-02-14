@@ -4,9 +4,9 @@ title: "The 'Scenius' of 1920's Harlem"
 published: true
 ---
 
-<a title="File:Alain LeRoy Locke.jpg, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Alain_LeRoy_Locke_cr.jpg"><img width="256" alt="Alain LeRoy Locke cr" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Alain_LeRoy_Locke_cr.jpg?20230220235540"></a>
+<a title="File:Harlem in 1942" href="https://www.boweryboyshistory.com/wp-content/uploads/2021/02/Harlem-Part-One.jpeg"><img width="1024" alt="Alain LeRoy Locke cr" src="https://www.boweryboyshistory.com/wp-content/uploads/2021/02/Harlem-Part-One.jpeg"></a>
 
-*[Alain Locke](https://www.harvardmagazine.com/2018/02/alain-locke-the-new-negro), the "Dean" of the Harlem Renaissance, ca. 1930. ([Wikipedia.org](https://en.wikipedia.org/wiki/Alain_LeRoy_Locke))*
+*Harlem in 1942. National Archives/Getty Images (via [The Bowery Boys: "The Birth of Black Harlem: On the Road to a Renaissance"](https://www.boweryboyshistory.com/2021/02/the-birth-of-black-harlem-on-the-road-to-a-renaissance.html) by [GY](https://www.boweryboyshistory.com/author/greg-young), February 12, 2021)*
 
 ---
 
