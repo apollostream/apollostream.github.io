@@ -22,7 +22,7 @@ This is all to say that when I turned the BFIH analysis on a subject dear to me 
 
 ---
 
-**Today's Topic:** I picked [the Harlem Renaissance](https://www.britannica.com/summary/Harlem-Renaissance-Timeline) because it is special to me. I discovered it in high school roughly 50 years ago in the school's library. I've forgotten the exact when and who I read first but I remember ravenously reading Langston Hughes and Zora Neale Hurston, then James Baldwin, Richard Wright, and Roy Ellison -- all from books I found in this high school library in El Paso, Texas!  
+**Today's Topic:** I picked [the Harlem Renaissance](https://www.britannica.com/summary/Harlem-Renaissance-Timeline) because it is special to me. I discovered it in high school roughly 50 years ago in the school's library. I've forgotten the exact when and who I read first but I remember ravenously reading Langston Hughes and Zora Neale Hurston, then James Baldwin, Richard Wright, and Ralph Ellison -- all from books I found in this high school library in El Paso, Texas!  
 
 These great authors had a great impact upon me, and were a key influence in my own creative writing, for which I won awards at the district, state, regional and ultimately national level culminating in "Best Short Story" in the 1978 National High School Literary Magazine Contest of the [Columbia Scholastic Press Association (CSPA)](https://www.columbia.edu/cu/cspa/docs/contests-and-critiques/gold-circle-awards/index.html). 
 
