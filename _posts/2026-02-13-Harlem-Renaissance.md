@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The 'Scenius' of 1920's Harlem"
-published: false
+published: true
 ---
 
 <a title="File:Alain LeRoy Locke.jpg, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Alain_LeRoy_Locke_cr.jpg"><img width="256" alt="Alain LeRoy Locke cr" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Alain_LeRoy_Locke_cr.jpg?20230220235540"></a>
 
-*Alain Locke, the "Dean" of the Harlem Renaissance, ca. 1930. ([Wikipedia.org](https://en.wikipedia.org/wiki/Alain_LeRoy_Locke))*
+*[Alain Locke](https://www.harvardmagazine.com/2018/02/alain-locke-the-new-negro), the "Dean" of the Harlem Renaissance, ca. 1930. ([Wikipedia.org](https://en.wikipedia.org/wiki/Alain_LeRoy_Locke))*
 
 ---
 
@@ -37,7 +37,7 @@ Having said all that, I'm far from a historian on the subject. To learn more I r
 
 Although the 3 BFIH analyses came to slightly different hypotheses receiving the highest posterior probability, they all had similar conclusions and takeaways.  In the end, as I've waded through the tons of BFIH output and source material, I'm satisfied that each serves the BFIH purpose well: To shed light upon the topic from several perspectives. For this post, I chose to feature the last of the 3 BFIH analyses.
 
-I also had Perplexity.AI generate a chronology, ["Deep Chronology of Harlem Renaissance Literary Figures: A Network Analysis of Six Key Authors and Their Cultural Milieu"](../_includes/harlem_renaissance_chronology_rev.html). Plus, I had it generate the visualization shown below. Both the chronology and the visualization are centered around six key authors. 
+I also had Perplexity.AI generate a chronology, <a href="{{ site.baseurl }}/assets/harlem_renaissance_chronology_rev.html" target="_blank">"Deep Chronology of Harlem Renaissance Literary Figures: A Network Analysis of Six Key Authors and Their Cultural Milieu"</a>. Plus, I had it generate the visualization shown below. Both the chronology and the visualization are centered around six key authors. 
 
 ![The Harlem Renaissance: Six Key Authors](../images/six-authors-graphviz.png)
 
