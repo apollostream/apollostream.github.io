@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Sir! Yes, sir!"'
-published: false
+published: true
 ---
 
 ![LLM Sycophancy](../images/llm-sycophancy-tensions-with-honesty.png)
