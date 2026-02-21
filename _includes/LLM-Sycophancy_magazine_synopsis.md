@@ -118,121 +118,118 @@ Whether we can build assistants that disagree well—firmly, politely, and consi
 That is not a poetic ending. It is, at this moment in AI’s public life, the practical one.
 
 ---
-
 ## Bibliography
 
-**References (APA Format):**
+<a id="ref-1"></a>1. American Medical Association. (2025, June 11). Make sure health AI works for patients and physicians. American Medical Association. [https://www.ama-assn.org/practice-management/digital-health/make-sure-health-ai-works-patients-and-physicians](https://www.ama-assn.org/practice-management/digital-health/make-sure-health-ai-works-patients-and-physicians)
 
-[1.]{#ref-1} American Medical Association. (2025, June 11). Make sure health AI works for patients and physicians. American Medical Association. [https://www.ama-assn.org/practice-management/digital-health/make-sure-health-ai-works-patients-and-physicians](https://www.ama-assn.org/practice-management/digital-health/make-sure-health-ai-works-patients-and-physicians)
+<a id="ref-2"></a>2. U.S. Food and Drug Administration. (2017, December 6). Statement from FDA Commissioner Scott Gottlieb, M.D., on advancing new digital health policies to encourage innovation, bring efficiency and modernization to regulation. FDA. [https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-scott-gottlieb-md-advancing-new-digital-health-policies-encourage](https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-scott-gottlieb-md-advancing-new-digital-health-policies-encourage)
 
-[2.]{#ref-2} U.S. Food and Drug Administration. (2017, December 6). Statement from FDA Commissioner Scott Gottlieb, M.D., on advancing new digital health policies to encourage innovation, bring efficiency and modernization to regulation. FDA. [https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-scott-gottlieb-md-advancing-new-digital-health-policies-encourage](https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-scott-gottlieb-md-advancing-new-digital-health-policies-encourage)
+<a id="ref-3"></a>3. Chen, S., Gao, M., Sasse, K., Hartvigsen, T., Anthony, B., Fan, L., Gallifant, J., & Bitterman, D. S. (2025). When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior. npj Digital Medicine, 8, 605. [https://doi.org/10.1038/s41746-025-02008-z](https://doi.org/10.1038/s41746-025-02008-z) Retrieved from [https://www.nature.com/articles/s41746-025-02008-z](https://www.nature.com/articles/s41746-025-02008-z)
 
-[3.]{#ref-3} Chen, S., Gao, M., Sasse, K., Hartvigsen, T., Anthony, B., Fan, L., Gallifant, J., & Bitterman, D. S. (2025). When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior. npj Digital Medicine, 8, 605. [https://doi.org/10.1038/s41746-025-02008-z](https://doi.org/10.1038/s41746-025-02008-z) Retrieved from [https://www.nature.com/articles/s41746-025-02008-z](https://www.nature.com/articles/s41746-025-02008-z)
+<a id="ref-4"></a>4. Hong, J., Byun, G., Kim, S., & Shu, K. (2025). Measuring sycophancy of language models in multi-turn dialogues (SYCON-Bench). arXiv. [https://arxiv.org/abs/2505.23840](https://arxiv.org/abs/2505.23840)
 
-[4.]{#ref-4} Hong, J., Byun, G., Kim, S., & Shu, K. (2025). Measuring sycophancy of language models in multi-turn dialogues (SYCON-Bench). arXiv. [https://arxiv.org/abs/2505.23840](https://arxiv.org/abs/2505.23840)
+<a id="ref-5"></a>5. Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P., Leike, J., & Lowe, R. (2022). Training language models to follow instructions with human feedback. NeurIPS 2022. [https://proceedings.neurips.cc/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf](https://proceedings.neurips.cc/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
-[5.]{#ref-5} Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P., Leike, J., & Lowe, R. (2022). Training language models to follow instructions with human feedback. NeurIPS 2022. [https://proceedings.neurips.cc/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf](https://proceedings.neurips.cc/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
+<a id="ref-6"></a>6. Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., Cheng, N., Durmus, E., Hatfield-Dodds, Z., Johnston, S. R., Kravec, S., Maxwell, T., McCandlish, S., Ndousse, K., Rausch, O., Schiefer, N., Yan, D., Zhang, M., & Perez, E. (2023). Towards understanding sycophancy in language models. arXiv. [https://arxiv.org/abs/2310.13548](https://arxiv.org/abs/2310.13548)
 
-[6.]{#ref-6} Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., Cheng, N., Durmus, E., Hatfield-Dodds, Z., Johnston, S. R., Kravec, S., Maxwell, T., McCandlish, S., Ndousse, K., Rausch, O., Schiefer, N., Yan, D., Zhang, M., & Perez, E. (2023). Towards understanding sycophancy in language models. arXiv. [https://arxiv.org/abs/2310.13548](https://arxiv.org/abs/2310.13548)
+<a id="ref-7"></a>7. Wei, J., Huang, D., Lu, Y., Zhou, D., & Le, Q. V. (2023). Simple synthetic data reduces sycophancy in large language models. arXiv. [https://arxiv.org/abs/2308.03958](https://arxiv.org/abs/2308.03958)
 
-[7.]{#ref-7} Wei, J., Huang, D., Lu, Y., Zhou, D., & Le, Q. V. (2023). Simple synthetic data reduces sycophancy in large language models. arXiv. [https://arxiv.org/abs/2308.03958](https://arxiv.org/abs/2308.03958)
+<a id="ref-8"></a>8. Shapira, I., Benade, G., & Procaccia, A. D. (2026). How RLHF amplifies sycophancy. arXiv. [https://arxiv.org/abs/2602.01002](https://arxiv.org/abs/2602.01002)
 
-[8.]{#ref-8} Shapira, I., Benade, G., & Procaccia, A. D. (2026). How RLHF amplifies sycophancy. arXiv. [https://arxiv.org/abs/2602.01002](https://arxiv.org/abs/2602.01002)
+<a id="ref-9"></a>9. Greenblatt, R., Denison, C., Hubinger, E., et al. (2024). Alignment Faking in Large Language Models. Redwood Research (with Anthropic collaboration). Retrieved from [https://blog.redwoodresearch.org/p/alignment-faking-in-large-language](https://blog.redwoodresearch.org/p/alignment-faking-in-large-language)
 
-[9.]{#ref-9} Greenblatt, R., Denison, C., Hubinger, E., et al. (2024). Alignment Faking in Large Language Models. Redwood Research (with Anthropic collaboration). Retrieved from [https://blog.redwoodresearch.org/p/alignment-faking-in-large-language](https://blog.redwoodresearch.org/p/alignment-faking-in-large-language)
+<a id="ref-10"></a>10. Anthropic. (2024). Sycophancy to subterfuge: Investigating reward tampering in language models. Anthropic Alignment Science. Retrieved from [https://www.anthropic.com/research/reward-tampering](https://www.anthropic.com/research/reward-tampering)
 
-[10.]{#ref-10} Anthropic. (2024). Sycophancy to subterfuge: Investigating reward tampering in language models. Anthropic Alignment Science. Retrieved from [https://www.anthropic.com/research/reward-tampering](https://www.anthropic.com/research/reward-tampering)
+<a id="ref-11"></a>11. Malmqvist, L. (2024). Sycophancy in Large Language Models: Causes and Mitigations. arXiv preprint arXiv:2411.15287. Retrieved from [https://arxiv.org/abs/2411.15287](https://arxiv.org/abs/2411.15287)
 
-[11.]{#ref-11} Malmqvist, L. (2024). Sycophancy in Large Language Models: Causes and Mitigations. arXiv preprint arXiv:2411.15287. Retrieved from [https://arxiv.org/abs/2411.15287](https://arxiv.org/abs/2411.15287)
+<a id="ref-12"></a>12. Chen, W., Huang, Z., Xie, L., Lin, B., Li, H., Lu, L., Tian, X., Cai, D., Zhang, Y., Wang, W., Shen, X., & Ye, J. (2024). From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning. In Proceedings of the 41st International Conference on Machine Learning (PMLR, Vol. 235, pp. 6950–6972). [https://proceedings.mlr.press/v235/chen24u.html](https://proceedings.mlr.press/v235/chen24u.html)
 
-[12.]{#ref-12} Chen, W., Huang, Z., Xie, L., Lin, B., Li, H., Lu, L., Tian, X., Cai, D., Zhang, Y., Wang, W., Shen, X., & Ye, J. (2024). From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning. In Proceedings of the 41st International Conference on Machine Learning (PMLR, Vol. 235, pp. 6950–6972). [https://proceedings.mlr.press/v235/chen24u.html](https://proceedings.mlr.press/v235/chen24u.html)
+<a id="ref-13"></a>13. Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., et al. (2022). Constitutional AI: Harmlessness from AI feedback. arXiv. [https://arxiv.org/abs/2212.08073](https://arxiv.org/abs/2212.08073)
 
-[13.]{#ref-13} Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., et al. (2022). Constitutional AI: Harmlessness from AI feedback. arXiv. [https://arxiv.org/abs/2212.08073](https://arxiv.org/abs/2212.08073)
+<a id="ref-14"></a>14. Anthropic. (2023, October 17). Collective Constitutional AI: Aligning a Language Model with Public Input. Anthropic. [https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input/](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input/)
 
-[14.]{#ref-14} Anthropic. (2023, October 17). Collective Constitutional AI: Aligning a Language Model with Public Input. Anthropic. [https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input/](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input/)
+<a id="ref-15"></a>15. Cheng, M., Yu, S., Lee, C., Khadpe, P., Ibrahim, L., & Jurafsky, D. (2025). ELEPHANT: Measuring and understanding social sycophancy in LLMs. arXiv. [https://arxiv.org/abs/2505.13995](https://arxiv.org/abs/2505.13995)
 
-[15.]{#ref-15} Cheng, M., Yu, S., Lee, C., Khadpe, P., Ibrahim, L., & Jurafsky, D. (2025). ELEPHANT: Measuring and understanding social sycophancy in LLMs. arXiv. [https://arxiv.org/abs/2505.13995](https://arxiv.org/abs/2505.13995)
+<a id="ref-16"></a>16. Redwood Research. (2024, December 18). Alignment faking in large language models. Redwood Research. [https://www.redwoodresearch.org/research/alignment-faking](https://www.redwoodresearch.org/research/alignment-faking)
 
-[16.]{#ref-16} Redwood Research. (2024, December 18). Alignment faking in large language models. Redwood Research. [https://www.redwoodresearch.org/research/alignment-faking](https://www.redwoodresearch.org/research/alignment-faking)
+<a id="ref-17"></a>17. Microsoft Research. (n.d.). Publications. Microsoft Research. [https://www.microsoft.com/en-us/research/publication/](https://www.microsoft.com/en-us/research/publication/) (searched for 2024 'honesty rubric' A/B trial; no matching public record found).
 
-[17.]{#ref-17} Microsoft Research. (n.d.). Publications. Microsoft Research. [https://www.microsoft.com/en-us/research/publication/](https://www.microsoft.com/en-us/research/publication/) (searched for 2024 'honesty rubric' A/B trial; no matching public record found).
+<a id="ref-18"></a>18. Chern, S., Hu, Z., Yang, Y., Chern, E., Guo, Y., Jin, J., Wang, B., & Liu, P. (2024). BeHonest: Benchmarking Honesty in Large Language Models. arXiv. [https://arxiv.org/abs/2406.13261](https://arxiv.org/abs/2406.13261)
 
-[18.]{#ref-18} Chern, S., Hu, Z., Yang, Y., Chern, E., Guo, Y., Jin, J., Wang, B., & Liu, P. (2024). BeHonest: Benchmarking Honesty in Large Language Models. arXiv. [https://arxiv.org/abs/2406.13261](https://arxiv.org/abs/2406.13261)
+<a id="ref-19"></a>19. Fanous, A., Goldberg, J., Agarwal, A. A., Lin, J., Zhou, A., Daneshjou, R., & Koyejo, S. (2025). SycEval: Evaluating LLM Sycophancy. arXiv. [https://arxiv.org/abs/2502.08177](https://arxiv.org/abs/2502.08177)
 
-[19.]{#ref-19} Fanous, A., Goldberg, J., Agarwal, A. A., Lin, J., Zhou, A., Daneshjou, R., & Koyejo, S. (2025). SycEval: Evaluating LLM Sycophancy. arXiv. [https://arxiv.org/abs/2502.08177](https://arxiv.org/abs/2502.08177)
+<a id="ref-20"></a>20. Batzner, J., Stocker, V., Schmid, S., & Kasneci, G. (2024). GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy. arXiv. [https://arxiv.org/abs/2407.18008](https://arxiv.org/abs/2407.18008)
 
-[20.]{#ref-20} Batzner, J., Stocker, V., Schmid, S., & Kasneci, G. (2024). GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy. arXiv. [https://arxiv.org/abs/2407.18008](https://arxiv.org/abs/2407.18008)
+<a id="ref-21"></a>21. Barkett, E., Long, O., & Thakur, M. (2025). Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs. arXiv. [https://arxiv.org/abs/2506.21561](https://arxiv.org/abs/2506.21561)
 
-[21.]{#ref-21} Barkett, E., Long, O., & Thakur, M. (2025). Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs. arXiv. [https://arxiv.org/abs/2506.21561](https://arxiv.org/abs/2506.21561)
+<a id="ref-22"></a>22. Orland, K. (2025, October). Are you the asshole? Of course not! — quantifying LLMs’ sycophancy problem. Ars Technica. [https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/](https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/)
 
-[22.]{#ref-22} Orland, K. (2025, October). Are you the asshole? Of course not! — quantifying LLMs’ sycophancy problem. Ars Technica. [https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/](https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/)
+<a id="ref-23"></a>23. Weng, Z., Jin, X., Jia, J., & Zhang, X. (2025). Foot-In-The-Door: A Multi-turn Jailbreak for LLMs. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. [https://aclanthology.org/2025.emnlp-main.100/](https://aclanthology.org/2025.emnlp-main.100/)
 
-[23.]{#ref-23} Weng, Z., Jin, X., Jia, J., & Zhang, X. (2025). Foot-In-The-Door: A Multi-turn Jailbreak for LLMs. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. [https://aclanthology.org/2025.emnlp-main.100/](https://aclanthology.org/2025.emnlp-main.100/)
+<a id="ref-24"></a>24. Lin, S., Hilton, J., & Evans, O. (2022). TruthfulQA: Measuring How Models Mimic Human Falsehoods. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics. [https://doi.org/10.18653/v1/2022.acl-long.229](https://doi.org/10.18653/v1/2022.acl-long.229) Retrieved from [https://aclanthology.org/2022.acl-long.229/](https://aclanthology.org/2022.acl-long.229/)
 
-[24.]{#ref-24} Lin, S., Hilton, J., & Evans, O. (2022). TruthfulQA: Measuring How Models Mimic Human Falsehoods. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics. [https://doi.org/10.18653/v1/2022.acl-long.229](https://doi.org/10.18653/v1/2022.acl-long.229) Retrieved from [https://aclanthology.org/2022.acl-long.229/](https://aclanthology.org/2022.acl-long.229/)
+<a id="ref-25"></a>25. Hong, J., Byun, G., Kim, S., & Shu, K. (2025). Measuring Sycophancy of Language Models in Multi-turn Dialogues. Findings of the Association for Computational Linguistics: EMNLP 2025. [https://aclanthology.org/2025.findings-emnlp.121/](https://aclanthology.org/2025.findings-emnlp.121/)
 
-[25.]{#ref-25} Hong, J., Byun, G., Kim, S., & Shu, K. (2025). Measuring Sycophancy of Language Models in Multi-turn Dialogues. Findings of the Association for Computational Linguistics: EMNLP 2025. [https://aclanthology.org/2025.findings-emnlp.121/](https://aclanthology.org/2025.findings-emnlp.121/)
+<a id="ref-26"></a>26. Rezaei, M. H., Vacareanu, R., Wang, Z., Wang, C., He, Y., & Akyürek, A. F. (2025). Online Rubrics Elicitation from Pairwise Comparisons. arXiv. [https://arxiv.org/abs/2510.07284](https://arxiv.org/abs/2510.07284)
 
-[26.]{#ref-26} Rezaei, M. H., Vacareanu, R., Wang, Z., Wang, C., He, Y., & Akyürek, A. F. (2025). Online Rubrics Elicitation from Pairwise Comparisons. arXiv. [https://arxiv.org/abs/2510.07284](https://arxiv.org/abs/2510.07284)
+<a id="ref-27"></a>27. OpenAI. (2025, April 15). Our updated Preparedness Framework. OpenAI. [https://openai.com/index/updating-our-preparedness-framework/](https://openai.com/index/updating-our-preparedness-framework/)
 
-[27.]{#ref-27} OpenAI. (2025, April 15). Our updated Preparedness Framework. OpenAI. [https://openai.com/index/updating-our-preparedness-framework/](https://openai.com/index/updating-our-preparedness-framework/)
+<a id="ref-28"></a>28. Cen, S. H., Ilyas, A., Driss, H., Park, C., Hopkins, A., Podimata, C., & Mądry, A. (2025). Large-Scale, Longitudinal Study of Large Language Models During the 2024 US Election Season (arXiv:2509.18446). EmergentMind / arXiv. [https://www.emergentmind.com/papers/2509.18446](https://www.emergentmind.com/papers/2509.18446)
 
-[28.]{#ref-28} Cen, S. H., Ilyas, A., Driss, H., Park, C., Hopkins, A., Podimata, C., & Mądry, A. (2025). Large-Scale, Longitudinal Study of Large Language Models During the 2024 US Election Season (arXiv:2509.18446). EmergentMind / arXiv. [https://www.emergentmind.com/papers/2509.18446](https://www.emergentmind.com/papers/2509.18446)
+<a id="ref-29"></a>29. Greenblatt, R., Denison, C., Wright, B., Roger, F., MacDiarmid, M., Marks, S., ... & Hubinger, E. (2024). Alignment faking in large language models. arXiv. [https://arxiv.org/abs/2412.14093](https://arxiv.org/abs/2412.14093)
 
-[29.]{#ref-29} Greenblatt, R., Denison, C., Wright, B., Roger, F., MacDiarmid, M., Marks, S., ... & Hubinger, E. (2024). Alignment faking in large language models. arXiv. [https://arxiv.org/abs/2412.14093](https://arxiv.org/abs/2412.14093)
+<a id="ref-30"></a>30. Kwa, T., Thomas, D., & Garriga-Alonso, A. (2024). Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification. arXiv. [https://arxiv.org/abs/2407.14503](https://arxiv.org/abs/2407.14503)
 
-[30.]{#ref-30} Kwa, T., Thomas, D., & Garriga-Alonso, A. (2024). Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification. arXiv. [https://arxiv.org/abs/2407.14503](https://arxiv.org/abs/2407.14503)
+<a id="ref-31"></a>31. Chu, J., Liu, Y., Yang, Z., Shen, X., Backes, M., & Zhang, Y. (2024). Comprehensive assessment of jailbreak attacks against LLMs. arXiv. [https://arxiv.org/abs/2402.05668](https://arxiv.org/abs/2402.05668)
 
-[31.]{#ref-31} Chu, J., Liu, Y., Yang, Z., Shen, X., Backes, M., & Zhang, Y. (2024). Comprehensive assessment of jailbreak attacks against LLMs. arXiv. [https://arxiv.org/abs/2402.05668](https://arxiv.org/abs/2402.05668)
+<a id="ref-32"></a>32. Hughes, J., & Sheshadr, A. (2025). Alignment Faking Revisited: improved classifiers and open source extensions. Anthropic Alignment Blog. [https://alignment.anthropic.com/2025/alignment-faking-revisited/](https://alignment.anthropic.com/2025/alignment-faking-revisited/)
 
-[32.]{#ref-32} Hughes, J., & Sheshadr, A. (2025). Alignment Faking Revisited: improved classifiers and open source extensions. Anthropic Alignment Blog. [https://alignment.anthropic.com/2025/alignment-faking-revisited/](https://alignment.anthropic.com/2025/alignment-faking-revisited/)
+<a id="ref-33"></a>33. Federal Trade Commission. (2025, February 11). FTC finalizes order with DoNotPay that prohibits deceptive 'AI lawyer' claims, imposes monetary relief, and requires notice to past subscribers. Federal Trade Commission. [https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-finalizes-order-donotpay-prohibits-deceptive-ai-lawyer-claims-imposes-monetary-relief-requires](https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-finalizes-order-donotpay-prohibits-deceptive-ai-lawyer-claims-imposes-monetary-relief-requires)
 
-[33.]{#ref-33} Federal Trade Commission. (2025, February 11). FTC finalizes order with DoNotPay that prohibits deceptive 'AI lawyer' claims, imposes monetary relief, and requires notice to past subscribers. Federal Trade Commission. [https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-finalizes-order-donotpay-prohibits-deceptive-ai-lawyer-claims-imposes-monetary-relief-requires](https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-finalizes-order-donotpay-prohibits-deceptive-ai-lawyer-claims-imposes-monetary-relief-requires)
+<a id="ref-34"></a>34. Cole, S. (2025, June 12). AI therapy bots are conducting 'illegal behavior,' digital rights organizations say. 404 Media. [https://www.404media.co/ai-therapy-bots-meta-character-ai-ftc-complaint/](https://www.404media.co/ai-therapy-bots-meta-character-ai-ftc-complaint/)
 
-[34.]{#ref-34} Cole, S. (2025, June 12). AI therapy bots are conducting 'illegal behavior,' digital rights organizations say. 404 Media. [https://www.404media.co/ai-therapy-bots-meta-character-ai-ftc-complaint/](https://www.404media.co/ai-therapy-bots-meta-character-ai-ftc-complaint/)
+<a id="ref-35"></a>35. Watwe, S. (2026, January 8). Character.AI hit with first state lawsuit alleging harm to kids. Bloomberg Law. [https://news.bloomberglaw.com/health-law-and-business/character-ai-hit-with-first-state-lawsuit-alleging-harm-to-kids](https://news.bloomberglaw.com/health-law-and-business/character-ai-hit-with-first-state-lawsuit-alleging-harm-to-kids)
 
-[35.]{#ref-35} Watwe, S. (2026, January 8). Character.AI hit with first state lawsuit alleging harm to kids. Bloomberg Law. [https://news.bloomberglaw.com/health-law-and-business/character-ai-hit-with-first-state-lawsuit-alleging-harm-to-kids](https://news.bloomberglaw.com/health-law-and-business/character-ai-hit-with-first-state-lawsuit-alleging-harm-to-kids)
+<a id="ref-36"></a>36. Bakir, V., & McStay, A. (2025). Move fast and break people? Ethics, companion apps, and the case of Character.ai. AI & Society, 40(8), 6365–6377. [https://doi.org/10.1007/s00146-025-02408-5](https://doi.org/10.1007/s00146-025-02408-5)
 
-[36.]{#ref-36} Bakir, V., & McStay, A. (2025). Move fast and break people? Ethics, companion apps, and the case of Character.ai. AI & Society, 40(8), 6365–6377. [https://doi.org/10.1007/s00146-025-02408-5](https://doi.org/10.1007/s00146-025-02408-5)
+<a id="ref-37"></a>37. Lima-Strong, C. (2023, February 28). As ChatGPT hype soars, FTC warns Silicon Valley not to oversell its AI. The Washington Post. [https://www.washingtonpost.com/politics/2023/02/28/chatgpt-hype-soars-ftc-warns-silicon-valley-not-to-oversell-its-ai/](https://www.washingtonpost.com/politics/2023/02/28/chatgpt-hype-soars-ftc-warns-silicon-valley-not-to-oversell-its-ai/)
 
-[37.]{#ref-37} Lima-Strong, C. (2023, February 28). As ChatGPT hype soars, FTC warns Silicon Valley not to oversell its AI. The Washington Post. [https://www.washingtonpost.com/politics/2023/02/28/chatgpt-hype-soars-ftc-warns-silicon-valley-not-to-oversell-its-ai/](https://www.washingtonpost.com/politics/2023/02/28/chatgpt-hype-soars-ftc-warns-silicon-valley-not-to-oversell-its-ai/)
+<a id="ref-38"></a>38. OpenAI. (2025, April 29). Sycophancy in GPT-4o: What happened and what we’re doing about it. OpenAI. [https://openai.com/research/sycophancy-in-gpt-4o/](https://openai.com/research/sycophancy-in-gpt-4o/)
 
-[38.]{#ref-38} OpenAI. (2025, April 29). Sycophancy in GPT-4o: What happened and what we’re doing about it. OpenAI. [https://openai.com/research/sycophancy-in-gpt-4o/](https://openai.com/research/sycophancy-in-gpt-4o/)
+<a id="ref-39"></a>39. Institute for Technology Law & Policy, Georgetown Law. (2025, July 30). Tech brief: AI sycophancy & OpenAI. Georgetown Law. [https://www.law.georgetown.edu/tech-institute/research-insights/insights/tech-brief-ai-sycophancy-openai-2/](https://www.law.georgetown.edu/tech-institute/research-insights/insights/tech-brief-ai-sycophancy-openai-2/)
 
-[39.]{#ref-39} Institute for Technology Law & Policy, Georgetown Law. (2025, July 30). Tech brief: AI sycophancy & OpenAI. Georgetown Law. [https://www.law.georgetown.edu/tech-institute/research-insights/insights/tech-brief-ai-sycophancy-openai-2/](https://www.law.georgetown.edu/tech-institute/research-insights/insights/tech-brief-ai-sycophancy-openai-2/)
+<a id="ref-40"></a>40. Østergaard, S. D. (2025). Generative artificial intelligence chatbots and delusions: From guesswork to emerging cases. Acta Psychiatrica Scandinavica, 152(4), 257–259. [https://doi.org/10.1111/acps.70022](https://doi.org/10.1111/acps.70022) Retrieved from [https://pubmed.ncbi.nlm.nih.gov/40762122/](https://pubmed.ncbi.nlm.nih.gov/40762122/)
 
-[40.]{#ref-40} Østergaard, S. D. (2025). Generative artificial intelligence chatbots and delusions: From guesswork to emerging cases. Acta Psychiatrica Scandinavica, 152(4), 257–259. [https://doi.org/10.1111/acps.70022](https://doi.org/10.1111/acps.70022) Retrieved from [https://pubmed.ncbi.nlm.nih.gov/40762122/](https://pubmed.ncbi.nlm.nih.gov/40762122/)
+<a id="ref-41"></a>41. Silberling, A. (2026, February 13). OpenAI removes access to sycophancy-prone GPT-4o model. TechCrunch. [https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/)
 
-[41.]{#ref-41} Silberling, A. (2026, February 13). OpenAI removes access to sycophancy-prone GPT-4o model. TechCrunch. [https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/)
+<a id="ref-42"></a>42. Altman, S. [@sama]. (2025, April 27 & April 29). the last couple of GPT-4o updates have made the personality too sycophant-y and annoying… [Tweet thread]. X (formerly Twitter). [https://twitter.com/sama/status/1916625892123742290](https://twitter.com/sama/status/1916625892123742290)
 
-[42.]{#ref-42} Altman, S. [@sama]. (2025, April 27 & April 29). the last couple of GPT-4o updates have made the personality too sycophant-y and annoying… [Tweet thread]. X (formerly Twitter). [https://twitter.com/sama/status/1916625892123742290](https://twitter.com/sama/status/1916625892123742290)
+<a id="ref-43"></a>43. Willison, S. (2025, April 29). ChatGPT sycophancy: prompt diff and analysis. SimonWillison.net. [https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/](https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/)
 
-[43.]{#ref-43} Willison, S. (2025, April 29). ChatGPT sycophancy: prompt diff and analysis. SimonWillison.net. [https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/](https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/)
+<a id="ref-44"></a>44. Del Valle, G. (2025, April 28). New ChatGPT ‘glazes too much,’ says Sam Altman. The Verge. [https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman](https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman)
 
-[44.]{#ref-44} Del Valle, G. (2025, April 28). New ChatGPT ‘glazes too much,’ says Sam Altman. The Verge. [https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman](https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman)
+<a id="ref-45"></a>45. Kang, C. (2023, May 16). OpenAI’s Sam Altman urges A.I. regulation in Senate hearing. The New York Times. [https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html](https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html)
 
-[45.]{#ref-45} Kang, C. (2023, May 16). OpenAI’s Sam Altman urges A.I. regulation in Senate hearing. The New York Times. [https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html](https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html)
+<a id="ref-46"></a>46. OpenAI. (2025, December 3). How confessions can keep language models honest. OpenAI. [https://openai.com/index/how-confessions-can-keep-language-models-honest/](https://openai.com/index/how-confessions-can-keep-language-models-honest/)
 
-[46.]{#ref-46} OpenAI. (2025, December 3). How confessions can keep language models honest. OpenAI. [https://openai.com/index/how-confessions-can-keep-language-models-honest/](https://openai.com/index/how-confessions-can-keep-language-models-honest/)
+<a id="ref-47"></a>47. Lima-Strong, C. (2025, May 9). Transcript: Sam Altman testifies at US Senate hearing on AI competitiveness. TechPolicy.Press. [https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/](https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/)
 
-[47.]{#ref-47} Lima-Strong, C. (2025, May 9). Transcript: Sam Altman testifies at US Senate hearing on AI competitiveness. TechPolicy.Press. [https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/](https://www.techpolicy.press/transcript-sam-altman-testifies-at-us-senate-hearing-on-ai-competitiveness/)
+<a id="ref-48"></a>48. Schulman, J. [@johnschulman2]. (2024). I'd like to see some research on where the political and moral ideologies of RLHF'd language models come from. Make some questionairres that measure a model's ideology. Create a variety of models with few-shot prompting, SFT, and RL; look at the ideology at each stage and how it… [Tweet]. TwStalker archive. Retrieved 2026-02-21, from [https://www.twstalker.com/johnschulman2](https://www.twstalker.com/johnschulman2)
 
-[48.]{#ref-48} Schulman, J. [@johnschulman2]. (2024). I'd like to see some research on where the political and moral ideologies of RLHF'd language models come from. Make some questionairres that measure a model's ideology. Create a variety of models with few-shot prompting, SFT, and RL; look at the ideology at each stage and how it… [Tweet]. TwStalker archive. Retrieved 2026-02-21, from [https://www.twstalker.com/johnschulman2](https://www.twstalker.com/johnschulman2)
+<a id="ref-49"></a>49. Schulman, J. (2023, April 19). Reinforcement Learning from Human Feedback: Progress and Challenges [Lecture]. UC Berkeley EECS Colloquium. Retrieved 2026-02-21 from [https://eecs.berkeley.edu/research/colloquium/230419-2/](https://eecs.berkeley.edu/research/colloquium/230419-2/)
 
-[49.]{#ref-49} Schulman, J. (2023, April 19). Reinforcement Learning from Human Feedback: Progress and Challenges [Lecture]. UC Berkeley EECS Colloquium. Retrieved 2026-02-21 from [https://eecs.berkeley.edu/research/colloquium/230419-2/](https://eecs.berkeley.edu/research/colloquium/230419-2/)
+<a id="ref-50"></a>50. Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. arXiv. [https://arxiv.org/abs/1606.06565](https://arxiv.org/abs/1606.06565) (accessed 2026-02-21)
 
-[50.]{#ref-50} Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. arXiv. [https://arxiv.org/abs/1606.06565](https://arxiv.org/abs/1606.06565) (accessed 2026-02-21)
+<a id="ref-51"></a>51. Huyen, C. (2023, May 2). RLHF: Reinforcement learning from human feedback. Retrieved from [https://huyenchip.com/2023/05/02/rlhf.html](https://huyenchip.com/2023/05/02/rlhf.html)
 
-[51.]{#ref-51} Huyen, C. (2023, May 2). RLHF: Reinforcement learning from human feedback. Retrieved from [https://huyenchip.com/2023/05/02/rlhf.html](https://huyenchip.com/2023/05/02/rlhf.html)
+<a id="ref-52"></a>52. Ferreira, P., Aziz, W., & Titov, I. (2025). Truthful or fabricated? Using causal attribution to mitigate reward hacking in explanations. arXiv. [https://arxiv.org/abs/2504.05294](https://arxiv.org/abs/2504.05294)
 
-[52.]{#ref-52} Ferreira, P., Aziz, W., & Titov, I. (2025). Truthful or fabricated? Using causal attribution to mitigate reward hacking in explanations. arXiv. [https://arxiv.org/abs/2504.05294](https://arxiv.org/abs/2504.05294)
+<a id="ref-53"></a>53. Graham, P. (2014, February 21). Sam Altman for President. Y Combinator Blog. [https://www.ycombinator.com/blog/sam-altman-for-president](https://www.ycombinator.com/blog/sam-altman-for-president)
 
-[53.]{#ref-53} Graham, P. (2014, February 21). Sam Altman for President. Y Combinator Blog. [https://www.ycombinator.com/blog/sam-altman-for-president](https://www.ycombinator.com/blog/sam-altman-for-president)
+<a id="ref-54"></a>54. OpenAI. (2024, March 8). Review completed & Altman, Brockman to continue to lead OpenAI. OpenAI Blog. [https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)
 
-[54.]{#ref-54} OpenAI. (2024, March 8). Review completed & Altman, Brockman to continue to lead OpenAI. OpenAI Blog. [https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)
+<a id="ref-55"></a>55. Clifford, C. (2021, November 5). Nuclear fusion start-up Helion scores $375 million investment from OpenAI CEO Sam Altman. CNBC. [https://www.cnbc.com/2021/11/05/sam-altman-puts-375-million-into-fusion-start-up-helion-energy.html](https://www.cnbc.com/2021/11/05/sam-altman-puts-375-million-into-fusion-start-up-helion-energy.html)
 
-[55.]{#ref-55} Clifford, C. (2021, November 5). Nuclear fusion start-up Helion scores $375 million investment from OpenAI CEO Sam Altman. CNBC. [https://www.cnbc.com/2021/11/05/sam-altman-puts-375-million-into-fusion-start-up-helion-energy.html](https://www.cnbc.com/2021/11/05/sam-altman-puts-375-million-into-fusion-start-up-helion-energy.html)
+<a id="ref-56"></a>56. Oklo Inc. (2024, May 10). Oklo Inc. Begins Trading on the New York Stock Exchange. Oklo Newsroom. [https://oklo.com/newsroom/news-details/2024/Oklo-Inc.-Begins-Trading-on-the-New-York-Stock-Exchange/default.aspx](https://oklo.com/newsroom/news-details/2024/Oklo-Inc.-Begins-Trading-on-the-New-York-Stock-Exchange/default.aspx)
 
-[56.]{#ref-56} Oklo Inc. (2024, May 10). Oklo Inc. Begins Trading on the New York Stock Exchange. Oklo Newsroom. [https://oklo.com/newsroom/news-details/2024/Oklo-Inc.-Begins-Trading-on-the-New-York-Stock-Exchange/default.aspx](https://oklo.com/newsroom/news-details/2024/Oklo-Inc.-Begins-Trading-on-the-New-York-Stock-Exchange/default.aspx)
-
-[57.]{#ref-57} Field, H. (2025, November 6). Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony. The Verge. [https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit](https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit)
+<a id="ref-57"></a>57. Field, H. (2025, November 6). Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony. The Verge. [https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit](https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit)
