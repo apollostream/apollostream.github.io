@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Making History?'
-published: false
+title: 'Made History?'
+published: true
 ---
 
 <a title="NASA, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Artemis_2_Trajectory.jpg"><img width="960" alt="Artemis 2 Trajectory" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Artemis_2_Trajectory.jpg/960px-Artemis_2_Trajectory.jpg"></a>
@@ -22,7 +22,10 @@ During this past month, I've substantially robustified the BFIH analysis methodo
 
 ### Today's Topic
 
-I was struck by the coverage of the Artemis II mission and the overwhelming hyperbole used by journalists and the members of the scientific community they interviewed. To me it was shameless promotion that elevated this mission well beyond its context in the history of human achievements regarding space travel and esp. directly wrt the Apollo missions to the moon more than 50 years ago.  What was going on with that?
+I was struck by the coverage of the Artemis II mission and the overwhelming hyperbole used by journalists and the members of the scientific community they interviewed.  What was going on with that?  To me it was shameless promotion that elevated this mission well beyond its context in the history of human achievements regarding space travel and esp. directly wrt the Apollo missions to the moon more than 50 years ago.
+
+![Apollo mission flight plan](../images/apollo_flightdiagram.jpg)
+*"NASA created this chart in 1967 to illustrate the flight path and key mission events for the upcoming Apollo missions to the Moon." Source: [NASA](https://science.nasa.gov/resource/apollo-mission-flight-plan-1967/)*
 
 The media coverage tone was so over the top and forgetful of Apollo that it made even me wonder if we'd actually landed on the moon. "Maybe it was staged ....", passed through my mind. And I even watched Apollo missions live, and have never bought into conspiracy theories.
 
