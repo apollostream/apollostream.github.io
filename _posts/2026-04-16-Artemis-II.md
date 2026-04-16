@@ -55,17 +55,6 @@ Below is the plain-language synopsis of the BFIH findings, and here is a link to
   width="100%"
   height="800"
 >
-  <iframe
-    src="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}"
-    width="100%"
-    height="800"
-    style="border:0;"
-  >
-    <p>
-      Your browser can’t display PDFs inline.
-      <a href="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}">Download the PDF instead</a>.
-    </p>
-  </iframe>
 </object>
 
 ---
