@@ -50,7 +50,7 @@ Below is the plain-language synopsis of the BFIH findings, and here is a link to
 <div align="center">⁂</div>
 
 <object
-  data="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}"
+  data="{{ '/assets/pdf/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="800"
