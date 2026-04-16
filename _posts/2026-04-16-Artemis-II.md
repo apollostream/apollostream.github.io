@@ -12,9 +12,9 @@ published: true
 
 ### Reservations
 
-I have paused posts as I reassessed the whole purpose and process. I'm increasingly uncomfortable with the notion of letting AI do our writing -- and to do our thinking as it chooses phrasing, emphasis, and so on -- especially in light of the extent to which these foundational LLMs having been built off of the intellectual property of people uncompensated for their creativity and effort and without their permission. I struggle with that but cannot deny how transformative these AI models are as tools to project our own creativity and productivity.
+I had paused posts as I reassessed the whole purpose and process. I'm increasingly uncomfortable with the notion of letting AI do our writing -- and to do our thinking as it chooses phrasing, emphasis, and so on -- especially in light of the extent to which these foundational LLMs having been built off of the intellectual property of people uncompensated for their creativity and effort and without their permission. I struggle with that but cannot deny how transformative these AI models are as tools to project our own creativity and productivity.
 
-Yet, I feel compelled to post BFIH analyses. They provide such a good demonstration of performing thorough, honest, critical thinking. So, I've chosen to post the more process-oriented synopsis from the BFIH analysis rather than the conclusion essay. For now, I've convinced myself that this is a valuable good for society. And, there's no stopping the AI train that's already left the station ....
+Yet, I resume. I feel compelled to post BFIH analyses. They provide such a good demonstration of performing thorough, honest, critical thinking. So, I've chosen to post the more process-oriented synopsis from the BFIH analysis rather than the conclusion essay. For now, I've convinced myself that this is a valuable good for society. And, there's no stopping the AI train that's already left the station ....
 
 ### The Process
 
@@ -29,7 +29,7 @@ I was struck by the coverage of the Artemis II mission and the overwhelming hype
 
 The media coverage tone was so over the top and forgetful of Apollo that it made even me wonder if we'd actually landed on the moon. "Maybe it was staged ....", passed through my mind. And I even watched Apollo missions live, and have never bought into conspiracy theories.
 
-I see this hyperbole in media commentary is pervading other aspects of our lives, too. I watched Rory McIlroy repeat as the PGA's Masters champion for the second year ina row: The announcer claimed, and later web headlines echoed, that he "made history" by repeating. He was the **FOURTH** person to do so!
+I see this hyperbole in media commentary is pervading other aspects of our lives, too. I watched Rory McIlroy repeat as the PGA's Masters champion for the second year in a row: The announcer claimed, and later web headlines echoed, that he "made history" by repeating. He was the **FOURTH** person to do so!
 
 Maybe this topic is "triggering" for me.  What did BFIH have to say?
 
@@ -49,7 +49,24 @@ Below is the plain-language synopsis of the BFIH findings, and here is a link to
 
 <div align="center">⁂</div>
 
-{% include pdf-embed.html src="/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf" height="900" %}
+<object
+  data="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="800"
+>
+  <iframe
+    src="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}"
+    width="100%"
+    height="800"
+    style="border:0;"
+  >
+    <p>
+      Your browser can’t display PDFs inline.
+      <a href="{{ '/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf' | relative_url }}">Download the PDF instead</a>.
+    </p>
+  </iframe>
+</object>
 
 ---
 
