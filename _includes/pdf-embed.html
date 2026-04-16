@@ -1,0 +1,17 @@
+<div class="pdf-wrap">
+  <object
+    data="{{ include.src | relative_url }}"
+    type="application/pdf"
+    class="pdf-frame"
+  >
+    <iframe
+      src="{{ include.src | relative_url }}"
+      width="100%"
+      height="{{ include.height | default: '800' }}"
+      style="border:0;"
+    ></iframe>
+    <p>
+      <a href="{{ include.src | relative_url }}">Download the PDF</a>
+    </p>
+  </object>
+</div>
