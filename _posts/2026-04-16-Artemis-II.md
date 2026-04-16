@@ -30,7 +30,7 @@ Below is the plain-language synopsis of the BFIH findings, which includes a link
 
 {% include LLM-Sycophancy_magazine_synopsis.md %}
 
-
+{% include pdf-embed.html src="/assets/pdfs/2026-04-16-Artemis-II-synopsis-explorer.pdf" height="900" %}
 
 ---
 
