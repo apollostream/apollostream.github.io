@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where's the Moral Compass?'
+title: 'Where is the Moral Compass?'
 published: true
 ---
 
@@ -16,7 +16,7 @@ As much as I'd prefer that politics were boring, the current administration goes
 
 **The proposition to analyze:**
 
-> **_"The contemporary Republican Party's dismissal of Pope Leo XIV's moral criticisms as 'just politics' represents selective instrumentalization of religion --treating religious authority as legitimate when it aligns with political goals but dismissing it as illegitimate political 'meddling' when it conflicts."_**
+> **_"The contemporary Republican Party's dismissal of Pope Leo XIV's moral criticisms as 'just politics' represents selective instrumentalization of religion -- treating religious authority as legitimate when it aligns with political goals but dismissing it as illegitimate political 'meddling' when it conflicts."_**
 
 **The upshot:** "Yes". But the authoritarian leader-worship angle is even scarier.
 
