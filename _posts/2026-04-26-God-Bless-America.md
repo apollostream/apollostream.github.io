@@ -10,15 +10,46 @@ published: false
 
 ---
 
-As much as I'd prefer that politics were boring, the current administration goes yet further beyond the pale.
+I often wonder: 
+
+- *If American history is unambiguous about the role, or lack thereof, that religion was intended to play in our democracy, then why aren't state laws in Texas, Louisiana, etc. that explicitly impose state-supported Christian doctrine summarily struck down by federal courts as unconstitutional?*
+- *Shouldn't it be trivially easy to present the legal arguments against such laws?*
+
+On its face, the principles taught by Jesus Christ don't alarm me, but institutionalizing them in American government is, by almost any standard, unconstitutional. That alarms me. But it's what's actually being institutionalized *in the __name__ of Jesus Christ* that really alarms me, because that diverges greatly from the principles that the New Testament of the Christian bible says Jesus Christ taught. And it diverges in ways that cause genuine harm.  
+
+So, I posed a series of questions to my Claude Code-built AI agent for BFIH (Bayesian Framework for Intellectual Honesty) in order to perform in-depth research into the topic.  First via a skill I co-created with Claude Code called `/investigate "<topic>"`, which invokes a BFIH-lite cursory investigation into the topic. Then, after the AI agent refined the propositions into hypothesis sets, I had it perform the full-fledged thorough BFIH research, analyses and report generation by invoking a custom Claude Code skill `/analyze "<topic>"` that I'd co-created.
+
+And I learned a lot.  **Not only the history but also the mechanics of how such large social issues are framed, financed, operationalized, and litigated in today's America.** Ultimately, I can't help but feel that the label "Christian" is being used as a means to a plutocratic end, and one lasting well beyond an electoral cycle ....
+
+## The Full Results
+
+In this post, I really hope you take the time to go deep. So, I've made available the two technical reports and all of the three styles of "synopsis" articles that I had the BFIH agent generate. The synopses generation, which I've implemented as a Claude Code skill `/synopsis --style <{explorer, gawande, atlantic}>`, summarizes the lengthy more technical `report.pdf` of each BFIH analysis. The synopsis styles adopt different tones in summarizing the same information from the `report.pdf` document of the analysis:
+
+- **`explorer`** -- a plain language walk-through of the thinking process used and encouraged in drawing your own conclusions.
+- **`gawande`** -- the AI attempt at famous contributor to *The New Yorker* Dr. Atul Gawande's style of drawing in a reader to help them understand complicated science facts without the complication.
+- **`atlantic`** -- the AI attempt at *The Atlantic* editorial tone compelling a reader to arrive at the inevitable conclusion drawn from the facts.
+
+Here's the link to the shared folder on Google Drive containing all of the reports on this topic:
+
+- [**"Christian-Nation"**](https://drive.google.com/drive/folders/18RuUGGHJxBmv0g9BFAE83iuuSm-OI7ae?usp=drive_link) -- Google Drive shared folder.
+
+Please, take time to read through the synopses, especially. The `explorer`-style synopses will walk you through the reasoning. However, I found the section **"Where Ideological Lenses Diverge"** in ["Church-and-State/synopsis-atlantic.pdf"](https://drive.google.com/file/d/1LcQbpFfSb9wbRTKQXrNyOE3D9aPYCcbv/view?usp=sharing) to be particularly thought-provoking. And, if you wish to go deeper and read the original source material for yourself, follow the links in the **"Recommended Reading"** sections of the `explorer`-style synopses.
+
+## The Primary Proposition
+
+Here's the Claude Code BFIH AI agent `explorer` synopsis of our analysis of the primary proposition.
+
+The full report is here: [BFIH Analysis Report auto_f4229a2a -- "Church-and-State/report.pdf"](https://drive.google.com/file/d/1aWqU1XT5ZqalRLbSGtMyhv9FW3-oMY_N/view?usp=sharing)
+
+
 
 ---
 
 **The proposition to analyze:**
 
-> **_"The contemporary Republican Party's dismissal of Pope Leo XIV's moral criticisms as 'just politics' represents selective instrumentalization of religion -- treating religious authority as legitimate when it aligns with political goals but dismissing it as illegitimate political 'meddling' when it conflicts."_**
+> **_"As of April 2026, the operational reality of religious establishment in the United States — produced by the convergence of post-Kennedy v. Bremerton (2022) Establishment Clause doctrine, the institutional infrastructure of Christian nationalism (Project 2025, the Federalist Society judicial pipeline, coordinated state legislative campaigns by Alliance Defending Freedom, Heritage Action, and the Family Research Council), and the political mobilization of conservative Christianity — materially exceeds the 1787-1791 framework’s permissions and operates with disproportionate adverse impact on religious minorities, LGBTQ+ persons, women’s reproductive autonomy, immigrants, and other marginalized populations."_**
 
-**The upshot:** "Yes". But the authoritarian leader-worship angle is even scarier.
+**The upshot:** "Yes".
 
 ---
 
@@ -29,20 +60,20 @@ Below is the plain-language synopsis of the BFIH findings, and here is a link to
 <div align="center">⁂</div>
 
 <object
-  data="{{ '/assets/pdf/2026-04-16-Pope-vs-GOP-synopsis-explorer.pdf' | relative_url }}"
+  data="{{ '/assets/pdf/2026-04-26-Church-and-State-synopsis-explorer.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="800"
 >
   <iframe
-    src="{{ '/assets/pdf/2026-04-16-Pope-vs-GOP-synopsis-explorer.pdf' | relative_url }}"
+    src="{{ '/assets/pdf/2026-04-26-Church-and-State-synopsis-explorer.pdf' | relative_url }}"
     width="100%"
     height="800"
     style="border:0;"
   >
     <p>
       Your browser can’t display PDFs inline.
-      <a href="{{ '/assets/pdf/2026-04-16-Pope-vs-GOP-synopsis-explorer.pdf' | relative_url }}">Download the PDF instead</a>.
+      <a href="{{ '/assets/pdf/2026-04-26-Church-and-State-synopsis-explorer.pdf' | relative_url }}">Download the PDF instead</a>.
     </p>
   </iframe>
 </object>
