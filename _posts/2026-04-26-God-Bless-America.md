@@ -1,21 +1,22 @@
 ---
 layout: post
 title: 'God Bless America'
-published: false
+published: true
 ---
 
-<a title="Edgar Beltrán, The Pillar, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_3_(3x4_cropped).png"><img width="500" alt="Pope Leo XIV during a meeting with the media on May 12, 2025" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/500px-Pope_Leo_XIV_3_%283x4_cropped%29.png"></a>
+![Church and State](../images/church-and-state-gemini-3-1-pro.png)
 
-*Pope Leo XIV in 2025 (Wikipedia Commons).*
+*The separation of church and state only exists up to the extent the judiciary will allow (generated in Perplexity AI by Gemini 3.1 Pro).*
 
 ---
 
 I often wonder: 
 
-- *If American history is unambiguous about the role, or lack thereof, that religion was intended to play in our democracy, then why aren't state laws in Texas, Louisiana, etc. that explicitly impose state-supported Christian doctrine summarily struck down by federal courts as unconstitutional?*
-- *Shouldn't it be trivially easy to present the legal arguments against such laws?*
+- *If American history is unambiguous about the role, or lack thereof, that religion was intended to play in our democracy, then why aren't state laws in Texas, Louisiana, etc. that explicitly impose state-supported Christian doctrine summarily struck down by federal courts as unconstitutional? Shouldn't it be trivially easy to present the legal arguments against such laws?*
 
-On its face, the principles taught by Jesus Christ don't alarm me, but institutionalizing them in American government is, by almost any standard, unconstitutional. That alarms me. But it's what's actually being institutionalized *in the __name__ of Jesus Christ* that really alarms me, because that diverges greatly from the principles that the New Testament of the Christian bible says Jesus Christ taught. And it diverges in ways that cause genuine harm.  
+On its face, the principles taught by Christianity's Jesus Christ don't alarm me, but institutionalizing them in American government is, by almost any standard, unconstitutional. The extent to which that institutionalizing is occuring? That alarms me. But it's what's actually being institutionalized *in the __name__ of Jesus Christ* that really alarms me because that diverges greatly from the principles taught by Jesus Christ, according to the Christian bible. And the divergence is in ways that cause genuine harm.  
+
+### Being Intellectually Honest
 
 So, I posed a series of questions to my Claude Code-built AI agent for BFIH (Bayesian Framework for Intellectual Honesty) in order to perform in-depth research into the topic.  First via a skill I co-created with Claude Code called `/investigate "<topic>"`, which invokes a BFIH-lite cursory investigation into the topic. Then, after the AI agent refined the propositions into hypothesis sets, I had it perform the full-fledged thorough BFIH research, analyses and report generation by invoking a custom Claude Code skill `/analyze "<topic>"` that I'd co-created.
 
@@ -35,7 +36,7 @@ Here's the link to the shared folder on Google Drive containing all of the repor
   - ["./Founding-of-America"](https://drive.google.com/drive/folders/1J6aVcWGnuEUDXiKYaSEDBqUgV3i2neQ8?usp=sharing)
   - ["./Church-and-State"](https://drive.google.com/drive/folders/1V4ixVsnmUQwv5-X_tbe0yPClxNzb2IFE?usp=sharing)
 
-This post features content from the second subfolder "Church-and-State". Please, take time to read through the synopses, especially. The `explorer`-style synopses will walk you through the reasoning. However, I found the section **"Where Ideological Lenses Diverge"** in ["Church-and-State/synopsis-atlantic.pdf"](https://drive.google.com/file/d/1LcQbpFfSb9wbRTKQXrNyOE3D9aPYCcbv/view?usp=sharing) to be particularly thought-provoking. And, if you wish to go deeper and read the original source material for yourself, follow the links in the recommended reading sections ("Your Reading List"/"Where to Read Further") of the `explorer`-style synopses.
+This post features content from the second subfolder "Church-and-State". Please, take time to read through the synopses. The `explorer`-style synopses will walk you through the reasoning, so they are especially important. However, I found the section **"Where Ideological Lenses Diverge"** in ["Church-and-State/synopsis-atlantic.pdf"](https://drive.google.com/file/d/1LcQbpFfSb9wbRTKQXrNyOE3D9aPYCcbv/view?usp=sharing) to be particularly thought-provoking: It helped me to better understand others' perspectives. And, if you wish to go deeper and read the original source material for yourself, follow the links in the recommended reading sections ("Your Reading List"/"Where to Read Further") of the `explorer`-style synopses.
 
 ### The Primary Proposition
 
