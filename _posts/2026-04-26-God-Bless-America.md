@@ -30,7 +30,7 @@ In this post, I really hope you take the time to go deep. So, I've made availabl
 - **`gawande`** -- the AI attempt at famous contributor to *The New Yorker* Dr. Atul Gawande's style of drawing in a reader to help them understand complicated science facts without the complication.
 - **`atlantic`** -- the AI attempt at *The Atlantic* editorial tone compelling a reader to arrive at the inevitable conclusion drawn from the facts.
 
-Here's the link to the shared folder on Google Drive containing all of the reports on this topic saved in 2 subfolders:
+Here's the link to the shared folder on Google Drive containing all of the reports on this topic saved in two subfolders:
 
 - [**"Christian-Nation"**](https://drive.google.com/drive/folders/18RuUGGHJxBmv0g9BFAE83iuuSm-OI7ae?usp=drive_link) -- Google Drive shared folder.
   - ["./Founding-of-America"](https://drive.google.com/drive/folders/1J6aVcWGnuEUDXiKYaSEDBqUgV3i2neQ8?usp=sharing)
