@@ -6,9 +6,10 @@ published: true
 
 ![Church and State](../images/church-and-state-gemini-3-1-pro.png)
 
-*The separation of church and state only exists up to the extent the judiciary will allow (generated in Perplexity AI by Gemini 3.1 Pro).*
+*The separation of church and state only exists up to the extent the judiciary will allow.* (generated in Perplexity AI by Gemini 3.1 Pro).
+
 <span style="font-size: 50%; color: gray;">
-(The top of the scale would seem, by perspective, to place the left pan farther from the viewer than the right pan; but when you look at the pans and compare placement of the pans, it seems that the left pan is closer to the viewer than is the right pan.)
+(The top of the scale would seem, by perspective, to place the left pan farther from the viewer than the right pan; but when you look at the pans and compare placement of them, it seems that the left pan is closer to the viewer than is the right pan.)
 </span>
 
 ---
