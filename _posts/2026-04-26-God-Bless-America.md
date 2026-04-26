@@ -21,7 +21,7 @@ So, I posed a series of questions to my Claude Code-built AI agent for BFIH (Bay
 
 And I learned a lot.  **Not only the history but also the mechanics of how such large social issues are framed, financed, operationalized, and litigated in today's America.** Ultimately, I can't help but feel that the label "Christian" is being used as a means to a plutocratic end, and one lasting well beyond an electoral cycle ....
 
-## The Full Results
+### The Full Results
 
 In this post, I really hope you take the time to go deep. So, I've made available the two technical reports and all of the three styles of "synopsis" articles that I had the BFIH agent generate. The synopses generation, which I've implemented as a Claude Code skill `/synopsis --style <{explorer, gawande, atlantic}>`, summarizes the lengthy more technical `report.pdf` of each BFIH analysis. The synopsis styles adopt different tones in summarizing the same information from the `report.pdf` document of the analysis:
 
@@ -29,15 +29,15 @@ In this post, I really hope you take the time to go deep. So, I've made availabl
 - **`gawande`** -- the AI attempt at famous contributor to *The New Yorker* Dr. Atul Gawande's style of drawing in a reader to help them understand complicated science facts without the complication.
 - **`atlantic`** -- the AI attempt at *The Atlantic* editorial tone compelling a reader to arrive at the inevitable conclusion drawn from the facts.
 
-Here's the link to the shared folder on Google Drive containing all of the reports on this topic:
+Here's the link to the shared folder on Google Drive containing all of the reports on this topic saved in 2 subfolders:
 
 - [**"Christian-Nation"**](https://drive.google.com/drive/folders/18RuUGGHJxBmv0g9BFAE83iuuSm-OI7ae?usp=drive_link) -- Google Drive shared folder.
+  - ["./Founding-of-America"](https://drive.google.com/drive/folders/1J6aVcWGnuEUDXiKYaSEDBqUgV3i2neQ8?usp=sharing)
+  - ["./Church-and-State"](https://drive.google.com/drive/folders/1V4ixVsnmUQwv5-X_tbe0yPClxNzb2IFE?usp=sharing)
 
-Please, take time to read through the synopses, especially. The `explorer`-style synopses will walk you through the reasoning. However, I found the section **"Where Ideological Lenses Diverge"** in ["Church-and-State/synopsis-atlantic.pdf"](https://drive.google.com/file/d/1LcQbpFfSb9wbRTKQXrNyOE3D9aPYCcbv/view?usp=sharing) to be particularly thought-provoking. And, if you wish to go deeper and read the original source material for yourself, follow the links in the **"Recommended Reading"** sections of the `explorer`-style synopses.
+This post features content from the second subfolder "Church-and-State". Please, take time to read through the synopses, especially. The `explorer`-style synopses will walk you through the reasoning. However, I found the section **"Where Ideological Lenses Diverge"** in ["Church-and-State/synopsis-atlantic.pdf"](https://drive.google.com/file/d/1LcQbpFfSb9wbRTKQXrNyOE3D9aPYCcbv/view?usp=sharing) to be particularly thought-provoking. And, if you wish to go deeper and read the original source material for yourself, follow the links in the recommended reading sections ("Your Reading List"/"Where to Read Further") of the `explorer`-style synopses.
 
-## The Primary Proposition
-
-Here's the Claude Code BFIH AI agent `explorer` synopsis of our analysis of the primary proposition.
+### The Primary Proposition
 
 ---
 
@@ -49,9 +49,9 @@ Here's the Claude Code BFIH AI agent `explorer` synopsis of our analysis of the 
 
 ---
 
-### Synopsis
+### Synopsis to Guide Critical Thinking on the Topic
 
-Below is the plain-language `explorer`-style synopsis of the BFIH findings.
+Below is the plain-language `explorer`-style synopsis of the BFIH findings. It may not change your mind but hopefully it helps you think about the topic more critically and with intellectual honesty.
 
 (The full report is here: [BFIH Analysis Report auto_f4229a2a -- "Church-and-State/report.pdf"](https://drive.google.com/file/d/1aWqU1XT5ZqalRLbSGtMyhv9FW3-oMY_N/view?usp=sharing).)
 
