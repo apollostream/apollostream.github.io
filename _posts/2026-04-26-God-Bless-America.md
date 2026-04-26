@@ -39,10 +39,6 @@ Please, take time to read through the synopses, especially. The `explorer`-style
 
 Here's the Claude Code BFIH AI agent `explorer` synopsis of our analysis of the primary proposition.
 
-The full report is here: [BFIH Analysis Report auto_f4229a2a -- "Church-and-State/report.pdf"](https://drive.google.com/file/d/1aWqU1XT5ZqalRLbSGtMyhv9FW3-oMY_N/view?usp=sharing)
-
-
-
 ---
 
 **The proposition to analyze:**
@@ -55,7 +51,9 @@ The full report is here: [BFIH Analysis Report auto_f4229a2a -- "Church-and-Stat
 
 ### Synopsis
 
-Below is the plain-language synopsis of the BFIH findings, and here is a link to the [full BFIH analysis technical report](https://drive.google.com/file/d/1gqgm82UMDKL4eLSQwnWdd-llH3HAhNAy/view?usp=sharing).
+Below is the plain-language `explorer`-style synopsis of the BFIH findings.
+
+(The full report is here: [BFIH Analysis Report auto_f4229a2a -- "Church-and-State/report.pdf"](https://drive.google.com/file/d/1aWqU1XT5ZqalRLbSGtMyhv9FW3-oMY_N/view?usp=sharing).)
 
 <div align="center">⁂</div>
 
