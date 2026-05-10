@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Abs Brain Cleanse'
-published: false
+published: true
 ---
 
-![Church and State](../images/church-and-state-gemini-3-1-pro.png)
+![Church and State](../images/Abs-Brain-Cleanse.png)
 
-*Don't believe everything you read on the internet.* (generated in Perplexity AI by Gemini 3.1 Pro).
+*Intriguing abs-to-brain connection, but don't believe everything you read on the internet.* (generated in Perplexity AI by Gemini 3.1 Pro).
 
 ---
 
@@ -14,7 +14,7 @@ When I read that just flexing your abs now and then was a great way to "cleanse 
 
 Yeah, amazing and too good to be true.  I set BFIH to sort through the evidence and see if there was something real behind the claim. What resulted was the discovery of an internet game of Telegraph: the original researchers measured something on mice, their results were extrapolated in the press, and the internet ran with it as the best sort of click-bait.
 
-Oh, well, maybe further research will prove out the rumor's claim.  Until then, it's still not a bad idea to get a few crunches in when you can.
+Oh, well, maybe further research will prove out the rumor's claim.  Until then, it's still not a bad idea to get a few crunches in when you can. Most of all, according to a wealth of research, get your sleep, and sleep well to cleanse your brain.
 
 ### The Primary Proposition
 
@@ -30,10 +30,10 @@ Oh, well, maybe further research will prove out the rumor's claim.  Until then, 
 
 ### Synopsis to Guide Critical Thinking on the Topic
 
-Embedded below is the plain-language `Atlantic`-style synopsis. And here are links to a more thorough `explorer`-style to help cultivate critical thinking and the full-blown BFIH report:
+Embedded below is the plain-language `Atlantic`-style synopsis. And here are links to a more thorough `explorer`-style synopsis to help cultivate critical thinking and to the full-blown BFIH report:
 
-- The `explorer`-style synopsis is here: [BFIH synopsis -- "Abs-Brain-Cleanse_synopsis_explorer.pdf"](https://drive.google.com/file/d/1jDaxrsYQHB5ic4cZL94ohgEkjIaW7QuQ/view?usp=sharing).
-- The full report is here: [BFIH Analysis Report -- "bs-Brain-Cleanse_synopsis_report.pdf"](https://drive.google.com/file/d/1Z3UlHBdQYAQHAhcf4kjYpeqqShNzUYyG/view?usp=sharing).
+- [BFIH synopsis -- "Abs-Brain-Cleanse_synopsis_explorer.pdf"](https://drive.google.com/file/d/1jDaxrsYQHB5ic4cZL94ohgEkjIaW7QuQ/view?usp=sharing).
+- [BFIH Analysis Report -- "Abs-Brain-Cleanse_report.pdf"](https://drive.google.com/file/d/1Z3UlHBdQYAQHAhcf4kjYpeqqShNzUYyG/view?usp=sharing).
 
 <div align="center">⁂</div>
 
