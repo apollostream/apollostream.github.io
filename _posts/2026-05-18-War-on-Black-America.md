@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Conservatism Needn't Be Racist, ..."
-published: false
+published: true
 ---
 
 ![March on Washington](../images/March-on-Washington-1963-Gordon-Parks-d006b9a182a2fa1e314c4f632a588a41.jpeg)
 
-*The March on Washington, 1963.* ([The Gordon Parks Foundation](https://www.gordonparksfoundation.org/exhibitions/gallery-exhibitions/higher-ground/selected-works?view=slider#3)).
+*The March on Washington, 1963.* (Gordon Parks, [The Gordon Parks Foundation](https://www.gordonparksfoundation.org/exhibitions/gallery-exhibitions/higher-ground/selected-works?view=slider#3)).
 
 ---
 
-Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own federal government, which since the 1960's and the Civil Rights movement has served as a constitutional bulwark against aggressively racist local and state governments, as well as direct violence from our fellow non-Black citizens they jointly represent. But, now, the security of our lives is threatened directly in physical attacks by those fellow citizens emboldened by the overt sanctioning of persecution by officials at all levels of government -- not everywhere, but demonstrably greater than prior to the current presidential administration, which has signalled a sea change in racial justice. This is consistent with American history. Such attacks by individuals increase in times when institutional protections and legal recourse disappear. 
+Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own federal government, which since the 1960's and the Civil Rights movement has served as a constitutional bulwark against aggressively racist local and state governments, as well as direct violence from our fellow non-Black citizens they jointly represent. But, now, the security of our lives is threatened directly in physical attacks by those fellow citizens emboldened by the overt sanctioning of persecution by officials at all levels of government -- not everywhere, but demonstrably to a greater extent than prior to the current presidential administration, which has signaled a sea change in racial justice. This is consistent with American history. Such attacks by individuals increase in times when institutional protections and legal recourse for the attacked disappear. 
 
-It helps to examine such times clearly and within the context of American history. There are a lot of moving parts, but I addressed one facet through a Claude Code-powered BFIH analysis. The intent was to help me to maaintain a clear head on the subject and possibly help to navigate the perils we're personally facing as a non-white family in an increasingly anti-Black civic climate. 
+It helps to examine such times clearly and within the context of American history. There are a lot of moving parts, but I addressed one facet through a Claude Code-powered BFIH analysis. The intent was to help me to maintain a clear head on the subject and possibly help to navigate the perils we're personally facing as a non-white family in an increasingly anti-Black civic climate. 
 
-The analysis parsed a trove of evidence to determine the extent to which Conservatism ("architecture"), racism ("animus"), some combination of the two, or something else entirely different best explained the entirety of the evidence arising out of the current presidential administration, its party, and its supporters. 
+The analysis parsed a trove of evidence to determine the extent to which [conservatism](https://en.wikipedia.org/wiki/Conservatism) ("architecture"), racism ("animus"), some combination of the two, or something else entirely different best explained the entirety of the evidence arising out of the current presidential administration, its party, and its supporters. 
 
 I'd sought cause for ease of mind. It did not offer comfort.
 
