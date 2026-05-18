@@ -10,9 +10,13 @@ published: false
 
 ---
 
-Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own government again, and as in the past, it's threatening the security of our lives directly in physical attacks by white Americans emboldened by the overt sanctioning by federal officials. This is consistent with history. Such attacks increase in times when institutional protections and legal recourse disappear. 
+Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own federal government, which since the 1960's and the Civil Rights movement has served as a constitutional bulwark against agressively racist local and state governments, as well as direct violence from our fellow non-Black citizens they jointly represent. But, now, the security of our lives is threatened directly in physical attacks by those fellow citizens emboldened by the overt sanctioning of persecution by officials at all levels of government -- not everywhere, but demonstrably greater than prior to the current presidential administration, which has signalled a sea change in racial justice. This is consistent with American history. Such attacks by individuals increase in times when institutional protections and legal recourse disappear. 
 
-It helps to examine such times clearly and within the context of American history. I did a Claude Code-powered BFIH analysis to help me to maaintain a clear head on the subject and possibly help to navigate the perils we're personally facing. The analysis parsed a trove of evidence to determine the extent to which Conservatism ("architecture"), racism ("animus"), some combination of the two, or something else entirely different best explained the entirety of the evidence. I'd sought cause for ease of mind. It did not offer comfort.
+It helps to examine such times clearly and within the context of American history. There are a lot of moving parts, but I addressed one facet through a Claude Code-powered BFIH analysis. The intent was to help me to maaintain a clear head on the subject and possibly help to navigate the perils we're personally facing as a non-white family in an increasingly anti-Black civic climate. 
+
+The analysis parsed a trove of evidence to determine the extent to which Conservatism ("architecture"), racism ("animus"), some combination of the two, or something else entirely different best explained the entirety of the evidence arising out of the current presidential administration, its party, and its supporters. 
+
+I'd sought cause for ease of mind. It did not offer comfort.
 
 __Here's the concluding excerpt from *The Atlantic*-style synopsis of this intellectually honest analysis:__
 
