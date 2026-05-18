@@ -4,9 +4,9 @@ title: "Conservatism Needn't Be Racist, ..."
 published: false
 ---
 
-![Church and State](../images/Abs-Brain-Cleanse.png)
+![March on Washington](../images/March-on-Washington-1963-Gordon-Parks-d006b9a182a2fa1e314c4f632a588a41.jpeg)
 
-*Intriguing abs-to-brain connection, but don't believe everything you read on the internet.* (generated in Perplexity AI by Gemini 3.1 Pro).
+*The March on Washington, 1963.* ([The Gordon Parks Foundation](https://www.gordonparksfoundation.org/exhibitions/gallery-exhibitions/higher-ground/selected-works?view=slider#3)).
 
 ---
 
