@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conservatism Doesn't Explain Racism"
+title: "Conservatism Needn't Be Racist, ..."
 published: false
 ---
 
@@ -10,9 +10,9 @@ published: false
 
 ---
 
-Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own government again, and as in the past, it's threatening the security of our lives directly in physical attacks by white Americans emboldened by the overt sanctioning by federal officials. Consistent with history, such attacks increase in times when no institutional protections nor legal recourse exist. 
+Sombering times for me and my family, immediate and extended. We, as Black Americans, feel under siege by our own government again, and as in the past, it's threatening the security of our lives directly in physical attacks by white Americans emboldened by the overt sanctioning by federal officials. This is consistent with history. Such attacks increase in times when institutional protections and legal recourse disappear. 
 
-It helps to examine such times clearly and within the context of American history. I did this BFIH analysis 10 days ago to help me to maaintain a clear head. It parsed a trove of evidence to determine the extent to which Conservatism ("architecture"), racism ("animus"), some combination of the two, or something else entirely better explained the entirety of the evidence. I'd sought cause for ease of mind. It did not offer comfort.
+It helps to examine such times clearly and within the context of American history. I did a Claude Code-powered BFIH analysis to help me to maaintain a clear head on the subject and possibly help to navigate the perils we're personally facing. The analysis parsed a trove of evidence to determine the extent to which Conservatism ("architecture"), racism ("animus"), some combination of the two, or something else entirely different best explained the entirety of the evidence. I'd sought cause for ease of mind. It did not offer comfort.
 
 __Here's the concluding excerpt from *The Atlantic*-style synopsis of this intellectually honest analysis:__
 
@@ -38,7 +38,7 @@ __Here's the concluding excerpt from *The Atlantic*-style synopsis of this intel
 
 ### Synopsis to Guide Critical Thinking on the Topic
 
-Embedded below is the plain-language synopsis. And here are the links to the more strident `Atlantic`-style synopsis and to the full-blown BFIH report:
+Embedded below is the plain-language synopsis. And here are the links to the `Atlantic`-style synopsis and to the full-blown BFIH report:
 
 - [BFIH synopsis -- "synopsis_atlantic.pdf"](https://drive.google.com/file/d/1OXEHuf891IvdtyoDnOOo0brNLbSStpWE/view?usp=sharing).
 - [BFIH Analysis Report -- "report.pdf"](https://drive.google.com/file/d/1Kc6E0nC6Mj6mOxGcuudhhbQdkm55__eG/view?usp=sharing).
